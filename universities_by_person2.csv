@@ -1,0 +1,2497 @@
+﻿FirstName,LastName,PersonPostalCode,UniversityName,UniversityPostalCode,DistanceKM
+Jane,Campbell,L6H1M4,Acadia University,B4P2R6,1232
+Jane,Campbell,L6H1M4,Athabasca University,T9S3A3,2709
+Jane,Campbell,L6H1M4,Bishop's University,J1M1Z7,658
+Jane,Campbell,L6H1M4,Brandon University,R7A6A9,1691
+Jane,Campbell,L6H1M4,British Columbia Institute of Technology,V5G3H2,3335
+Jane,Campbell,L6H1M4,Brock University,L2S3A1,53
+Jane,Campbell,L6H1M4,Canadian Mennonite University,R3P2N2,1506
+Jane,Campbell,L6H1M4,Carleton University,K1S5B6,384
+Jane,Campbell,L6H1M4,College of New Caledonia,V2N1P8,3317
+Jane,Campbell,L6H1M4,College of the Rockies,V1C5L7,2811
+Jane,Campbell,L6H1M4,Columbia College,V6A0C1,3341
+Jane,Campbell,L6H1M4,Concordia University,H3G1M8,535
+Jane,Campbell,L6H1M4,Conestoga College,N2G4M4,63
+Jane,Campbell,L6H1M4,Dalhousie University,B3H4R2,1293
+Jane,Campbell,L6H1M4,Douglas College,V3M5Z5,3331
+Jane,Campbell,L6H1M4,Durham College,L1G0C5,83
+Jane,Campbell,L6H1M4,Ecole des Hautes Etudes Commerciales,H3T2A7,532
+Jane,Campbell,L6H1M4,"Ecole Polytechnique de Montreal, Universite de Montreal",H3T1J4,532
+Jane,Campbell,L6H1M4,Emily Carr Institute of Art + Design,V5T0H2,3342
+Jane,Campbell,L6H1M4,King's University College,T6B2H3,2690
+Jane,Campbell,L6H1M4,Lakehead University,P7B5E1,961
+Jane,Campbell,L6H1M4,McGill University,H3A0G4,536
+Jane,Campbell,L6H1M4,McMaster University,L8S4L8,30
+Jane,Campbell,L6H1M4,Memorial University of Newfoundland,A1C5S7,2143
+Jane,Campbell,L6H1M4,Mount Allison University,E4L1E2,1239
+Jane,Campbell,L6H1M4,Mount Royal College,T3E6K6,2703
+Jane,Campbell,L6H1M4,Mount Saint Vincent University,B3M2J6,1287
+Jane,Campbell,L6H1M4,Nicola Valley Institute of Technology,V1K1R1,3170
+Jane,Campbell,L6H1M4,Nipissing University,P1B8L7,317
+Jane,Campbell,L6H1M4,Queen's University,K7L3N6,278
+Jane,Campbell,L6H1M4,Ryerson University,M5B2K3,33
+Jane,Campbell,L6H1M4,Simon Fraser University,V5A1S6,3330
+Jane,Campbell,L6H1M4,St. Francis Xavier University,B2G2W5,1420
+Jane,Campbell,L6H1M4,Trent University,L1J5Y1,80
+Jane,Campbell,L6H1M4,Universite de Montreal,H3T1J4,532
+Jane,Campbell,L6H1M4,Universite de Sherbrooke,J1K2R1,652
+Jane,Campbell,L6H1M4,Universite Laval,G1V0A6,755
+Jane,Campbell,L6H1M4,University of Alberta,T6G2R3,2697
+Jane,Campbell,L6H1M4,University of British Columbia,V6T1Z4,3320
+Jane,Campbell,L6H1M4,University of Calgary,T2N1N4,2700
+Jane,Campbell,L6H1M4,University of Guelph,N1G2W1,42
+Jane,Campbell,L6H1M4,University of Lethbridge,T1K3M4,2600
+Jane,Campbell,L6H1M4,University of Manitoba,R3T2N2,1501
+Jane,Campbell,L6H1M4,University of Moncton,E1A3E9,1217
+Jane,Campbell,L6H1M4,University of New Brunswick,E3B5A3,1062
+Jane,Campbell,L6H1M4,University of Northern British Columbia,V2N4Z9,3317
+Jane,Campbell,L6H1M4,University of Ontario Institute of Technology,L1G0C5,83
+Jane,Campbell,L6H1M4,University of Ottawa,K1N6N5,385
+Jane,Campbell,L6H1M4,University of Prince Edward Island,C1A4P3,1348
+Jane,Campbell,L6H1M4,University of Quebec,G1K9H7,761
+Jane,Campbell,L6H1M4,University of Regina,S4S0A2,2029
+Jane,Campbell,L6H1M4,University of Saskatchewan,S7N5A2,2210
+Jane,Campbell,L6H1M4,University of Toronto,M5S1A1,32
+Jane,Campbell,L6H1M4,"University of Toronto, Mississauga",L5L1C6,6
+Jane,Campbell,L6H1M4,"University of Toronto, Scarborough",M1C1A4,56
+Jane,Campbell,L6H1M4,University of Victoria,V8P5C2,3369
+Jane,Campbell,L6H1M4,University of Waterloo,N2L3G1,67
+Jane,Campbell,L6H1M4,University of Western Ontario,N6A3K7,137
+Jane,Campbell,L6H1M4,University of Windsor,N9B3P4,303
+Jane,Campbell,L6H1M4,University of Winnipeg,R3B2E9,1503
+Jane,Campbell,L6H1M4,Wilfrid Laurier University,N2L3C5,67
+Jane,Campbell,L6H1M4,William and Catherine Booth College,R3B2P2,1503
+Jane,Campbell,L6H1M4,York University,M3J1P3,36
+Jane,Campbell,L6H1M4,Yukon College,Y1A5K4,4078
+Joe,Andersson,N9A1Z2,Acadia University,B4P2R6,1532
+Joe,Andersson,N9A1Z2,Athabasca University,T9S3A3,2599
+Joe,Andersson,N9A1Z2,Bishop's University,J1M1Z7,963
+Joe,Andersson,N9A1Z2,Brandon University,R7A6A9,1552
+Joe,Andersson,N9A1Z2,British Columbia Institute of Technology,V5G3H2,3160
+Joe,Andersson,N9A1Z2,Brock University,L2S3A1,325
+Joe,Andersson,N9A1Z2,Canadian Mennonite University,R3P2N2,1383
+Joe,Andersson,N9A1Z2,Carleton University,K1S5B6,688
+Joe,Andersson,N9A1Z2,College of New Caledonia,V2N1P8,3183
+Joe,Andersson,N9A1Z2,College of the Rockies,V1C5L7,2639
+Joe,Andersson,N9A1Z2,Columbia College,V6A0C1,3167
+Joe,Andersson,N9A1Z2,Concordia University,H3G1M8,841
+Joe,Andersson,N9A1Z2,Conestoga College,N2G4M4,249
+Joe,Andersson,N9A1Z2,Dalhousie University,B3H4R2,1590
+Joe,Andersson,N9A1Z2,Douglas College,V3M5Z5,3156
+Joe,Andersson,N9A1Z2,Durham College,L1G0C5,388
+Joe,Andersson,N9A1Z2,Ecole des Hautes Etudes Commerciales,H3T2A7,838
+Joe,Andersson,N9A1Z2,"Ecole Polytechnique de Montreal, Universite de Montreal",H3T1J4,838
+Joe,Andersson,N9A1Z2,Emily Carr Institute of Art + Design,V5T0H2,3167
+Joe,Andersson,N9A1Z2,King's University College,T6B2H3,2565
+Joe,Andersson,N9A1Z2,Lakehead University,P7B5E1,899
+Joe,Andersson,N9A1Z2,McGill University,H3A0G4,842
+Joe,Andersson,N9A1Z2,McMaster University,L8S4L8,280
+Joe,Andersson,N9A1Z2,Memorial University of Newfoundland,A1C5S7,2447
+Joe,Andersson,N9A1Z2,Mount Allison University,E4L1E2,1542
+Joe,Andersson,N9A1Z2,Mount Royal College,T3E6K6,2548
+Joe,Andersson,N9A1Z2,Mount Saint Vincent University,B3M2J6,1584
+Joe,Andersson,N9A1Z2,Nicola Valley Institute of Technology,V1K1R1,3003
+Joe,Andersson,N9A1Z2,Nipissing University,P1B8L7,535
+Joe,Andersson,N9A1Z2,Queen's University,K7L3N6,583
+Joe,Andersson,N9A1Z2,Ryerson University,M5B2K3,338
+Joe,Andersson,N9A1Z2,Simon Fraser University,V5A1S6,3156
+Joe,Andersson,N9A1Z2,St. Francis Xavier University,B2G2W5,1722
+Joe,Andersson,N9A1Z2,Trent University,L1J5Y1,386
+Joe,Andersson,N9A1Z2,Universite de Montreal,H3T1J4,838
+Joe,Andersson,N9A1Z2,Universite de Sherbrooke,J1K2R1,957
+Joe,Andersson,N9A1Z2,Universite Laval,G1V0A6,1060
+Joe,Andersson,N9A1Z2,University of Alberta,T6G2R3,2572
+Joe,Andersson,N9A1Z2,University of British Columbia,V6T1Z4,3147
+Joe,Andersson,N9A1Z2,University of Calgary,T2N1N4,2546
+Joe,Andersson,N9A1Z2,University of Guelph,N1G2W1,271
+Joe,Andersson,N9A1Z2,University of Lethbridge,T1K3M4,2431
+Joe,Andersson,N9A1Z2,University of Manitoba,R3T2N2,1377
+Joe,Andersson,N9A1Z2,University of Moncton,E1A3E9,1521
+Joe,Andersson,N9A1Z2,University of New Brunswick,E3B5A3,1365
+Joe,Andersson,N9A1Z2,University of Northern British Columbia,V2N4Z9,3183
+Joe,Andersson,N9A1Z2,University of Ontario Institute of Technology,L1G0C5,388
+Joe,Andersson,N9A1Z2,University of Ottawa,K1N6N5,690
+Joe,Andersson,N9A1Z2,University of Prince Edward Island,C1A4P3,1652
+Joe,Andersson,N9A1Z2,University of Quebec,G1K9H7,1066
+Joe,Andersson,N9A1Z2,University of Regina,S4S0A2,1883
+Joe,Andersson,N9A1Z2,University of Saskatchewan,S7N5A2,2083
+Joe,Andersson,N9A1Z2,University of Toronto,M5S1A1,337
+Joe,Andersson,N9A1Z2,"University of Toronto, Mississauga",L5L1C6,310
+Joe,Andersson,N9A1Z2,"University of Toronto, Scarborough",M1C1A4,361
+Joe,Andersson,N9A1Z2,University of Victoria,V8P5C2,3188
+Joe,Andersson,N9A1Z2,University of Waterloo,N2L3G1,247
+Joe,Andersson,N9A1Z2,University of Western Ontario,N6A3K7,170
+Joe,Andersson,N9A1Z2,University of Windsor,N9B3P4,11
+Joe,Andersson,N9A1Z2,University of Winnipeg,R3B2E9,1381
+Joe,Andersson,N9A1Z2,Wilfrid Laurier University,N2L3C5,247
+Joe,Andersson,N9A1Z2,William and Catherine Booth College,R3B2P2,1381
+Joe,Andersson,N9A1Z2,York University,M3J1P3,336
+Joe,Andersson,N9A1Z2,Yukon College,Y1A5K4,4005
+Nick,Miller,S7H0T8,Acadia University,B4P2R6,3157
+Nick,Miller,S7H0T8,Athabasca University,T9S3A3,527
+Nick,Miller,S7H0T8,Bishop's University,J1M1Z7,2631
+Nick,Miller,S7H0T8,Brandon University,R7A6A9,533
+Nick,Miller,S7H0T8,British Columbia Institute of Technology,V5G3H2,1193
+Nick,Miller,S7H0T8,Brock University,L2S3A1,2262
+Nick,Miller,S7H0T8,Canadian Mennonite University,R3P2N2,705
+Nick,Miller,S7H0T8,Carleton University,K1S5B6,2367
+Nick,Miller,S7H0T8,College of New Caledonia,V2N1P8,1106
+Nick,Miller,S7H0T8,College of the Rockies,V1C5L7,704
+Nick,Miller,S7H0T8,Columbia College,V6A0C1,1198
+Nick,Miller,S7H0T8,Concordia University,H3G1M8,2505
+Nick,Miller,S7H0T8,Conestoga College,N2G4M4,2162
+Nick,Miller,S7H0T8,Dalhousie University,B3H4R2,3235
+Nick,Miller,S7H0T8,Douglas College,V3M5Z5,1192
+Nick,Miller,S7H0T8,Durham College,L1G0C5,2239
+Nick,Miller,S7H0T8,Ecole des Hautes Etudes Commerciales,H3T2A7,2502
+Nick,Miller,S7H0T8,"Ecole Polytechnique de Montreal, Universite de Montreal",H3T1J4,2502
+Nick,Miller,S7H0T8,Emily Carr Institute of Art + Design,V5T0H2,1199
+Nick,Miller,S7H0T8,King's University College,T6B2H3,481
+Nick,Miller,S7H0T8,Lakehead University,P7B5E1,1264
+Nick,Miller,S7H0T8,McGill University,H3A0G4,2505
+Nick,Miller,S7H0T8,McMaster University,L8S4L8,2212
+Nick,Miller,S7H0T8,Memorial University of Newfoundland,A1C5S7,3815
+Nick,Miller,S7H0T8,Mount Allison University,E4L1E2,3110
+Nick,Miller,S7H0T8,Mount Royal College,T3E6K6,535
+Nick,Miller,S7H0T8,Mount Saint Vincent University,B3M2J6,3227
+Nick,Miller,S7H0T8,Nicola Valley Institute of Technology,V1K1R1,1011
+Nick,Miller,S7H0T8,Nipissing University,P1B8L7,2053
+Nick,Miller,S7H0T8,Queen's University,K7L3N6,2380
+Nick,Miller,S7H0T8,Ryerson University,M5B2K3,2222
+Nick,Miller,S7H0T8,Simon Fraser University,V5A1S6,1189
+Nick,Miller,S7H0T8,St. Francis Xavier University,B2G2W5,3289
+Nick,Miller,S7H0T8,Trent University,L1J5Y1,2241
+Nick,Miller,S7H0T8,Universite de Montreal,H3T1J4,2502
+Nick,Miller,S7H0T8,Universite de Sherbrooke,J1K2R1,2624
+Nick,Miller,S7H0T8,Universite Laval,G1V0A6,2595
+Nick,Miller,S7H0T8,University of Alberta,T6G2R3,489
+Nick,Miller,S7H0T8,University of British Columbia,V6T1Z4,1173
+Nick,Miller,S7H0T8,University of Calgary,T2N1N4,530
+Nick,Miller,S7H0T8,University of Guelph,N1G2W1,2175
+Nick,Miller,S7H0T8,University of Lethbridge,T1K3M4,514
+Nick,Miller,S7H0T8,University of Manitoba,R3T2N2,711
+Nick,Miller,S7H0T8,University of Moncton,E1A3E9,3079
+Nick,Miller,S7H0T8,University of New Brunswick,E3B5A3,2960
+Nick,Miller,S7H0T8,University of Northern British Columbia,V2N4Z9,1106
+Nick,Miller,S7H0T8,University of Ontario Institute of Technology,L1G0C5,2239
+Nick,Miller,S7H0T8,University of Ottawa,K1N6N5,2366
+Nick,Miller,S7H0T8,University of Prince Edward Island,C1A4P3,3185
+Nick,Miller,S7H0T8,University of Quebec,G1K9H7,2599
+Nick,Miller,S7H0T8,University of Regina,S4S0A2,236
+Nick,Miller,S7H0T8,University of Saskatchewan,S7N5A2,3
+Nick,Miller,S7H0T8,University of Toronto,M5S1A1,2220
+Nick,Miller,S7H0T8,"University of Toronto, Mississauga",L5L1C6,2209
+Nick,Miller,S7H0T8,"University of Toronto, Scarborough",M1C1A4,2229
+Nick,Miller,S7H0T8,University of Victoria,V8P5C2,1251
+Nick,Miller,S7H0T8,University of Waterloo,N2L3G1,2157
+Nick,Miller,S7H0T8,University of Western Ontario,N6A3K7,2142
+Nick,Miller,S7H0T8,University of Windsor,N9B3P4,2075
+Nick,Miller,S7H0T8,University of Winnipeg,R3B2E9,708
+Nick,Miller,S7H0T8,Wilfrid Laurier University,N2L3C5,2157
+Nick,Miller,S7H0T8,William and Catherine Booth College,R3B2P2,708
+Nick,Miller,S7H0T8,York University,M3J1P3,2207
+Nick,Miller,S7H0T8,Yukon College,Y1A5K4,1970
+Vinny,Jensen,L0S1J0,Acadia University,B4P2R6,1200
+Vinny,Jensen,L0S1J0,Athabasca University,T9S3A3,2790
+Vinny,Jensen,L0S1J0,Bishop's University,J1M1Z7,639
+Vinny,Jensen,L0S1J0,Brandon University,R7A6A9,1769
+Vinny,Jensen,L0S1J0,British Columbia Institute of Technology,V5G3H2,3409
+Vinny,Jensen,L0S1J0,Brock University,L2S3A1,30
+Vinny,Jensen,L0S1J0,Canadian Mennonite University,R3P2N2,1585
+Vinny,Jensen,L0S1J0,Carleton University,K1S5B6,387
+Vinny,Jensen,L0S1J0,College of New Caledonia,V2N1P8,3395
+Vinny,Jensen,L0S1J0,College of the Rockies,V1C5L7,2886
+Vinny,Jensen,L0S1J0,Columbia College,V6A0C1,3416
+Vinny,Jensen,L0S1J0,Concordia University,H3G1M8,525
+Vinny,Jensen,L0S1J0,Conestoga College,N2G4M4,129
+Vinny,Jensen,L0S1J0,Dalhousie University,B3H4R2,1257
+Vinny,Jensen,L0S1J0,Douglas College,V3M5Z5,3406
+Vinny,Jensen,L0S1J0,Durham College,L1G0C5,114
+Vinny,Jensen,L0S1J0,Ecole des Hautes Etudes Commerciales,H3T2A7,522
+Vinny,Jensen,L0S1J0,"Ecole Polytechnique de Montreal, Universite de Montreal",H3T1J4,522
+Vinny,Jensen,L0S1J0,Emily Carr Institute of Art + Design,V5T0H2,3416
+Vinny,Jensen,L0S1J0,King's University College,T6B2H3,2769
+Vinny,Jensen,L0S1J0,Lakehead University,P7B5E1,1042
+Vinny,Jensen,L0S1J0,McGill University,H3A0G4,525
+Vinny,Jensen,L0S1J0,McMaster University,L8S4L8,78
+Vinny,Jensen,L0S1J0,Memorial University of Newfoundland,A1C5S7,2120
+Vinny,Jensen,L0S1J0,Mount Allison University,E4L1E2,1213
+Vinny,Jensen,L0S1J0,Mount Royal College,T3E6K6,2779
+Vinny,Jensen,L0S1J0,Mount Saint Vincent University,B3M2J6,1252
+Vinny,Jensen,L0S1J0,Nicola Valley Institute of Technology,V1K1R1,3245
+Vinny,Jensen,L0S1J0,Nipissing University,P1B8L7,383
+Vinny,Jensen,L0S1J0,Queen's University,K7L3N6,264
+Vinny,Jensen,L0S1J0,Ryerson University,M5B2K3,87
+Vinny,Jensen,L0S1J0,Simon Fraser University,V5A1S6,3405
+Vinny,Jensen,L0S1J0,St. Francis Xavier University,B2G2W5,1391
+Vinny,Jensen,L0S1J0,Trent University,L1J5Y1,110
+Vinny,Jensen,L0S1J0,Universite de Montreal,H3T1J4,522
+Vinny,Jensen,L0S1J0,Universite de Sherbrooke,J1K2R1,633
+Vinny,Jensen,L0S1J0,Universite Laval,G1V0A6,750
+Vinny,Jensen,L0S1J0,University of Alberta,T6G2R3,2777
+Vinny,Jensen,L0S1J0,University of British Columbia,V6T1Z4,3395
+Vinny,Jensen,L0S1J0,University of Calgary,T2N1N4,2777
+Vinny,Jensen,L0S1J0,University of Guelph,N1G2W1,115
+Vinny,Jensen,L0S1J0,University of Lethbridge,T1K3M4,2675
+Vinny,Jensen,L0S1J0,University of Manitoba,R3T2N2,1579
+Vinny,Jensen,L0S1J0,University of Moncton,E1A3E9,1192
+Vinny,Jensen,L0S1J0,University of New Brunswick,E3B5A3,1037
+Vinny,Jensen,L0S1J0,University of Northern British Columbia,V2N4Z9,3395
+Vinny,Jensen,L0S1J0,University of Ontario Institute of Technology,L1G0C5,114
+Vinny,Jensen,L0S1J0,University of Ottawa,K1N6N5,390
+Vinny,Jensen,L0S1J0,University of Prince Edward Island,C1A4P3,1323
+Vinny,Jensen,L0S1J0,University of Quebec,G1K9H7,756
+Vinny,Jensen,L0S1J0,University of Regina,S4S0A2,2106
+Vinny,Jensen,L0S1J0,University of Saskatchewan,S7N5A2,2289
+Vinny,Jensen,L0S1J0,University of Toronto,M5S1A1,88
+Vinny,Jensen,L0S1J0,"University of Toronto, Mississauga",L5L1C6,86
+Vinny,Jensen,L0S1J0,"University of Toronto, Scarborough",M1C1A4,98
+Vinny,Jensen,L0S1J0,University of Victoria,V8P5C2,3443
+Vinny,Jensen,L0S1J0,University of Waterloo,N2L3G1,134
+Vinny,Jensen,L0S1J0,University of Western Ontario,N6A3K7,177
+Vinny,Jensen,L0S1J0,University of Windsor,N9B3P4,332
+Vinny,Jensen,L0S1J0,University of Winnipeg,R3B2E9,1582
+Vinny,Jensen,L0S1J0,Wilfrid Laurier University,N2L3C5,134
+Vinny,Jensen,L0S1J0,William and Catherine Booth College,R3B2P2,1582
+Vinny,Jensen,L0S1J0,York University,M3J1P3,101
+Vinny,Jensen,L0S1J0,Yukon College,Y1A5K4,4160
+Lance,Thompson,M5H2M5,Acadia University,B4P2R6,1203
+Lance,Thompson,M5H2M5,Athabasca University,T9S3A3,2718
+Lance,Thompson,M5H2M5,Bishop's University,J1M1Z7,627
+Lance,Thompson,M5H2M5,Brandon University,R7A6A9,1704
+Lance,Thompson,M5H2M5,British Columbia Institute of Technology,V5G3H2,3350
+Lance,Thompson,M5H2M5,Brock University,L2S3A1,57
+Lance,Thompson,M5H2M5,Canadian Mennonite University,R3P2N2,1518
+Lance,Thompson,M5H2M5,Carleton University,K1S5B6,352
+Lance,Thompson,M5H2M5,College of New Caledonia,V2N1P8,3328
+Lance,Thompson,M5H2M5,College of the Rockies,V1C5L7,2827
+Lance,Thompson,M5H2M5,Columbia College,V6A0C1,3357
+Lance,Thompson,M5H2M5,Concordia University,H3G1M8,503
+Lance,Thompson,M5H2M5,Conestoga College,N2G4M4,92
+Lance,Thompson,M5H2M5,Dalhousie University,B3H4R2,1264
+Lance,Thompson,M5H2M5,Douglas College,V3M5Z5,3347
+Lance,Thompson,M5H2M5,Durham College,L1G0C5,51
+Lance,Thompson,M5H2M5,Ecole des Hautes Etudes Commerciales,H3T2A7,501
+Lance,Thompson,M5H2M5,"Ecole Polytechnique de Montreal, Universite de Montreal",H3T1J4,501
+Lance,Thompson,M5H2M5,Emily Carr Institute of Art + Design,V5T0H2,3357
+Lance,Thompson,M5H2M5,King's University College,T6B2H3,2700
+Lance,Thompson,M5H2M5,Lakehead University,P7B5E1,968
+Lance,Thompson,M5H2M5,McGill University,H3A0G4,504
+Lance,Thompson,M5H2M5,McMaster University,L8S4L8,61
+Lance,Thompson,M5H2M5,Memorial University of Newfoundland,A1C5S7,2112
+Lance,Thompson,M5H2M5,Mount Allison University,E4L1E2,1208
+Lance,Thompson,M5H2M5,Mount Royal College,T3E6K6,2717
+Lance,Thompson,M5H2M5,Mount Saint Vincent University,B3M2J6,1258
+Lance,Thompson,M5H2M5,Nicola Valley Institute of Technology,V1K1R1,3185
+Lance,Thompson,M5H2M5,Nipissing University,P1B8L7,299
+Lance,Thompson,M5H2M5,Queen's University,K7L3N6,247
+Lance,Thompson,M5H2M5,Ryerson University,M5B2K3,1
+Lance,Thompson,M5H2M5,Simon Fraser University,V5A1S6,3346
+Lance,Thompson,M5H2M5,St. Francis Xavier University,B2G2W5,1390
+Lance,Thompson,M5H2M5,Trent University,L1J5Y1,48
+Lance,Thompson,M5H2M5,Universite de Montreal,H3T1J4,501
+Lance,Thompson,M5H2M5,Universite de Sherbrooke,J1K2R1,621
+Lance,Thompson,M5H2M5,Universite Laval,G1V0A6,723
+Lance,Thompson,M5H2M5,University of Alberta,T6G2R3,2708
+Lance,Thompson,M5H2M5,University of British Columbia,V6T1Z4,3335
+Lance,Thompson,M5H2M5,University of Calgary,T2N1N4,2714
+Lance,Thompson,M5H2M5,University of Guelph,N1G2W1,69
+Lance,Thompson,M5H2M5,University of Lethbridge,T1K3M4,2615
+Lance,Thompson,M5H2M5,University of Manitoba,R3T2N2,1513
+Lance,Thompson,M5H2M5,University of Moncton,E1A3E9,1186
+Lance,Thompson,M5H2M5,University of New Brunswick,E3B5A3,1031
+Lance,Thompson,M5H2M5,University of Northern British Columbia,V2N4Z9,3328
+Lance,Thompson,M5H2M5,University of Ontario Institute of Technology,L1G0C5,51
+Lance,Thompson,M5H2M5,University of Ottawa,K1N6N5,354
+Lance,Thompson,M5H2M5,University of Prince Edward Island,C1A4P3,1318
+Lance,Thompson,M5H2M5,University of Quebec,G1K9H7,729
+Lance,Thompson,M5H2M5,University of Regina,S4S0A2,2042
+Lance,Thompson,M5H2M5,University of Saskatchewan,S7N5A2,2221
+Lance,Thompson,M5H2M5,University of Toronto,M5S1A1,2
+Lance,Thompson,M5H2M5,"University of Toronto, Mississauga",L5L1C6,28
+Lance,Thompson,M5H2M5,"University of Toronto, Scarborough",M1C1A4,24
+Lance,Thompson,M5H2M5,University of Victoria,V8P5C2,3386
+Lance,Thompson,M5H2M5,University of Waterloo,N2L3G1,96
+Lance,Thompson,M5H2M5,University of Western Ontario,N6A3K7,168
+Lance,Thompson,M5H2M5,University of Windsor,N9B3P4,334
+Lance,Thompson,M5H2M5,University of Winnipeg,R3B2E9,1515
+Lance,Thompson,M5H2M5,Wilfrid Laurier University,N2L3C5,96
+Lance,Thompson,M5H2M5,William and Catherine Booth College,R3B2P2,1515
+Lance,Thompson,M5H2M5,York University,M3J1P3,16
+Lance,Thompson,M5H2M5,Yukon College,Y1A5K4,4082
+Alexia,Peeters,L2R2P2,Acadia University,B4P2R6,1210
+Alexia,Peeters,L2R2P2,Athabasca University,T9S3A3,2760
+Alexia,Peeters,L2R2P2,Bishop's University,J1M1Z7,643
+Alexia,Peeters,L2R2P2,Brandon University,R7A6A9,1740
+Alexia,Peeters,L2R2P2,British Columbia Institute of Technology,V5G3H2,3382
+Alexia,Peeters,L2R2P2,Brock University,L2S3A1,3
+Alexia,Peeters,L2R2P2,Canadian Mennonite University,R3P2N2,1556
+Alexia,Peeters,L2R2P2,Carleton University,K1S5B6,381
+Alexia,Peeters,L2R2P2,College of New Caledonia,V2N1P8,3366
+Alexia,Peeters,L2R2P2,College of the Rockies,V1C5L7,2858
+Alexia,Peeters,L2R2P2,Columbia College,V6A0C1,3389
+Alexia,Peeters,L2R2P2,Concordia University,H3G1M8,525
+Alexia,Peeters,L2R2P2,Conestoga College,N2G4M4,102
+Alexia,Peeters,L2R2P2,Dalhousie University,B3H4R2,1268
+Alexia,Peeters,L2R2P2,Douglas College,V3M5Z5,3379
+Alexia,Peeters,L2R2P2,Durham College,L1G0C5,93
+Alexia,Peeters,L2R2P2,Ecole des Hautes Etudes Commerciales,H3T2A7,522
+Alexia,Peeters,L2R2P2,"Ecole Polytechnique de Montreal, Universite de Montreal",H3T1J4,522
+Alexia,Peeters,L2R2P2,Emily Carr Institute of Art + Design,V5T0H2,3389
+Alexia,Peeters,L2R2P2,King's University College,T6B2H3,2740
+Alexia,Peeters,L2R2P2,Lakehead University,P7B5E1,1011
+Alexia,Peeters,L2R2P2,McGill University,H3A0G4,525
+Alexia,Peeters,L2R2P2,McMaster University,L8S4L8,52
+Alexia,Peeters,L2R2P2,Memorial University of Newfoundland,A1C5S7,2126
+Alexia,Peeters,L2R2P2,Mount Allison University,E4L1E2,1220
+Alexia,Peeters,L2R2P2,Mount Royal College,T3E6K6,2751
+Alexia,Peeters,L2R2P2,Mount Saint Vincent University,B3M2J6,1262
+Alexia,Peeters,L2R2P2,Nicola Valley Institute of Technology,V1K1R1,3218
+Alexia,Peeters,L2R2P2,Nipissing University,P1B8L7,356
+Alexia,Peeters,L2R2P2,Queen's University,K7L3N6,264
+Alexia,Peeters,L2R2P2,Ryerson University,M5B2K3,58
+Alexia,Peeters,L2R2P2,Simon Fraser University,V5A1S6,3378
+Alexia,Peeters,L2R2P2,St. Francis Xavier University,B2G2W5,1399
+Alexia,Peeters,L2R2P2,Trent University,L1J5Y1,89
+Alexia,Peeters,L2R2P2,Universite de Montreal,H3T1J4,522
+Alexia,Peeters,L2R2P2,Universite de Sherbrooke,J1K2R1,637
+Alexia,Peeters,L2R2P2,Universite Laval,G1V0A6,748
+Alexia,Peeters,L2R2P2,University of Alberta,T6G2R3,2747
+Alexia,Peeters,L2R2P2,University of British Columbia,V6T1Z4,3367
+Alexia,Peeters,L2R2P2,University of Calgary,T2N1N4,2749
+Alexia,Peeters,L2R2P2,University of Guelph,N1G2W1,86
+Alexia,Peeters,L2R2P2,University of Lethbridge,T1K3M4,2647
+Alexia,Peeters,L2R2P2,University of Manitoba,R3T2N2,1550
+Alexia,Peeters,L2R2P2,University of Moncton,E1A3E9,1198
+Alexia,Peeters,L2R2P2,University of New Brunswick,E3B5A3,1043
+Alexia,Peeters,L2R2P2,University of Northern British Columbia,V2N4Z9,3366
+Alexia,Peeters,L2R2P2,University of Ontario Institute of Technology,L1G0C5,93
+Alexia,Peeters,L2R2P2,University of Ottawa,K1N6N5,384
+Alexia,Peeters,L2R2P2,University of Prince Edward Island,C1A4P3,1330
+Alexia,Peeters,L2R2P2,University of Quebec,G1K9H7,755
+Alexia,Peeters,L2R2P2,University of Regina,S4S0A2,2077
+Alexia,Peeters,L2R2P2,University of Saskatchewan,S7N5A2,2259
+Alexia,Peeters,L2R2P2,University of Toronto,M5S1A1,59
+Alexia,Peeters,L2R2P2,"University of Toronto, Mississauga",L5L1C6,54
+Alexia,Peeters,L2R2P2,"University of Toronto, Scarborough",M1C1A4,73
+Alexia,Peeters,L2R2P2,University of Victoria,V8P5C2,3416
+Alexia,Peeters,L2R2P2,University of Waterloo,N2L3G1,107
+Alexia,Peeters,L2R2P2,University of Western Ontario,N6A3K7,160
+Alexia,Peeters,L2R2P2,University of Windsor,N9B3P4,321
+Alexia,Peeters,L2R2P2,University of Winnipeg,R3B2E9,1553
+Alexia,Peeters,L2R2P2,Wilfrid Laurier University,N2L3C5,107
+Alexia,Peeters,L2R2P2,William and Catherine Booth College,R3B2P2,1553
+Alexia,Peeters,L2R2P2,York University,M3J1P3,72
+Alexia,Peeters,L2R2P2,Yukon College,Y1A5K4,4129
+Dawn,Gauthier,S4P3Y2,Acadia University,B4P2R6,3033
+Dawn,Gauthier,S4P3Y2,Athabasca University,T9S3A3,752
+Dawn,Gauthier,S4P3Y2,Bishop's University,J1M1Z7,2490
+Dawn,Gauthier,S4P3Y2,Brandon University,R7A6A9,343
+Dawn,Gauthier,S4P3Y2,British Columbia Institute of Technology,V5G3H2,1317
+Dawn,Gauthier,S4P3Y2,Brock University,L2S3A1,2084
+Dawn,Gauthier,S4P3Y2,Canadian Mennonite University,R3P2N2,535
+Dawn,Gauthier,S4P3Y2,Carleton University,K1S5B6,2216
+Dawn,Gauthier,S4P3Y2,College of New Caledonia,V2N1P8,1297
+Dawn,Gauthier,S4P3Y2,College of the Rockies,V1C5L7,799
+Dawn,Gauthier,S4P3Y2,Columbia College,V6A0C1,1323
+Dawn,Gauthier,S4P3Y2,Concordia University,H3G1M8,2361
+Dawn,Gauthier,S4P3Y2,Conestoga College,N2G4M4,1982
+Dawn,Gauthier,S4P3Y2,Dalhousie University,B3H4R2,3110
+Dawn,Gauthier,S4P3Y2,Douglas College,V3M5Z5,1314
+Dawn,Gauthier,S4P3Y2,Durham College,L1G0C5,2068
+Dawn,Gauthier,S4P3Y2,Ecole des Hautes Etudes Commerciales,H3T2A7,2358
+Dawn,Gauthier,S4P3Y2,"Ecole Polytechnique de Montreal, Universite de Montreal",H3T1J4,2358
+Dawn,Gauthier,S4P3Y2,Emily Carr Institute of Art + Design,V5T0H2,1323
+Dawn,Gauthier,S4P3Y2,King's University College,T6B2H3,690
+Dawn,Gauthier,S4P3Y2,Lakehead University,P7B5E1,1109
+Dawn,Gauthier,S4P3Y2,McGill University,H3A0G4,2361
+Dawn,Gauthier,S4P3Y2,McMaster University,L8S4L8,2032
+Dawn,Gauthier,S4P3Y2,Memorial University of Newfoundland,A1C5S7,3732
+Dawn,Gauthier,S4P3Y2,Mount Allison University,E4L1E2,2992
+Dawn,Gauthier,S4P3Y2,Mount Royal College,T3E6K6,670
+Dawn,Gauthier,S4P3Y2,Mount Saint Vincent University,B3M2J6,3103
+Dawn,Gauthier,S4P3Y2,Nicola Valley Institute of Technology,V1K1R1,1144
+Dawn,Gauthier,S4P3Y2,Nipissing University,P1B8L7,1898
+Dawn,Gauthier,S4P3Y2,Queen's University,K7L3N6,2219
+Dawn,Gauthier,S4P3Y2,Ryerson University,M5B2K3,2047
+Dawn,Gauthier,S4P3Y2,Simon Fraser University,V5A1S6,1312
+Dawn,Gauthier,S4P3Y2,St. Francis Xavier University,B2G2W5,3174
+Dawn,Gauthier,S4P3Y2,Trent University,L1J5Y1,2069
+Dawn,Gauthier,S4P3Y2,Universite de Montreal,H3T1J4,2358
+Dawn,Gauthier,S4P3Y2,Universite de Sherbrooke,J1K2R1,2483
+Dawn,Gauthier,S4P3Y2,Universite Laval,G1V0A6,2467
+Dawn,Gauthier,S4P3Y2,University of Alberta,T6G2R3,697
+Dawn,Gauthier,S4P3Y2,University of British Columbia,V6T1Z4,1300
+Dawn,Gauthier,S4P3Y2,University of Calgary,T2N1N4,668
+Dawn,Gauthier,S4P3Y2,University of Guelph,N1G2W1,1996
+Dawn,Gauthier,S4P3Y2,University of Lethbridge,T1K3M4,589
+Dawn,Gauthier,S4P3Y2,University of Manitoba,R3T2N2,540
+Dawn,Gauthier,S4P3Y2,University of Moncton,E1A3E9,2961
+Dawn,Gauthier,S4P3Y2,University of New Brunswick,E3B5A3,2835
+Dawn,Gauthier,S4P3Y2,University of Northern British Columbia,V2N4Z9,1297
+Dawn,Gauthier,S4P3Y2,University of Ontario Institute of Technology,L1G0C5,2068
+Dawn,Gauthier,S4P3Y2,University of Ottawa,K1N6N5,2215
+Dawn,Gauthier,S4P3Y2,University of Prince Edward Island,C1A4P3,3072
+Dawn,Gauthier,S4P3Y2,University of Quebec,G1K9H7,2470
+Dawn,Gauthier,S4P3Y2,University of Regina,S4S0A2,5
+Dawn,Gauthier,S4P3Y2,University of Saskatchewan,S7N5A2,234
+Dawn,Gauthier,S4P3Y2,University of Toronto,M5S1A1,2045
+Dawn,Gauthier,S4P3Y2,"University of Toronto, Mississauga",L5L1C6,2032
+Dawn,Gauthier,S4P3Y2,"University of Toronto, Scarborough",M1C1A4,2055
+Dawn,Gauthier,S4P3Y2,University of Victoria,V8P5C2,1363
+Dawn,Gauthier,S4P3Y2,University of Waterloo,N2L3G1,1977
+Dawn,Gauthier,S4P3Y2,University of Western Ontario,N6A3K7,1956
+Dawn,Gauthier,S4P3Y2,University of Windsor,N9B3P4,1880
+Dawn,Gauthier,S4P3Y2,University of Winnipeg,R3B2E9,540
+Dawn,Gauthier,S4P3Y2,Wilfrid Laurier University,N2L3C5,1977
+Dawn,Gauthier,S4P3Y2,William and Catherine Booth College,R3B2P2,540
+Dawn,Gauthier,S4P3Y2,York University,M3J1P3,2033
+Dawn,Gauthier,S4P3Y2,Yukon College,Y1A5K4,2197
+Nora,Morin,L2G3X6,Acadia University,B4P2R6,1195
+Nora,Morin,L2G3X6,Athabasca University,T9S3A3,2778
+Nora,Morin,L2G3X6,Bishop's University,J1M1Z7,631
+Nora,Morin,L2G3X6,Brandon University,R7A6A9,1759
+Nora,Morin,L2G3X6,British Columbia Institute of Technology,V5G3H2,3401
+Nora,Morin,L2G3X6,Brock University,L2S3A1,17
+Nora,Morin,L2G3X6,Canadian Mennonite University,R3P2N2,1575
+Nora,Morin,L2G3X6,Carleton University,K1S5B6,374
+Nora,Morin,L2G3X6,College of New Caledonia,V2N1P8,3385
+Nora,Morin,L2G3X6,College of the Rockies,V1C5L7,2877
+Nora,Morin,L2G3X6,Columbia College,V6A0C1,3408
+Nora,Morin,L2G3X6,Concordia University,H3G1M8,514
+Nora,Morin,L2G3X6,Conestoga College,N2G4M4,121
+Nora,Morin,L2G3X6,Dalhousie University,B3H4R2,1253
+Nora,Morin,L2G3X6,Douglas College,V3M5Z5,3398
+Nora,Morin,L2G3X6,Durham College,L1G0C5,96
+Nora,Morin,L2G3X6,Ecole des Hautes Etudes Commerciales,H3T2A7,512
+Nora,Morin,L2G3X6,"Ecole Polytechnique de Montreal, Universite de Montreal",H3T1J4,512
+Nora,Morin,L2G3X6,Emily Carr Institute of Art + Design,V5T0H2,3408
+Nora,Morin,L2G3X6,King's University College,T6B2H3,2758
+Nora,Morin,L2G3X6,Lakehead University,P7B5E1,1029
+Nora,Morin,L2G3X6,McGill University,H3A0G4,515
+Nora,Morin,L2G3X6,McMaster University,L8S4L8,71
+Nora,Morin,L2G3X6,Memorial University of Newfoundland,A1C5S7,2113
+Nora,Morin,L2G3X6,Mount Allison University,E4L1E2,1206
+Nora,Morin,L2G3X6,Mount Royal College,T3E6K6,2770
+Nora,Morin,L2G3X6,Mount Saint Vincent University,B3M2J6,1247
+Nora,Morin,L2G3X6,Nicola Valley Institute of Technology,V1K1R1,3237
+Nora,Morin,L2G3X6,Nipissing University,P1B8L7,365
+Nora,Morin,L2G3X6,Queen's University,K7L3N6,253
+Nora,Morin,L2G3X6,Ryerson University,M5B2K3,70
+Nora,Morin,L2G3X6,Simon Fraser University,V5A1S6,3397
+Nora,Morin,L2G3X6,St. Francis Xavier University,B2G2W5,1385
+Nora,Morin,L2G3X6,Trent University,L1J5Y1,92
+Nora,Morin,L2G3X6,Universite de Montreal,H3T1J4,512
+Nora,Morin,L2G3X6,Universite de Sherbrooke,J1K2R1,625
+Nora,Morin,L2G3X6,Universite Laval,G1V0A6,739
+Nora,Morin,L2G3X6,University of Alberta,T6G2R3,2766
+Nora,Morin,L2G3X6,University of British Columbia,V6T1Z4,3387
+Nora,Morin,L2G3X6,University of Calgary,T2N1N4,2768
+Nora,Morin,L2G3X6,University of Guelph,N1G2W1,105
+Nora,Morin,L2G3X6,University of Lethbridge,T1K3M4,2666
+Nora,Morin,L2G3X6,University of Manitoba,R3T2N2,1569
+Nora,Morin,L2G3X6,University of Moncton,E1A3E9,1185
+Nora,Morin,L2G3X6,University of New Brunswick,E3B5A3,1030
+Nora,Morin,L2G3X6,University of Northern British Columbia,V2N4Z9,3385
+Nora,Morin,L2G3X6,University of Ontario Institute of Technology,L1G0C5,96
+Nora,Morin,L2G3X6,University of Ottawa,K1N6N5,377
+Nora,Morin,L2G3X6,University of Prince Edward Island,C1A4P3,1317
+Nora,Morin,L2G3X6,University of Quebec,G1K9H7,745
+Nora,Morin,L2G3X6,University of Regina,S4S0A2,2096
+Nora,Morin,L2G3X6,University of Saskatchewan,S7N5A2,2278
+Nora,Morin,L2G3X6,University of Toronto,M5S1A1,71
+Nora,Morin,L2G3X6,"University of Toronto, Mississauga",L5L1C6,72
+Nora,Morin,L2G3X6,"University of Toronto, Scarborough",M1C1A4,80
+Nora,Morin,L2G3X6,University of Victoria,V8P5C2,3435
+Nora,Morin,L2G3X6,University of Waterloo,N2L3G1,127
+Nora,Morin,L2G3X6,University of Western Ontario,N6A3K7,177
+Nora,Morin,L2G3X6,University of Windsor,N9B3P4,336
+Nora,Morin,L2G3X6,University of Winnipeg,R3B2E9,1572
+Nora,Morin,L2G3X6,Wilfrid Laurier University,N2L3C5,127
+Nora,Morin,L2G3X6,William and Catherine Booth College,R3B2P2,1572
+Nora,Morin,L2G3X6,York University,M3J1P3,85
+Nora,Morin,L2G3X6,Yukon College,Y1A5K4,4146
+Allen,Murphy,G2J1A3,Acadia University,B4P2R6,569
+Allen,Murphy,G2J1A3,Athabasca University,T9S3A3,3030
+Allen,Murphy,G2J1A3,Bishop's University,J1M1Z7,170
+Allen,Murphy,G2J1A3,Brandon University,R7A6A9,2132
+Allen,Murphy,G2J1A3,British Columbia Institute of Technology,V5G3H2,3778
+Allen,Murphy,G2J1A3,Brock University,L2S3A1,750
+Allen,Murphy,G2J1A3,Canadian Mennonite University,R3P2N2,1936
+Allen,Murphy,G2J1A3,Carleton University,K1S5B6,376
+Allen,Murphy,G2J1A3,College of New Caledonia,V2N1P8,3667
+Allen,Murphy,G2J1A3,College of the Rockies,V1C5L7,3264
+Allen,Murphy,G2J1A3,Columbia College,V6A0C1,3784
+Allen,Murphy,G2J1A3,Concordia University,H3G1M8,232
+Allen,Murphy,G2J1A3,Conestoga College,N2G4M4,814
+Allen,Murphy,G2J1A3,Dalhousie University,B3H4R2,645
+Allen,Murphy,G2J1A3,Douglas College,V3M5Z5,3776
+Allen,Murphy,G2J1A3,Durham College,L1G0C5,675
+Allen,Murphy,G2J1A3,Ecole des Hautes Etudes Commerciales,H3T2A7,234
+Allen,Murphy,G2J1A3,"Ecole Polytechnique de Montreal, Universite de Montreal",H3T1J4,234
+Allen,Murphy,G2J1A3,Emily Carr Institute of Art + Design,V5T0H2,3785
+Allen,Murphy,G2J1A3,King's University College,T6B2H3,3043
+Allen,Murphy,G2J1A3,Lakehead University,P7B5E1,1368
+Allen,Murphy,G2J1A3,McGill University,H3A0G4,231
+Allen,Murphy,G2J1A3,McMaster University,L8S4L8,786
+Allen,Murphy,G2J1A3,Memorial University of Newfoundland,A1C5S7,1405
+Allen,Murphy,G2J1A3,Mount Allison University,E4L1E2,538
+Allen,Murphy,G2J1A3,Mount Royal College,T3E6K6,3122
+Allen,Murphy,G2J1A3,Mount Saint Vincent University,B3M2J6,638
+Allen,Murphy,G2J1A3,Nicola Valley Institute of Technology,V1K1R1,3601
+Allen,Murphy,G2J1A3,Nipissing University,P1B8L7,637
+Allen,Murphy,G2J1A3,Queen's University,K7L3N6,491
+Allen,Murphy,G2J1A3,Ryerson University,M5B2K3,726
+Allen,Murphy,G2J1A3,Simon Fraser University,V5A1S6,3774
+Allen,Murphy,G2J1A3,St. Francis Xavier University,B2G2W5,726
+Allen,Murphy,G2J1A3,Trent University,L1J5Y1,678
+Allen,Murphy,G2J1A3,Universite de Montreal,H3T1J4,234
+Allen,Murphy,G2J1A3,Universite de Sherbrooke,J1K2R1,170
+Allen,Murphy,G2J1A3,Universite Laval,G1V0A6,6
+Allen,Murphy,G2J1A3,University of Alberta,T6G2R3,3051
+Allen,Murphy,G2J1A3,University of British Columbia,V6T1Z4,3760
+Allen,Murphy,G2J1A3,University of Calgary,T2N1N4,3118
+Allen,Murphy,G2J1A3,University of Guelph,N1G2W1,792
+Allen,Murphy,G2J1A3,University of Lethbridge,T1K3M4,3054
+Allen,Murphy,G2J1A3,University of Manitoba,R3T2N2,1931
+Allen,Murphy,G2J1A3,University of Moncton,E1A3E9,510
+Allen,Murphy,G2J1A3,University of New Brunswick,E3B5A3,371
+Allen,Murphy,G2J1A3,University of Northern British Columbia,V2N4Z9,3667
+Allen,Murphy,G2J1A3,University of Ontario Institute of Technology,L1G0C5,675
+Allen,Murphy,G2J1A3,University of Ottawa,K1N6N5,374
+Allen,Murphy,G2J1A3,University of Prince Edward Island,C1A4P3,635
+Allen,Murphy,G2J1A3,University of Quebec,G1K9H7,5
+Allen,Murphy,G2J1A3,University of Regina,S4S0A2,2460
+Allen,Murphy,G2J1A3,University of Saskatchewan,S7N5A2,2591
+Allen,Murphy,G2J1A3,University of Toronto,M5S1A1,727
+Allen,Murphy,G2J1A3,"University of Toronto, Mississauga",L5L1C6,754
+Allen,Murphy,G2J1A3,"University of Toronto, Scarborough",M1C1A4,703
+Allen,Murphy,G2J1A3,University of Victoria,V8P5C2,3827
+Allen,Murphy,G2J1A3,University of Waterloo,N2L3G1,817
+Allen,Murphy,G2J1A3,University of Western Ontario,N6A3K7,893
+Allen,Murphy,G2J1A3,University of Windsor,N9B3P4,1059
+Allen,Murphy,G2J1A3,University of Winnipeg,R3B2E9,1930
+Allen,Murphy,G2J1A3,Wilfrid Laurier University,N2L3C5,817
+Allen,Murphy,G2J1A3,William and Catherine Booth College,R3B2P2,1930
+Allen,Murphy,G2J1A3,York University,M3J1P3,727
+Allen,Murphy,G2J1A3,Yukon College,Y1A5K4,4266
+Mai,Young,A1C1G8,Acadia University,B4P2R6,937
+Mai,Young,A1C1G8,Athabasca University,T9S3A3,4169
+Mai,Young,A1C1G8,Bishop's University,J1M1Z7,1484
+Mai,Young,A1C1G8,Brandon University,R7A6A9,3424
+Mai,Young,A1C1G8,British Columbia Institute of Technology,V5G3H2,5004
+Mai,Young,A1C1G8,Brock University,L2S3A1,2123
+Mai,Young,A1C1G8,Canadian Mennonite University,R3P2N2,3232
+Mai,Young,A1C1G8,Carleton University,K1S5B6,1772
+Mai,Young,A1C1G8,College of New Caledonia,V2N1P8,4804
+Mai,Young,A1C1G8,College of the Rockies,V1C5L7,4515
+Mai,Young,A1C1G8,Columbia College,V6A0C1,5009
+Mai,Young,A1C1G8,Concordia University,H3G1M8,1611
+Mai,Young,A1C1G8,Conestoga College,N2G4M4,2203
+Mai,Young,A1C1G8,Dalhousie University,B3H4R2,899
+Mai,Young,A1C1G8,Douglas College,V3M5Z5,5003
+Mai,Young,A1C1G8,Durham College,L1G0C5,2062
+Mai,Young,A1C1G8,Ecole des Hautes Etudes Commerciales,H3T2A7,1614
+Mai,Young,A1C1G8,"Ecole Polytechnique de Montreal, Universite de Montreal",H3T1J4,1614
+Mai,Young,A1C1G8,Emily Carr Institute of Art + Design,V5T0H2,5010
+Mai,Young,A1C1G8,King's University College,T6B2H3,4214
+Mai,Young,A1C1G8,Lakehead University,P7B5E1,2699
+Mai,Young,A1C1G8,McGill University,H3A0G4,1610
+Mai,Young,A1C1G8,McMaster University,L8S4L8,2167
+Mai,Young,A1C1G8,Memorial University of Newfoundland,A1C5S7,0
+Mai,Young,A1C1G8,Mount Allison University,E4L1E2,909
+Mai,Young,A1C1G8,Mount Royal College,T3E6K6,4348
+Mai,Young,A1C1G8,Mount Saint Vincent University,B3M2J6,903
+Mai,Young,A1C1G8,Nicola Valley Institute of Technology,V1K1R1,4820
+Mai,Young,A1C1G8,Nipissing University,P1B8L7,2038
+Mai,Young,A1C1G8,Queen's University,K7L3N6,1865
+Mai,Young,A1C1G8,Ryerson University,M5B2K3,2111
+Mai,Young,A1C1G8,Simon Fraser University,V5A1S6,4999
+Mai,Young,A1C1G8,St. Francis Xavier University,B2G2W5,743
+Mai,Young,A1C1G8,Trent University,L1J5Y1,2064
+Mai,Young,A1C1G8,Universite de Montreal,H3T1J4,1614
+Mai,Young,A1C1G8,Universite de Sherbrooke,J1K2R1,1491
+Mai,Young,A1C1G8,Universite Laval,G1V0A6,1407
+Mai,Young,A1C1G8,University of Alberta,T6G2R3,4220
+Mai,Young,A1C1G8,University of British Columbia,V6T1Z4,4982
+Mai,Young,A1C1G8,University of Calgary,T2N1N4,4343
+Mai,Young,A1C1G8,University of Guelph,N1G2W1,2180
+Mai,Young,A1C1G8,University of Lethbridge,T1K3M4,4312
+Mai,Young,A1C1G8,University of Manitoba,R3T2N2,3229
+Mai,Young,A1C1G8,University of Moncton,E1A3E9,929
+Mai,Young,A1C1G8,University of New Brunswick,E3B5A3,1084
+Mai,Young,A1C1G8,University of Northern British Columbia,V2N4Z9,4804
+Mai,Young,A1C1G8,University of Ontario Institute of Technology,L1G0C5,2062
+Mai,Young,A1C1G8,University of Ottawa,K1N6N5,1771
+Mai,Young,A1C1G8,University of Prince Edward Island,C1A4P3,797
+Mai,Young,A1C1G8,University of Quebec,G1K9H7,1401
+Mai,Young,A1C1G8,University of Regina,S4S0A2,3728
+Mai,Young,A1C1G8,University of Saskatchewan,S7N5A2,3812
+Mai,Young,A1C1G8,University of Toronto,M5S1A1,2112
+Mai,Young,A1C1G8,"University of Toronto, Mississauga",L5L1C6,2139
+Mai,Young,A1C1G8,"University of Toronto, Scarborough",M1C1A4,2089
+Mai,Young,A1C1G8,University of Victoria,V8P5C2,5065
+Mai,Young,A1C1G8,University of Waterloo,N2L3G1,2206
+Mai,Young,A1C1G8,University of Western Ontario,N6A3K7,2279
+Mai,Young,A1C1G8,University of Windsor,N9B3P4,2445
+Mai,Young,A1C1G8,University of Winnipeg,R3B2E9,3226
+Mai,Young,A1C1G8,Wilfrid Laurier University,N2L3C5,2206
+Mai,Young,A1C1G8,William and Catherine Booth College,R3B2P2,3226
+Mai,Young,A1C1G8,York University,M3J1P3,2115
+Mai,Young,A1C1G8,Yukon College,Y1A5K4,5183
+Charlie,Schmit,V1Y6N2,Acadia University,B4P2R6,4081
+Charlie,Schmit,V1Y6N2,Athabasca University,T9S3A3,682
+Charlie,Schmit,V1Y6N2,Bishop's University,J1M1Z7,3544
+Charlie,Schmit,V1Y6N2,Brandon University,R7A6A9,1396
+Charlie,Schmit,V1Y6N2,British Columbia Institute of Technology,V5G3H2,263
+Charlie,Schmit,V1Y6N2,Brock University,L2S3A1,3127
+Charlie,Schmit,V1Y6N2,Canadian Mennonite University,R3P2N2,1590
+Charlie,Schmit,V1Y6N2,Carleton University,K1S5B6,3271
+Charlie,Schmit,V1Y6N2,College of New Caledonia,V2N1P8,480
+Charlie,Schmit,V1Y6N2,College of the Rockies,V1C5L7,271
+Charlie,Schmit,V1Y6N2,Columbia College,V6A0C1,269
+Charlie,Schmit,V1Y6N2,Concordia University,H3G1M8,3415
+Charlie,Schmit,V1Y6N2,Conestoga College,N2G4M4,3024
+Charlie,Schmit,V1Y6N2,Dalhousie University,B3H4R2,4159
+Charlie,Schmit,V1Y6N2,Douglas College,V3M5Z5,261
+Charlie,Schmit,V1Y6N2,Durham College,L1G0C5,3116
+Charlie,Schmit,V1Y6N2,Ecole des Hautes Etudes Commerciales,H3T2A7,3412
+Charlie,Schmit,V1Y6N2,"Ecole Polytechnique de Montreal, Universite de Montreal",H3T1J4,3412
+Charlie,Schmit,V1Y6N2,Emily Carr Institute of Art + Design,V5T0H2,269
+Charlie,Schmit,V1Y6N2,King's University College,T6B2H3,580
+Charlie,Schmit,V1Y6N2,Lakehead University,P7B5E1,2164
+Charlie,Schmit,V1Y6N2,McGill University,H3A0G4,3415
+Charlie,Schmit,V1Y6N2,McMaster University,L8S4L8,3074
+Charlie,Schmit,V1Y6N2,Memorial University of Newfoundland,A1C5S7,4744
+Charlie,Schmit,V1Y6N2,Mount Allison University,E4L1E2,4037
+Charlie,Schmit,V1Y6N2,Mount Royal College,T3E6K6,396
+Charlie,Schmit,V1Y6N2,Mount Saint Vincent University,B3M2J6,4152
+Charlie,Schmit,V1Y6N2,Nicola Valley Institute of Technology,V1K1R1,97
+Charlie,Schmit,V1Y6N2,Nipissing University,P1B8L7,2953
+Charlie,Schmit,V1Y6N2,Queen's University,K7L3N6,3271
+Charlie,Schmit,V1Y6N2,Ryerson University,M5B2K3,3093
+Charlie,Schmit,V1Y6N2,Simon Fraser University,V5A1S6,258
+Charlie,Schmit,V1Y6N2,St. Francis Xavier University,B2G2W5,4217
+Charlie,Schmit,V1Y6N2,Trent University,L1J5Y1,3117
+Charlie,Schmit,V1Y6N2,Universite de Montreal,H3T1J4,3412
+Charlie,Schmit,V1Y6N2,Universite de Sherbrooke,J1K2R1,3537
+Charlie,Schmit,V1Y6N2,Universite Laval,G1V0A6,3517
+Charlie,Schmit,V1Y6N2,University of Alberta,T6G2R3,575
+Charlie,Schmit,V1Y6N2,University of British Columbia,V6T1Z4,245
+Charlie,Schmit,V1Y6N2,University of Calgary,T2N1N4,401
+Charlie,Schmit,V1Y6N2,University of Guelph,N1G2W1,3039
+Charlie,Schmit,V1Y6N2,University of Lethbridge,T1K3M4,478
+Charlie,Schmit,V1Y6N2,University of Manitoba,R3T2N2,1595
+Charlie,Schmit,V1Y6N2,University of Moncton,E1A3E9,4006
+Charlie,Schmit,V1Y6N2,University of New Brunswick,E3B5A3,3884
+Charlie,Schmit,V1Y6N2,University of Northern British Columbia,V2N4Z9,480
+Charlie,Schmit,V1Y6N2,University of Ontario Institute of Technology,L1G0C5,3116
+Charlie,Schmit,V1Y6N2,University of Ottawa,K1N6N5,3270
+Charlie,Schmit,V1Y6N2,University of Prince Edward Island,C1A4P3,4114
+Charlie,Schmit,V1Y6N2,University of Quebec,G1K9H7,3521
+Charlie,Schmit,V1Y6N2,University of Regina,S4S0A2,1060
+Charlie,Schmit,V1Y6N2,University of Saskatchewan,S7N5A2,933
+Charlie,Schmit,V1Y6N2,University of Toronto,M5S1A1,3091
+Charlie,Schmit,V1Y6N2,"University of Toronto, Mississauga",L5L1C6,3076
+Charlie,Schmit,V1Y6N2,"University of Toronto, Scarborough",M1C1A4,3102
+Charlie,Schmit,V1Y6N2,University of Victoria,V8P5C2,322
+Charlie,Schmit,V1Y6N2,University of Waterloo,N2L3G1,3019
+Charlie,Schmit,V1Y6N2,University of Western Ontario,N6A3K7,2992
+Charlie,Schmit,V1Y6N2,University of Windsor,N9B3P4,2901
+Charlie,Schmit,V1Y6N2,University of Winnipeg,R3B2E9,1595
+Charlie,Schmit,V1Y6N2,Wilfrid Laurier University,N2L3C5,3019
+Charlie,Schmit,V1Y6N2,William and Catherine Booth College,R3B2P2,1595
+Charlie,Schmit,V1Y6N2,York University,M3J1P3,3079
+Charlie,Schmit,V1Y6N2,Yukon College,Y1A5K4,1547
+Marge,Moore,L4M3C4,Acadia University,B4P2R6,1209
+Marge,Moore,L4M3C4,Athabasca University,T9S3A3,2649
+Marge,Moore,L4M3C4,Bishop's University,J1M1Z7,625
+Marge,Moore,L4M3C4,Brandon University,R7A6A9,1643
+Marge,Moore,L4M3C4,British Columbia Institute of Technology,V5G3H2,3294
+Marge,Moore,L4M3C4,Brock University,L2S3A1,143
+Marge,Moore,L4M3C4,Canadian Mennonite University,R3P2N2,1455
+Marge,Moore,L4M3C4,Carleton University,K1S5B6,332
+Marge,Moore,L4M3C4,College of New Caledonia,V2N1P8,3262
+Marge,Moore,L4M3C4,College of the Rockies,V1C5L7,2770
+Marge,Moore,L4M3C4,Columbia College,V6A0C1,3300
+Marge,Moore,L4M3C4,Concordia University,H3G1M8,494
+Marge,Moore,L4M3C4,Conestoga College,N2G4M4,125
+Marge,Moore,L4M3C4,Dalhousie University,B3H4R2,1273
+Marge,Moore,L4M3C4,Douglas College,V3M5Z5,3291
+Marge,Moore,L4M3C4,Durham College,L1G0C5,83
+Marge,Moore,L4M3C4,Ecole des Hautes Etudes Commerciales,H3T2A7,491
+Marge,Moore,L4M3C4,"Ecole Polytechnique de Montreal, Universite de Montreal",H3T1J4,491
+Marge,Moore,L4M3C4,Emily Carr Institute of Art + Design,V5T0H2,3301
+Marge,Moore,L4M3C4,King's University College,T6B2H3,2634
+Marge,Moore,L4M3C4,Lakehead University,P7B5E1,898
+Marge,Moore,L4M3C4,McGill University,H3A0G4,495
+Marge,Moore,L4M3C4,McMaster University,L8S4L8,128
+Marge,Moore,L4M3C4,Memorial University of Newfoundland,A1C5S7,2104
+Marge,Moore,L4M3C4,Mount Allison University,E4L1E2,1208
+Marge,Moore,L4M3C4,Mount Royal College,T3E6K6,2656
+Marge,Moore,L4M3C4,Mount Saint Vincent University,B3M2J6,1267
+Marge,Moore,L4M3C4,Nicola Valley Institute of Technology,V1K1R1,3127
+Marge,Moore,L4M3C4,Nipissing University,P1B8L7,215
+Marge,Moore,L4M3C4,Queen's University,K7L3N6,258
+Marge,Moore,L4M3C4,Ryerson University,M5B2K3,86
+Marge,Moore,L4M3C4,Simon Fraser University,V5A1S6,3290
+Marge,Moore,L4M3C4,St. Francis Xavier University,B2G2W5,1393
+Marge,Moore,L4M3C4,Trent University,L1J5Y1,85
+Marge,Moore,L4M3C4,Universite de Montreal,H3T1J4,491
+Marge,Moore,L4M3C4,Universite de Sherbrooke,J1K2R1,619
+Marge,Moore,L4M3C4,Universite Laval,G1V0A6,703
+Marge,Moore,L4M3C4,University of Alberta,T6G2R3,2641
+Marge,Moore,L4M3C4,University of British Columbia,V6T1Z4,3279
+Marge,Moore,L4M3C4,University of Calgary,T2N1N4,2654
+Marge,Moore,L4M3C4,University of Guelph,N1G2W1,108
+Marge,Moore,L4M3C4,University of Lethbridge,T1K3M4,2559
+Marge,Moore,L4M3C4,University of Manitoba,R3T2N2,1449
+Marge,Moore,L4M3C4,University of Moncton,E1A3E9,1184
+Marge,Moore,L4M3C4,University of New Brunswick,E3B5A3,1030
+Marge,Moore,L4M3C4,University of Northern British Columbia,V2N4Z9,3262
+Marge,Moore,L4M3C4,University of Ontario Institute of Technology,L1G0C5,83
+Marge,Moore,L4M3C4,University of Ottawa,K1N6N5,334
+Marge,Moore,L4M3C4,University of Prince Edward Island,C1A4P3,1315
+Marge,Moore,L4M3C4,University of Quebec,G1K9H7,709
+Marge,Moore,L4M3C4,University of Regina,S4S0A2,1981
+Marge,Moore,L4M3C4,University of Saskatchewan,S7N5A2,2156
+Marge,Moore,L4M3C4,University of Toronto,M5S1A1,85
+Marge,Moore,L4M3C4,"University of Toronto, Mississauga",L5L1C6,96
+Marge,Moore,L4M3C4,"University of Toronto, Scarborough",M1C1A4,79
+Marge,Moore,L4M3C4,University of Victoria,V8P5C2,3331
+Marge,Moore,L4M3C4,University of Waterloo,N2L3G1,125
+Marge,Moore,L4M3C4,University of Western Ontario,N6A3K7,202
+Marge,Moore,L4M3C4,University of Windsor,N9B3P4,360
+Marge,Moore,L4M3C4,University of Winnipeg,R3B2E9,1451
+Marge,Moore,L4M3C4,Wilfrid Laurier University,N2L3C5,125
+Marge,Moore,L4M3C4,William and Catherine Booth College,R3B2P2,1451
+Marge,Moore,L4M3C4,York University,M3J1P3,71
+Marge,Moore,L4M3C4,Yukon College,Y1A5K4,4006
+Greg,Bouchard,J1M0B8,Acadia University,B4P2R6,586
+Greg,Bouchard,J1M0B8,Athabasca University,T9S3A3,3084
+Greg,Bouchard,J1M0B8,Bishop's University,J1M1Z7,0
+Greg,Bouchard,J1M0B8,Brandon University,R7A6A9,2152
+Greg,Bouchard,J1M0B8,British Columbia Institute of Technology,V5G3H2,3807
+Greg,Bouchard,J1M0B8,Brock University,L2S3A1,640
+Greg,Bouchard,J1M0B8,Canadian Mennonite University,R3P2N2,1956
+Greg,Bouchard,J1M0B8,Carleton University,K1S5B6,300
+Greg,Bouchard,J1M0B8,College of New Caledonia,V2N1P8,3717
+Greg,Bouchard,J1M0B8,College of the Rockies,V1C5L7,3288
+Greg,Bouchard,J1M0B8,Columbia College,V6A0C1,3813
+Greg,Bouchard,J1M0B8,Concordia University,H3G1M8,136
+Greg,Bouchard,J1M0B8,Conestoga College,N2G4M4,719
+Greg,Bouchard,J1M0B8,Dalhousie University,B3H4R2,654
+Greg,Bouchard,J1M0B8,Douglas College,V3M5Z5,3804
+Greg,Bouchard,J1M0B8,Durham College,L1G0C5,578
+Greg,Bouchard,J1M0B8,Ecole des Hautes Etudes Commerciales,H3T2A7,139
+Greg,Bouchard,J1M0B8,"Ecole Polytechnique de Montreal, Universite de Montreal",H3T1J4,139
+Greg,Bouchard,J1M0B8,Emily Carr Institute of Art + Design,V5T0H2,3813
+Greg,Bouchard,J1M0B8,King's University College,T6B2H3,3090
+Greg,Bouchard,J1M0B8,Lakehead University,P7B5E1,1383
+Greg,Bouchard,J1M0B8,McGill University,H3A0G4,136
+Greg,Bouchard,J1M0B8,McMaster University,L8S4L8,683
+Greg,Bouchard,J1M0B8,Memorial University of Newfoundland,A1C5S7,1484
+Greg,Bouchard,J1M0B8,Mount Allison University,E4L1E2,583
+Greg,Bouchard,J1M0B8,Mount Royal College,T3E6K6,3154
+Greg,Bouchard,J1M0B8,Mount Saint Vincent University,B3M2J6,647
+Greg,Bouchard,J1M0B8,Nicola Valley Institute of Technology,V1K1R1,3632
+Greg,Bouchard,J1M0B8,Nipissing University,P1B8L7,609
+Greg,Bouchard,J1M0B8,Queen's University,K7L3N6,381
+Greg,Bouchard,J1M0B8,Ryerson University,M5B2K3,627
+Greg,Bouchard,J1M0B8,Simon Fraser University,V5A1S6,3802
+Greg,Bouchard,J1M0B8,St. Francis Xavier University,B2G2W5,767
+Greg,Bouchard,J1M0B8,Trent University,L1J5Y1,580
+Greg,Bouchard,J1M0B8,Universite de Montreal,H3T1J4,139
+Greg,Bouchard,J1M0B8,Universite de Sherbrooke,J1K2R1,7
+Greg,Bouchard,J1M0B8,Universite Laval,G1V0A6,163
+Greg,Bouchard,J1M0B8,University of Alberta,T6G2R3,3098
+Greg,Bouchard,J1M0B8,University of British Columbia,V6T1Z4,3789
+Greg,Bouchard,J1M0B8,University of Calgary,T2N1N4,3150
+Greg,Bouchard,J1M0B8,University of Guelph,N1G2W1,696
+Greg,Bouchard,J1M0B8,University of Lethbridge,T1K3M4,3076
+Greg,Bouchard,J1M0B8,University of Manitoba,R3T2N2,1951
+Greg,Bouchard,J1M0B8,University of Moncton,E1A3E9,559
+Greg,Bouchard,J1M0B8,University of New Brunswick,E3B5A3,405
+Greg,Bouchard,J1M0B8,University of Northern British Columbia,V2N4Z9,3717
+Greg,Bouchard,J1M0B8,University of Ontario Institute of Technology,L1G0C5,578
+Greg,Bouchard,J1M0B8,University of Ottawa,K1N6N5,300
+Greg,Bouchard,J1M0B8,University of Prince Edward Island,C1A4P3,691
+Greg,Bouchard,J1M0B8,University of Quebec,G1K9H7,168
+Greg,Bouchard,J1M0B8,University of Regina,S4S0A2,2485
+Greg,Bouchard,J1M0B8,University of Saskatchewan,S7N5A2,2629
+Greg,Bouchard,J1M0B8,University of Toronto,M5S1A1,628
+Greg,Bouchard,J1M0B8,"University of Toronto, Mississauga",L5L1C6,655
+Greg,Bouchard,J1M0B8,"University of Toronto, Scarborough",M1C1A4,605
+Greg,Bouchard,J1M0B8,University of Victoria,V8P5C2,3852
+Greg,Bouchard,J1M0B8,University of Waterloo,N2L3G1,722
+Greg,Bouchard,J1M0B8,University of Western Ontario,N6A3K7,795
+Greg,Bouchard,J1M0B8,University of Windsor,N9B3P4,961
+Greg,Bouchard,J1M0B8,University of Winnipeg,R3B2E9,1951
+Greg,Bouchard,J1M0B8,Wilfrid Laurier University,N2L3C5,722
+Greg,Bouchard,J1M0B8,William and Catherine Booth College,R3B2P2,1951
+Greg,Bouchard,J1M0B8,York University,M3J1P3,631
+Greg,Bouchard,J1M0B8,Yukon College,Y1A5K4,4353
+Bill,Rodriguez,N1E4J4,Acadia University,B4P2R6,1272
+Bill,Rodriguez,N1E4J4,Athabasca University,T9S3A3,2670
+Bill,Rodriguez,N1E4J4,Bishop's University,J1M1Z7,696
+Bill,Rodriguez,N1E4J4,Brandon University,R7A6A9,1650
+Bill,Rodriguez,N1E4J4,British Columbia Institute of Technology,V5G3H2,3292
+Bill,Rodriguez,N1E4J4,Brock University,L2S3A1,92
+Bill,Rodriguez,N1E4J4,Canadian Mennonite University,R3P2N2,1466
+Bill,Rodriguez,N1E4J4,Carleton University,K1S5B6,415
+Bill,Rodriguez,N1E4J4,College of New Caledonia,V2N1P8,3276
+Bill,Rodriguez,N1E4J4,College of the Rockies,V1C5L7,2769
+Bill,Rodriguez,N1E4J4,Columbia College,V6A0C1,3299
+Bill,Rodriguez,N1E4J4,Concordia University,H3G1M8,570
+Bill,Rodriguez,N1E4J4,Conestoga College,N2G4M4,24
+Bill,Rodriguez,N1E4J4,Dalhousie University,B3H4R2,1333
+Bill,Rodriguez,N1E4J4,Douglas College,V3M5Z5,3289
+Bill,Rodriguez,N1E4J4,Durham College,L1G0C5,117
+Bill,Rodriguez,N1E4J4,Ecole des Hautes Etudes Commerciales,H3T2A7,567
+Bill,Rodriguez,N1E4J4,"Ecole Polytechnique de Montreal, Universite de Montreal",H3T1J4,567
+Bill,Rodriguez,N1E4J4,Emily Carr Institute of Art + Design,V5T0H2,3299
+Bill,Rodriguez,N1E4J4,King's University College,T6B2H3,2650
+Bill,Rodriguez,N1E4J4,Lakehead University,P7B5E1,923
+Bill,Rodriguez,N1E4J4,McGill University,H3A0G4,570
+Bill,Rodriguez,N1E4J4,McMaster University,L8S4L8,43
+Bill,Rodriguez,N1E4J4,Memorial University of Newfoundland,A1C5S7,2179
+Bill,Rodriguez,N1E4J4,Mount Allison University,E4L1E2,1277
+Bill,Rodriguez,N1E4J4,Mount Royal College,T3E6K6,2661
+Bill,Rodriguez,N1E4J4,Mount Saint Vincent University,B3M2J6,1327
+Bill,Rodriguez,N1E4J4,Nicola Valley Institute of Technology,V1K1R1,3128
+Bill,Rodriguez,N1E4J4,Nipissing University,P1B8L7,312
+Bill,Rodriguez,N1E4J4,Queen's University,K7L3N6,316
+Bill,Rodriguez,N1E4J4,Ryerson University,M5B2K3,70
+Bill,Rodriguez,N1E4J4,Simon Fraser University,V5A1S6,3288
+Bill,Rodriguez,N1E4J4,St. Francis Xavier University,B2G2W5,1459
+Bill,Rodriguez,N1E4J4,Trent University,L1J5Y1,115
+Bill,Rodriguez,N1E4J4,Universite de Montreal,H3T1J4,567
+Bill,Rodriguez,N1E4J4,Universite de Sherbrooke,J1K2R1,689
+Bill,Rodriguez,N1E4J4,Universite Laval,G1V0A6,787
+Bill,Rodriguez,N1E4J4,University of Alberta,T6G2R3,2657
+Bill,Rodriguez,N1E4J4,University of British Columbia,V6T1Z4,3278
+Bill,Rodriguez,N1E4J4,University of Calgary,T2N1N4,2659
+Bill,Rodriguez,N1E4J4,University of Guelph,N1G2W1,6
+Bill,Rodriguez,N1E4J4,University of Lethbridge,T1K3M4,2558
+Bill,Rodriguez,N1E4J4,University of Manitoba,R3T2N2,1460
+Bill,Rodriguez,N1E4J4,University of Moncton,E1A3E9,1255
+Bill,Rodriguez,N1E4J4,University of New Brunswick,E3B5A3,1100
+Bill,Rodriguez,N1E4J4,University of Northern British Columbia,V2N4Z9,3276
+Bill,Rodriguez,N1E4J4,University of Ontario Institute of Technology,L1G0C5,117
+Bill,Rodriguez,N1E4J4,University of Ottawa,K1N6N5,416
+Bill,Rodriguez,N1E4J4,University of Prince Edward Island,C1A4P3,1386
+Bill,Rodriguez,N1E4J4,University of Quebec,G1K9H7,793
+Bill,Rodriguez,N1E4J4,University of Regina,S4S0A2,1987
+Bill,Rodriguez,N1E4J4,University of Saskatchewan,S7N5A2,2170
+Bill,Rodriguez,N1E4J4,University of Toronto,M5S1A1,69
+Bill,Rodriguez,N1E4J4,"University of Toronto, Mississauga",L5L1C6,45
+Bill,Rodriguez,N1E4J4,"University of Toronto, Scarborough",M1C1A4,91
+Bill,Rodriguez,N1E4J4,University of Victoria,V8P5C2,3327
+Bill,Rodriguez,N1E4J4,University of Waterloo,N2L3G1,27
+Bill,Rodriguez,N1E4J4,University of Western Ontario,N6A3K7,104
+Bill,Rodriguez,N1E4J4,University of Windsor,N9B3P4,269
+Bill,Rodriguez,N1E4J4,University of Winnipeg,R3B2E9,1463
+Bill,Rodriguez,N1E4J4,Wilfrid Laurier University,N2L3C5,27
+Bill,Rodriguez,N1E4J4,William and Catherine Booth College,R3B2P2,1463
+Bill,Rodriguez,N1E4J4,York University,M3J1P3,64
+Bill,Rodriguez,N1E4J4,Yukon College,Y1A5K4,4042
+James,Scott,V2S6Y5,Acadia University,B4P2R6,4301
+James,Scott,V2S6Y5,Athabasca University,T9S3A3,882
+James,Scott,V2S6Y5,Bishop's University,J1M1Z7,3762
+James,Scott,V2S6Y5,Brandon University,R7A6A9,1611
+James,Scott,V2S6Y5,British Columbia Institute of Technology,V5G3H2,56
+James,Scott,V2S6Y5,Brock University,L2S3A1,3335
+James,Scott,V2S6Y5,Canadian Mennonite University,R3P2N2,1806
+James,Scott,V2S6Y5,Carleton University,K1S5B6,3486
+James,Scott,V2S6Y5,College of New Caledonia,V2N1P8,513
+James,Scott,V2S6Y5,College of the Rockies,V1C5L7,475
+James,Scott,V2S6Y5,Columbia College,V6A0C1,64
+James,Scott,V2S6Y5,Concordia University,H3G1M8,3632
+James,Scott,V2S6Y5,Conestoga College,N2G4M4,3231
+James,Scott,V2S6Y5,Dalhousie University,B3H4R2,4379
+James,Scott,V2S6Y5,Douglas College,V3M5Z5,50
+James,Scott,V2S6Y5,Durham College,L1G0C5,3326
+James,Scott,V2S6Y5,Ecole des Hautes Etudes Commerciales,H3T2A7,3629
+James,Scott,V2S6Y5,"Ecole Polytechnique de Montreal, Universite de Montreal",H3T1J4,3629
+James,Scott,V2S6Y5,Emily Carr Institute of Art + Design,V5T0H2,64
+James,Scott,V2S6Y5,King's University College,T6B2H3,791
+James,Scott,V2S6Y5,Lakehead University,P7B5E1,2380
+James,Scott,V2S6Y5,McGill University,H3A0G4,3632
+James,Scott,V2S6Y5,McMaster University,L8S4L8,3282
+James,Scott,V2S6Y5,Memorial University of Newfoundland,A1C5S7,4967
+James,Scott,V2S6Y5,Mount Allison University,E4L1E2,4258
+James,Scott,V2S6Y5,Mount Royal College,T3E6K6,619
+James,Scott,V2S6Y5,Mount Saint Vincent University,B3M2J6,4372
+James,Scott,V2S6Y5,Nicola Valley Institute of Technology,V1K1R1,160
+James,Scott,V2S6Y5,Nipissing University,P1B8L7,3168
+James,Scott,V2S6Y5,Queen's University,K7L3N6,3484
+James,Scott,V2S6Y5,Ryerson University,M5B2K3,3301
+James,Scott,V2S6Y5,Simon Fraser University,V5A1S6,54
+James,Scott,V2S6Y5,St. Francis Xavier University,B2G2W5,4438
+James,Scott,V2S6Y5,Trent University,L1J5Y1,3327
+James,Scott,V2S6Y5,Universite de Montreal,H3T1J4,3629
+James,Scott,V2S6Y5,Universite de Sherbrooke,J1K2R1,3754
+James,Scott,V2S6Y5,Universite Laval,G1V0A6,3737
+James,Scott,V2S6Y5,University of Alberta,T6G2R3,785
+James,Scott,V2S6Y5,University of British Columbia,V6T1Z4,61
+James,Scott,V2S6Y5,University of Calgary,T2N1N4,624
+James,Scott,V2S6Y5,University of Guelph,N1G2W1,3247
+James,Scott,V2S6Y5,University of Lethbridge,T1K3M4,687
+James,Scott,V2S6Y5,University of Manitoba,R3T2N2,1811
+James,Scott,V2S6Y5,University of Moncton,E1A3E9,4227
+James,Scott,V2S6Y5,University of New Brunswick,E3B5A3,4104
+James,Scott,V2S6Y5,University of Northern British Columbia,V2N4Z9,513
+James,Scott,V2S6Y5,University of Ontario Institute of Technology,L1G0C5,3326
+James,Scott,V2S6Y5,University of Ottawa,K1N6N5,3485
+James,Scott,V2S6Y5,University of Prince Edward Island,C1A4P3,4335
+James,Scott,V2S6Y5,University of Quebec,G1K9H7,3740
+James,Scott,V2S6Y5,University of Regina,S4S0A2,1276
+James,Scott,V2S6Y5,University of Saskatchewan,S7N5A2,1156
+James,Scott,V2S6Y5,University of Toronto,M5S1A1,3300
+James,Scott,V2S6Y5,"University of Toronto, Mississauga",L5L1C6,3285
+James,Scott,V2S6Y5,"University of Toronto, Scarborough",M1C1A4,3311
+James,Scott,V2S6Y5,University of Victoria,V8P5C2,101
+James,Scott,V2S6Y5,University of Waterloo,N2L3G1,3226
+James,Scott,V2S6Y5,University of Western Ontario,N6A3K7,3197
+James,Scott,V2S6Y5,University of Windsor,N9B3P4,3102
+James,Scott,V2S6Y5,University of Winnipeg,R3B2E9,1811
+James,Scott,V2S6Y5,Wilfrid Laurier University,N2L3C5,3226
+James,Scott,V2S6Y5,William and Catherine Booth College,R3B2P2,1811
+James,Scott,V2S6Y5,York University,M3J1P3,3288
+James,Scott,V2S6Y5,Yukon College,Y1A5K4,1528
+Lidia,Stewart,L6H3H6,Acadia University,B4P2R6,1232
+Lidia,Stewart,L6H3H6,Athabasca University,T9S3A3,2709
+Lidia,Stewart,L6H3H6,Bishop's University,J1M1Z7,658
+Lidia,Stewart,L6H3H6,Brandon University,R7A6A9,1691
+Lidia,Stewart,L6H3H6,British Columbia Institute of Technology,V5G3H2,3335
+Lidia,Stewart,L6H3H6,Brock University,L2S3A1,53
+Lidia,Stewart,L6H3H6,Canadian Mennonite University,R3P2N2,1506
+Lidia,Stewart,L6H3H6,Carleton University,K1S5B6,384
+Lidia,Stewart,L6H3H6,College of New Caledonia,V2N1P8,3317
+Lidia,Stewart,L6H3H6,College of the Rockies,V1C5L7,2811
+Lidia,Stewart,L6H3H6,Columbia College,V6A0C1,3341
+Lidia,Stewart,L6H3H6,Concordia University,H3G1M8,535
+Lidia,Stewart,L6H3H6,Conestoga College,N2G4M4,63
+Lidia,Stewart,L6H3H6,Dalhousie University,B3H4R2,1293
+Lidia,Stewart,L6H3H6,Douglas College,V3M5Z5,3331
+Lidia,Stewart,L6H3H6,Durham College,L1G0C5,83
+Lidia,Stewart,L6H3H6,Ecole des Hautes Etudes Commerciales,H3T2A7,532
+Lidia,Stewart,L6H3H6,"Ecole Polytechnique de Montreal, Universite de Montreal",H3T1J4,532
+Lidia,Stewart,L6H3H6,Emily Carr Institute of Art + Design,V5T0H2,3342
+Lidia,Stewart,L6H3H6,King's University College,T6B2H3,2690
+Lidia,Stewart,L6H3H6,Lakehead University,P7B5E1,961
+Lidia,Stewart,L6H3H6,McGill University,H3A0G4,536
+Lidia,Stewart,L6H3H6,McMaster University,L8S4L8,30
+Lidia,Stewart,L6H3H6,Memorial University of Newfoundland,A1C5S7,2143
+Lidia,Stewart,L6H3H6,Mount Allison University,E4L1E2,1239
+Lidia,Stewart,L6H3H6,Mount Royal College,T3E6K6,2703
+Lidia,Stewart,L6H3H6,Mount Saint Vincent University,B3M2J6,1287
+Lidia,Stewart,L6H3H6,Nicola Valley Institute of Technology,V1K1R1,3170
+Lidia,Stewart,L6H3H6,Nipissing University,P1B8L7,317
+Lidia,Stewart,L6H3H6,Queen's University,K7L3N6,278
+Lidia,Stewart,L6H3H6,Ryerson University,M5B2K3,33
+Lidia,Stewart,L6H3H6,Simon Fraser University,V5A1S6,3330
+Lidia,Stewart,L6H3H6,St. Francis Xavier University,B2G2W5,1420
+Lidia,Stewart,L6H3H6,Trent University,L1J5Y1,80
+Lidia,Stewart,L6H3H6,Universite de Montreal,H3T1J4,532
+Lidia,Stewart,L6H3H6,Universite de Sherbrooke,J1K2R1,652
+Lidia,Stewart,L6H3H6,Universite Laval,G1V0A6,755
+Lidia,Stewart,L6H3H6,University of Alberta,T6G2R3,2697
+Lidia,Stewart,L6H3H6,University of British Columbia,V6T1Z4,3320
+Lidia,Stewart,L6H3H6,University of Calgary,T2N1N4,2700
+Lidia,Stewart,L6H3H6,University of Guelph,N1G2W1,42
+Lidia,Stewart,L6H3H6,University of Lethbridge,T1K3M4,2600
+Lidia,Stewart,L6H3H6,University of Manitoba,R3T2N2,1501
+Lidia,Stewart,L6H3H6,University of Moncton,E1A3E9,1217
+Lidia,Stewart,L6H3H6,University of New Brunswick,E3B5A3,1062
+Lidia,Stewart,L6H3H6,University of Northern British Columbia,V2N4Z9,3317
+Lidia,Stewart,L6H3H6,University of Ontario Institute of Technology,L1G0C5,83
+Lidia,Stewart,L6H3H6,University of Ottawa,K1N6N5,385
+Lidia,Stewart,L6H3H6,University of Prince Edward Island,C1A4P3,1348
+Lidia,Stewart,L6H3H6,University of Quebec,G1K9H7,761
+Lidia,Stewart,L6H3H6,University of Regina,S4S0A2,2029
+Lidia,Stewart,L6H3H6,University of Saskatchewan,S7N5A2,2210
+Lidia,Stewart,L6H3H6,University of Toronto,M5S1A1,32
+Lidia,Stewart,L6H3H6,"University of Toronto, Mississauga",L5L1C6,6
+Lidia,Stewart,L6H3H6,"University of Toronto, Scarborough",M1C1A4,56
+Lidia,Stewart,L6H3H6,University of Victoria,V8P5C2,3369
+Lidia,Stewart,L6H3H6,University of Waterloo,N2L3G1,67
+Lidia,Stewart,L6H3H6,University of Western Ontario,N6A3K7,137
+Lidia,Stewart,L6H3H6,University of Windsor,N9B3P4,303
+Lidia,Stewart,L6H3H6,University of Winnipeg,R3B2E9,1503
+Lidia,Stewart,L6H3H6,Wilfrid Laurier University,N2L3C5,67
+Lidia,Stewart,L6H3H6,William and Catherine Booth College,R3B2P2,1503
+Lidia,Stewart,L6H3H6,York University,M3J1P3,36
+Lidia,Stewart,L6H3H6,Yukon College,Y1A5K4,4078
+Debbie,Chan,K7L1B6,Acadia University,B4P2R6,957
+Debbie,Chan,K7L1B6,Athabasca University,T9S3A3,2861
+Debbie,Chan,K7L1B6,Bishop's University,J1M1Z7,381
+Debbie,Chan,K7L1B6,Brandon University,R7A6A9,1876
+Debbie,Chan,K7L1B6,British Columbia Institute of Technology,V5G3H2,3531
+Debbie,Chan,K7L1B6,Brock University,L2S3A1,261
+Debbie,Chan,K7L1B6,Canadian Mennonite University,R3P2N2,1684
+Debbie,Chan,K7L1B6,Carleton University,K1S5B6,136
+Debbie,Chan,K7L1B6,College of New Caledonia,V2N1P8,3482
+Debbie,Chan,K7L1B6,College of the Rockies,V1C5L7,3009
+Debbie,Chan,K7L1B6,Columbia College,V6A0C1,3538
+Debbie,Chan,K7L1B6,Concordia University,H3G1M8,261
+Debbie,Chan,K7L1B6,Conestoga College,N2G4M4,339
+Debbie,Chan,K7L1B6,Dalhousie University,B3H4R2,1019
+Debbie,Chan,K7L1B6,Douglas College,V3M5Z5,3529
+Debbie,Chan,K7L1B6,Durham College,L1G0C5,199
+Debbie,Chan,K7L1B6,Ecole des Hautes Etudes Commerciales,H3T2A7,259
+Debbie,Chan,K7L1B6,"Ecole Polytechnique de Montreal, Universite de Montreal",H3T1J4,259
+Debbie,Chan,K7L1B6,Emily Carr Institute of Art + Design,V5T0H2,3538
+Debbie,Chan,K7L1B6,King's University College,T6B2H3,2853
+Debbie,Chan,K7L1B6,Lakehead University,P7B5E1,1116
+Debbie,Chan,K7L1B6,McGill University,H3A0G4,262
+Debbie,Chan,K7L1B6,McMaster University,L8S4L8,303
+Debbie,Chan,K7L1B6,Memorial University of Newfoundland,A1C5S7,1865
+Debbie,Chan,K7L1B6,Mount Allison University,E4L1E2,961
+Debbie,Chan,K7L1B6,Mount Royal College,T3E6K6,2888
+Debbie,Chan,K7L1B6,Mount Saint Vincent University,B3M2J6,1013
+Debbie,Chan,K7L1B6,Nicola Valley Institute of Technology,V1K1R1,3362
+Debbie,Chan,K7L1B6,Nipissing University,P1B8L7,335
+Debbie,Chan,K7L1B6,Queen's University,K7L3N6,0
+Debbie,Chan,K7L1B6,Ryerson University,M5B2K3,247
+Debbie,Chan,K7L1B6,Simon Fraser University,V5A1S6,3527
+Debbie,Chan,K7L1B6,St. Francis Xavier University,B2G2W5,1143
+Debbie,Chan,K7L1B6,Trent University,L1J5Y1,201
+Debbie,Chan,K7L1B6,Universite de Montreal,H3T1J4,259
+Debbie,Chan,K7L1B6,Universite de Sherbrooke,J1K2R1,374
+Debbie,Chan,K7L1B6,Universite Laval,G1V0A6,486
+Debbie,Chan,K7L1B6,University of Alberta,T6G2R3,2860
+Debbie,Chan,K7L1B6,University of British Columbia,V6T1Z4,3515
+Debbie,Chan,K7L1B6,University of Calgary,T2N1N4,2885
+Debbie,Chan,K7L1B6,University of Guelph,N1G2W1,316
+Debbie,Chan,K7L1B6,University of Lethbridge,T1K3M4,2797
+Debbie,Chan,K7L1B6,University of Manitoba,R3T2N2,1679
+Debbie,Chan,K7L1B6,University of Moncton,E1A3E9,939
+Debbie,Chan,K7L1B6,University of New Brunswick,E3B5A3,784
+Debbie,Chan,K7L1B6,University of Northern British Columbia,V2N4Z9,3482
+Debbie,Chan,K7L1B6,University of Ontario Institute of Technology,L1G0C5,199
+Debbie,Chan,K7L1B6,University of Ottawa,K1N6N5,139
+Debbie,Chan,K7L1B6,University of Prince Edward Island,C1A4P3,1071
+Debbie,Chan,K7L1B6,University of Quebec,G1K9H7,493
+Debbie,Chan,K7L1B6,University of Regina,S4S0A2,2214
+Debbie,Chan,K7L1B6,University of Saskatchewan,S7N5A2,2379
+Debbie,Chan,K7L1B6,University of Toronto,M5S1A1,248
+Debbie,Chan,K7L1B6,"University of Toronto, Mississauga",L5L1C6,275
+Debbie,Chan,K7L1B6,"University of Toronto, Scarborough",M1C1A4,225
+Debbie,Chan,K7L1B6,University of Victoria,V8P5C2,3571
+Debbie,Chan,K7L1B6,University of Waterloo,N2L3G1,342
+Debbie,Chan,K7L1B6,University of Western Ontario,N6A3K7,414
+Debbie,Chan,K7L1B6,University of Windsor,N9B3P4,580
+Debbie,Chan,K7L1B6,University of Winnipeg,R3B2E9,1680
+Debbie,Chan,K7L1B6,Wilfrid Laurier University,N2L3C5,342
+Debbie,Chan,K7L1B6,William and Catherine Booth College,R3B2P2,1680
+Debbie,Chan,K7L1B6,York University,M3J1P3,252
+Debbie,Chan,K7L1B6,Yukon College,Y1A5K4,4190
+Maggie,Garcia,K2T1E8,Acadia University,B4P2R6,906
+Maggie,Garcia,K2T1E8,Athabasca University,T9S3A3,2825
+Maggie,Garcia,K2T1E8,Bishop's University,J1M1Z7,320
+Maggie,Garcia,K2T1E8,Brandon University,R7A6A9,1861
+Maggie,Garcia,K2T1E8,British Columbia Institute of Technology,V5G3H2,3518
+Maggie,Garcia,K2T1E8,Brock University,L2S3A1,359
+Maggie,Garcia,K2T1E8,Canadian Mennonite University,R3P2N2,1667
+Maggie,Garcia,K2T1E8,Carleton University,K1S5B6,22
+Maggie,Garcia,K2T1E8,College of New Caledonia,V2N1P8,3452
+Maggie,Garcia,K2T1E8,College of the Rockies,V1C5L7,2997
+Maggie,Garcia,K2T1E8,Columbia College,V6A0C1,3525
+Maggie,Garcia,K2T1E8,Concordia University,H3G1M8,185
+Maggie,Garcia,K2T1E8,Conestoga College,N2G4M4,417
+Maggie,Garcia,K2T1E8,Dalhousie University,B3H4R2,974
+Maggie,Garcia,K2T1E8,Douglas College,V3M5Z5,3516
+Maggie,Garcia,K2T1E8,Durham College,L1G0C5,279
+Maggie,Garcia,K2T1E8,Ecole des Hautes Etudes Commerciales,H3T2A7,182
+Maggie,Garcia,K2T1E8,"Ecole Polytechnique de Montreal, Universite de Montreal",H3T1J4,182
+Maggie,Garcia,K2T1E8,Emily Carr Institute of Art + Design,V5T0H2,3525
+Maggie,Garcia,K2T1E8,King's University College,T6B2H3,2823
+Maggie,Garcia,K2T1E8,Lakehead University,P7B5E1,1094
+Maggie,Garcia,K2T1E8,McGill University,H3A0G4,186
+Maggie,Garcia,K2T1E8,McMaster University,L8S4L8,391
+Maggie,Garcia,K2T1E8,Memorial University of Newfoundland,A1C5S7,1793
+Maggie,Garcia,K2T1E8,Mount Allison University,E4L1E2,900
+Maggie,Garcia,K2T1E8,Mount Royal College,T3E6K6,2870
+Maggie,Garcia,K2T1E8,Mount Saint Vincent University,B3M2J6,967
+Maggie,Garcia,K2T1E8,Nicola Valley Institute of Technology,V1K1R1,3346
+Maggie,Garcia,K2T1E8,Nipissing University,P1B8L7,304
+Maggie,Garcia,K2T1E8,Queen's University,K7L3N6,120
+Maggie,Garcia,K2T1E8,Ryerson University,M5B2K3,329
+Maggie,Garcia,K2T1E8,Simon Fraser University,V5A1S6,3514
+Maggie,Garcia,K2T1E8,St. Francis Xavier University,B2G2W5,1086
+Maggie,Garcia,K2T1E8,Trent University,L1J5Y1,282
+Maggie,Garcia,K2T1E8,Universite de Montreal,H3T1J4,182
+Maggie,Garcia,K2T1E8,Universite de Sherbrooke,J1K2R1,313
+Maggie,Garcia,K2T1E8,Universite Laval,G1V0A6,394
+Maggie,Garcia,K2T1E8,University of Alberta,T6G2R3,2830
+Maggie,Garcia,K2T1E8,University of British Columbia,V6T1Z4,3502
+Maggie,Garcia,K2T1E8,University of Calgary,T2N1N4,2867
+Maggie,Garcia,K2T1E8,University of Guelph,N1G2W1,395
+Maggie,Garcia,K2T1E8,University of Lethbridge,T1K3M4,2785
+Maggie,Garcia,K2T1E8,University of Manitoba,R3T2N2,1662
+Maggie,Garcia,K2T1E8,University of Moncton,E1A3E9,875
+Maggie,Garcia,K2T1E8,University of New Brunswick,E3B5A3,723
+Maggie,Garcia,K2T1E8,University of Northern British Columbia,V2N4Z9,3452
+Maggie,Garcia,K2T1E8,University of Ontario Institute of Technology,L1G0C5,279
+Maggie,Garcia,K2T1E8,University of Ottawa,K1N6N5,23
+Maggie,Garcia,K2T1E8,University of Prince Edward Island,C1A4P3,1006
+Maggie,Garcia,K2T1E8,University of Quebec,G1K9H7,400
+Maggie,Garcia,K2T1E8,University of Regina,S4S0A2,2198
+Maggie,Garcia,K2T1E8,University of Saskatchewan,S7N5A2,2353
+Maggie,Garcia,K2T1E8,University of Toronto,M5S1A1,330
+Maggie,Garcia,K2T1E8,"University of Toronto, Mississauga",L5L1C6,358
+Maggie,Garcia,K2T1E8,"University of Toronto, Scarborough",M1C1A4,307
+Maggie,Garcia,K2T1E8,University of Victoria,V8P5C2,3561
+Maggie,Garcia,K2T1E8,University of Waterloo,N2L3G1,420
+Maggie,Garcia,K2T1E8,University of Western Ontario,N6A3K7,496
+Maggie,Garcia,K2T1E8,University of Windsor,N9B3P4,662
+Maggie,Garcia,K2T1E8,University of Winnipeg,R3B2E9,1663
+Maggie,Garcia,K2T1E8,Wilfrid Laurier University,N2L3C5,420
+Maggie,Garcia,K2T1E8,William and Catherine Booth College,R3B2P2,1663
+Maggie,Garcia,K2T1E8,York University,M3J1P3,330
+Maggie,Garcia,K2T1E8,Yukon College,Y1A5K4,4135
+Emma,Pelletier,G8T0C6,Acadia University,B4P2R6,650
+Emma,Pelletier,G8T0C6,Athabasca University,T9S3A3,2976
+Emma,Pelletier,G8T0C6,Bishop's University,J1M1Z7,126
+Emma,Pelletier,G8T0C6,Brandon University,R7A6A9,2059
+Emma,Pelletier,G8T0C6,British Columbia Institute of Technology,V5G3H2,3710
+Emma,Pelletier,G8T0C6,Brock University,L2S3A1,642
+Emma,Pelletier,G8T0C6,Canadian Mennonite University,R3P2N2,1863
+Emma,Pelletier,G8T0C6,Carleton University,K1S5B6,267
+Emma,Pelletier,G8T0C6,College of New Caledonia,V2N1P8,3611
+Emma,Pelletier,G8T0C6,College of the Rockies,V1C5L7,3194
+Emma,Pelletier,G8T0C6,Columbia College,V6A0C1,3716
+Emma,Pelletier,G8T0C6,Concordia University,H3G1M8,128
+Emma,Pelletier,G8T0C6,Conestoga College,N2G4M4,706
+Emma,Pelletier,G8T0C6,Dalhousie University,B3H4R2,724
+Emma,Pelletier,G8T0C6,Douglas College,V3M5Z5,3708
+Emma,Pelletier,G8T0C6,Durham College,L1G0C5,567
+Emma,Pelletier,G8T0C6,Ecole des Hautes Etudes Commerciales,H3T2A7,129
+Emma,Pelletier,G8T0C6,"Ecole Polytechnique de Montreal, Universite de Montreal",H3T1J4,129
+Emma,Pelletier,G8T0C6,Emily Carr Institute of Art + Design,V5T0H2,3717
+Emma,Pelletier,G8T0C6,King's University College,T6B2H3,2985
+Emma,Pelletier,G8T0C6,Lakehead University,P7B5E1,1292
+Emma,Pelletier,G8T0C6,McGill University,H3A0G4,127
+Emma,Pelletier,G8T0C6,McMaster University,L8S4L8,678
+Emma,Pelletier,G8T0C6,Memorial University of Newfoundland,A1C5S7,1509
+Emma,Pelletier,G8T0C6,Mount Allison University,E4L1E2,630
+Emma,Pelletier,G8T0C6,Mount Royal College,T3E6K6,3056
+Emma,Pelletier,G8T0C6,Mount Saint Vincent University,B3M2J6,717
+Emma,Pelletier,G8T0C6,Nicola Valley Institute of Technology,V1K1R1,3534
+Emma,Pelletier,G8T0C6,Nipissing University,P1B8L7,541
+Emma,Pelletier,G8T0C6,Queen's University,K7L3N6,383
+Emma,Pelletier,G8T0C6,Ryerson University,M5B2K3,617
+Emma,Pelletier,G8T0C6,Simon Fraser University,V5A1S6,3706
+Emma,Pelletier,G8T0C6,St. Francis Xavier University,B2G2W5,818
+Emma,Pelletier,G8T0C6,Trent University,L1J5Y1,570
+Emma,Pelletier,G8T0C6,Universite de Montreal,H3T1J4,129
+Emma,Pelletier,G8T0C6,Universite de Sherbrooke,J1K2R1,121
+Emma,Pelletier,G8T0C6,Universite Laval,G1V0A6,105
+Emma,Pelletier,G8T0C6,University of Alberta,T6G2R3,2993
+Emma,Pelletier,G8T0C6,University of British Columbia,V6T1Z4,3692
+Emma,Pelletier,G8T0C6,University of Calgary,T2N1N4,3052
+Emma,Pelletier,G8T0C6,University of Guelph,N1G2W1,684
+Emma,Pelletier,G8T0C6,University of Lethbridge,T1K3M4,2983
+Emma,Pelletier,G8T0C6,University of Manitoba,R3T2N2,1858
+Emma,Pelletier,G8T0C6,University of Moncton,E1A3E9,603
+Emma,Pelletier,G8T0C6,University of New Brunswick,E3B5A3,456
+Emma,Pelletier,G8T0C6,University of Northern British Columbia,V2N4Z9,3611
+Emma,Pelletier,G8T0C6,University of Ontario Institute of Technology,L1G0C5,567
+Emma,Pelletier,G8T0C6,University of Ottawa,K1N6N5,266
+Emma,Pelletier,G8T0C6,University of Prince Edward Island,C1A4P3,731
+Emma,Pelletier,G8T0C6,University of Quebec,G1K9H7,111
+Emma,Pelletier,G8T0C6,University of Regina,S4S0A2,2390
+Emma,Pelletier,G8T0C6,University of Saskatchewan,S7N5A2,2528
+Emma,Pelletier,G8T0C6,University of Toronto,M5S1A1,618
+Emma,Pelletier,G8T0C6,"University of Toronto, Mississauga",L5L1C6,646
+Emma,Pelletier,G8T0C6,"University of Toronto, Scarborough",M1C1A4,594
+Emma,Pelletier,G8T0C6,University of Victoria,V8P5C2,3758
+Emma,Pelletier,G8T0C6,University of Waterloo,N2L3G1,709
+Emma,Pelletier,G8T0C6,University of Western Ontario,N6A3K7,785
+Emma,Pelletier,G8T0C6,University of Windsor,N9B3P4,951
+Emma,Pelletier,G8T0C6,University of Winnipeg,R3B2E9,1858
+Emma,Pelletier,G8T0C6,Wilfrid Laurier University,N2L3C5,709
+Emma,Pelletier,G8T0C6,William and Catherine Booth College,R3B2P2,1858
+Emma,Pelletier,G8T0C6,York University,M3J1P3,619
+Emma,Pelletier,G8T0C6,Yukon College,Y1A5K4,4234
+William,Reid,V6B4N7,Acadia University,B4P2R6,4352
+William,Reid,V6B4N7,Athabasca University,T9S3A3,903
+William,Reid,V6B4N7,Bishop's University,J1M1Z7,3814
+William,Reid,V6B4N7,Brandon University,R7A6A9,1665
+William,Reid,V6B4N7,British Columbia Institute of Technology,V5G3H2,9
+William,Reid,V6B4N7,Brock University,L2S3A1,3393
+William,Reid,V6B4N7,Canadian Mennonite University,R3P2N2,1859
+William,Reid,V6B4N7,Carleton University,K1S5B6,3540
+William,Reid,V6B4N7,College of New Caledonia,V2N1P8,485
+William,Reid,V6B4N7,College of the Rockies,V1C5L7,532
+William,Reid,V6B4N7,Columbia College,V6A0C1,2
+William,Reid,V6B4N7,Concordia University,H3G1M8,3685
+William,Reid,V6B4N7,Conestoga College,N2G4M4,3289
+William,Reid,V6B4N7,Dalhousie University,B3H4R2,4430
+William,Reid,V6B4N7,Douglas College,V3M5Z5,16
+William,Reid,V6B4N7,Durham College,L1G0C5,3382
+William,Reid,V6B4N7,Ecole des Hautes Etudes Commerciales,H3T2A7,3682
+William,Reid,V6B4N7,"Ecole Polytechnique de Montreal, Universite de Montreal",H3T1J4,3682
+William,Reid,V6B4N7,Emily Carr Institute of Art + Design,V5T0H2,2
+William,Reid,V6B4N7,King's University College,T6B2H3,820
+William,Reid,V6B4N7,Lakehead University,P7B5E1,2433
+William,Reid,V6B4N7,McGill University,H3A0G4,3685
+William,Reid,V6B4N7,McMaster University,L8S4L8,3340
+William,Reid,V6B4N7,Memorial University of Newfoundland,A1C5S7,5010
+William,Reid,V6B4N7,Mount Allison University,E4L1E2,4307
+William,Reid,V6B4N7,Mount Royal College,T3E6K6,666
+William,Reid,V6B4N7,Mount Saint Vincent University,B3M2J6,4422
+William,Reid,V6B4N7,Nicola Valley Institute of Technology,V1K1R1,191
+William,Reid,V6B4N7,Nipissing University,P1B8L7,3222
+William,Reid,V6B4N7,Queen's University,K7L3N6,3540
+William,Reid,V6B4N7,Ryerson University,M5B2K3,3359
+William,Reid,V6B4N7,Simon Fraser University,V5A1S6,13
+William,Reid,V6B4N7,St. Francis Xavier University,B2G2W5,4487
+William,Reid,V6B4N7,Trent University,L1J5Y1,3384
+William,Reid,V6B4N7,Universite de Montreal,H3T1J4,3682
+William,Reid,V6B4N7,Universite de Sherbrooke,J1K2R1,3807
+William,Reid,V6B4N7,Universite Laval,G1V0A6,3788
+William,Reid,V6B4N7,University of Alberta,T6G2R3,814
+William,Reid,V6B4N7,University of British Columbia,V6T1Z4,29
+William,Reid,V6B4N7,University of Calgary,T2N1N4,670
+William,Reid,V6B4N7,University of Guelph,N1G2W1,3304
+William,Reid,V6B4N7,University of Lethbridge,T1K3M4,743
+William,Reid,V6B4N7,University of Manitoba,R3T2N2,1865
+William,Reid,V6B4N7,University of Moncton,E1A3E9,4276
+William,Reid,V6B4N7,University of New Brunswick,E3B5A3,4154
+William,Reid,V6B4N7,University of Northern British Columbia,V2N4Z9,485
+William,Reid,V6B4N7,University of Ontario Institute of Technology,L1G0C5,3382
+William,Reid,V6B4N7,University of Ottawa,K1N6N5,3539
+William,Reid,V6B4N7,University of Prince Edward Island,C1A4P3,4384
+William,Reid,V6B4N7,University of Quebec,G1K9H7,3791
+William,Reid,V6B4N7,University of Regina,S4S0A2,1329
+William,Reid,V6B4N7,University of Saskatchewan,S7N5A2,1202
+William,Reid,V6B4N7,University of Toronto,M5S1A1,3357
+William,Reid,V6B4N7,"University of Toronto, Mississauga",L5L1C6,3342
+William,Reid,V6B4N7,"University of Toronto, Scarborough",M1C1A4,3368
+William,Reid,V6B4N7,University of Victoria,V8P5C2,93
+William,Reid,V6B4N7,University of Waterloo,N2L3G1,3284
+William,Reid,V6B4N7,University of Western Ontario,N6A3K7,3256
+William,Reid,V6B4N7,University of Windsor,N9B3P4,3162
+William,Reid,V6B4N7,University of Winnipeg,R3B2E9,1864
+William,Reid,V6B4N7,Wilfrid Laurier University,N2L3C5,3284
+William,Reid,V6B4N7,William and Catherine Booth College,R3B2P2,1864
+William,Reid,V6B4N7,York University,M3J1P3,3345
+William,Reid,V6B4N7,Yukon College,Y1A5K4,1477
+Bob,Lavoie,E1C6Z8,Acadia University,B4P2R6,118
+Bob,Lavoie,E1C6Z8,Athabasca University,T9S3A3,3490
+Bob,Lavoie,E1C6Z8,Bishop's University,J1M1Z7,552
+Bob,Lavoie,E1C6Z8,Brandon University,R7A6A9,2625
+Bob,Lavoie,E1C6Z8,British Columbia Institute of Technology,V5G3H2,4262
+Bob,Lavoie,E1C6Z8,Brock University,L2S3A1,1189
+Bob,Lavoie,E1C6Z8,Canadian Mennonite University,R3P2N2,2429
+Bob,Lavoie,E1C6Z8,Carleton University,K1S5B6,847
+Bob,Lavoie,E1C6Z8,College of New Caledonia,V2N1P8,4130
+Bob,Lavoie,E1C6Z8,College of the Rockies,V1C5L7,3752
+Bob,Lavoie,E1C6Z8,Columbia College,V6A0C1,4268
+Bob,Lavoie,E1C6Z8,Concordia University,H3G1M8,683
+Bob,Lavoie,E1C6Z8,Conestoga College,N2G4M4,1271
+Bob,Lavoie,E1C6Z8,Dalhousie University,B3H4R2,189
+Bob,Lavoie,E1C6Z8,Douglas College,V3M5Z5,4261
+Bob,Lavoie,E1C6Z8,Durham College,L1G0C5,1130
+Bob,Lavoie,E1C6Z8,Ecole des Hautes Etudes Commerciales,H3T2A7,686
+Bob,Lavoie,E1C6Z8,"Ecole Polytechnique de Montreal, Universite de Montreal",H3T1J4,686
+Bob,Lavoie,E1C6Z8,Emily Carr Institute of Art + Design,V5T0H2,4269
+Bob,Lavoie,E1C6Z8,King's University College,T6B2H3,3512
+Bob,Lavoie,E1C6Z8,Lakehead University,P7B5E1,1866
+Bob,Lavoie,E1C6Z8,McGill University,H3A0G4,683
+Bob,Lavoie,E1C6Z8,McMaster University,L8S4L8,1234
+Bob,Lavoie,E1C6Z8,Memorial University of Newfoundland,A1C5S7,936
+Bob,Lavoie,E1C6Z8,Mount Allison University,E4L1E2,38
+Bob,Lavoie,E1C6Z8,Mount Royal College,T3E6K6,3604
+Bob,Lavoie,E1C6Z8,Mount Saint Vincent University,B3M2J6,181
+Bob,Lavoie,E1C6Z8,Nicola Valley Institute of Technology,V1K1R1,4083
+Bob,Lavoie,E1C6Z8,Nipissing University,P1B8L7,1136
+Bob,Lavoie,E1C6Z8,Queen's University,K7L3N6,932
+Bob,Lavoie,E1C6Z8,Ryerson University,M5B2K3,1178
+Bob,Lavoie,E1C6Z8,Simon Fraser University,V5A1S6,4258
+Bob,Lavoie,E1C6Z8,St. Francis Xavier University,B2G2W5,224
+Bob,Lavoie,E1C6Z8,Trent University,L1J5Y1,1132
+Bob,Lavoie,E1C6Z8,Universite de Montreal,H3T1J4,686
+Bob,Lavoie,E1C6Z8,Universite de Sherbrooke,J1K2R1,559
+Bob,Lavoie,E1C6Z8,Universite Laval,G1V0A6,503
+Bob,Lavoie,E1C6Z8,University of Alberta,T6G2R3,3519
+Bob,Lavoie,E1C6Z8,University of British Columbia,V6T1Z4,4243
+Bob,Lavoie,E1C6Z8,University of Calgary,T2N1N4,3600
+Bob,Lavoie,E1C6Z8,University of Guelph,N1G2W1,1248
+Bob,Lavoie,E1C6Z8,University of Lethbridge,T1K3M4,3543
+Bob,Lavoie,E1C6Z8,University of Manitoba,R3T2N2,2425
+Bob,Lavoie,E1C6Z8,University of Moncton,E1A3E9,7
+Bob,Lavoie,E1C6Z8,University of New Brunswick,E3B5A3,148
+Bob,Lavoie,E1C6Z8,University of Northern British Columbia,V2N4Z9,4130
+Bob,Lavoie,E1C6Z8,University of Ontario Institute of Technology,L1G0C5,1130
+Bob,Lavoie,E1C6Z8,University of Ottawa,K1N6N5,847
+Bob,Lavoie,E1C6Z8,University of Prince Edward Island,C1A4P3,139
+Bob,Lavoie,E1C6Z8,University of Quebec,G1K9H7,498
+Bob,Lavoie,E1C6Z8,University of Regina,S4S0A2,2949
+Bob,Lavoie,E1C6Z8,University of Saskatchewan,S7N5A2,3070
+Bob,Lavoie,E1C6Z8,University of Toronto,M5S1A1,1180
+Bob,Lavoie,E1C6Z8,"University of Toronto, Mississauga",L5L1C6,1206
+Bob,Lavoie,E1C6Z8,"University of Toronto, Scarborough",M1C1A4,1157
+Bob,Lavoie,E1C6Z8,University of Victoria,V8P5C2,4314
+Bob,Lavoie,E1C6Z8,University of Waterloo,N2L3G1,1274
+Bob,Lavoie,E1C6Z8,University of Western Ontario,N6A3K7,1346
+Bob,Lavoie,E1C6Z8,University of Windsor,N9B3P4,1511
+Bob,Lavoie,E1C6Z8,University of Winnipeg,R3B2E9,2423
+Bob,Lavoie,E1C6Z8,Wilfrid Laurier University,N2L3C5,1274
+Bob,Lavoie,E1C6Z8,William and Catherine Booth College,R3B2P2,2423
+Bob,Lavoie,E1C6Z8,York University,M3J1P3,1183
+Bob,Lavoie,E1C6Z8,Yukon College,Y1A5K4,4671
+Tina,Frey,G7H8C4,Acadia University,B4P2R6,629
+Tina,Frey,G7H8C4,Athabasca University,T9S3A3,2954
+Tina,Frey,G7H8C4,Bishop's University,J1M1Z7,345
+Tina,Frey,G7H8C4,Brandon University,R7A6A9,2097
+Tina,Frey,G7H8C4,British Columbia Institute of Technology,V5G3H2,3728
+Tina,Frey,G7H8C4,Brock University,L2S3A1,865
+Tina,Frey,G7H8C4,Canadian Mennonite University,R3P2N2,1901
+Tina,Frey,G7H8C4,Carleton University,K1S5B6,487
+Tina,Frey,G7H8C4,College of New Caledonia,V2N1P8,3594
+Tina,Frey,G7H8C4,College of the Rockies,V1C5L7,3219
+Tina,Frey,G7H8C4,Columbia College,V6A0C1,3733
+Tina,Frey,G7H8C4,Concordia University,H3G1M8,377
+Tina,Frey,G7H8C4,Conestoga College,N2G4M4,915
+Tina,Frey,G7H8C4,Dalhousie University,B3H4R2,709
+Tina,Frey,G7H8C4,Douglas College,V3M5Z5,3726
+Tina,Frey,G7H8C4,Durham College,L1G0C5,782
+Tina,Frey,G7H8C4,Ecole des Hautes Etudes Commerciales,H3T2A7,379
+Tina,Frey,G7H8C4,"Ecole Polytechnique de Montreal, Universite de Montreal",H3T1J4,379
+Tina,Frey,G7H8C4,Emily Carr Institute of Art + Design,V5T0H2,3734
+Tina,Frey,G7H8C4,King's University College,T6B2H3,2975
+Tina,Frey,G7H8C4,Lakehead University,P7B5E1,1346
+Tina,Frey,G7H8C4,McGill University,H3A0G4,377
+Tina,Frey,G7H8C4,McMaster University,L8S4L8,894
+Tina,Frey,G7H8C4,Memorial University of Newfoundland,A1C5S7,1368
+Tina,Frey,G7H8C4,Mount Allison University,E4L1E2,575
+Tina,Frey,G7H8C4,Mount Royal College,T3E6K6,3069
+Tina,Frey,G7H8C4,Mount Saint Vincent University,B3M2J6,701
+Tina,Frey,G7H8C4,Nicola Valley Institute of Technology,V1K1R1,3548
+Tina,Frey,G7H8C4,Nipissing University,P1B8L7,683
+Tina,Frey,G7H8C4,Queen's University,K7L3N6,617
+Tina,Frey,G7H8C4,Ryerson University,M5B2K3,832
+Tina,Frey,G7H8C4,Simon Fraser University,V5A1S6,3723
+Tina,Frey,G7H8C4,St. Francis Xavier University,B2G2W5,752
+Tina,Frey,G7H8C4,Trent University,L1J5Y1,786
+Tina,Frey,G7H8C4,Universite de Montreal,H3T1J4,379
+Tina,Frey,G7H8C4,Universite de Sherbrooke,J1K2R1,344
+Tina,Frey,G7H8C4,Universite Laval,G1V0A6,183
+Tina,Frey,G7H8C4,University of Alberta,T6G2R3,2982
+Tina,Frey,G7H8C4,University of British Columbia,V6T1Z4,3708
+Tina,Frey,G7H8C4,University of Calgary,T2N1N4,3065
+Tina,Frey,G7H8C4,University of Guelph,N1G2W1,894
+Tina,Frey,G7H8C4,University of Lethbridge,T1K3M4,3010
+Tina,Frey,G7H8C4,University of Manitoba,R3T2N2,1897
+Tina,Frey,G7H8C4,University of Moncton,E1A3E9,543
+Tina,Frey,G7H8C4,University of New Brunswick,E3B5A3,439
+Tina,Frey,G7H8C4,University of Northern British Columbia,V2N4Z9,3594
+Tina,Frey,G7H8C4,University of Ontario Institute of Technology,L1G0C5,782
+Tina,Frey,G7H8C4,University of Ottawa,K1N6N5,484
+Tina,Frey,G7H8C4,University of Prince Edward Island,C1A4P3,650
+Tina,Frey,G7H8C4,University of Quebec,G1K9H7,179
+Tina,Frey,G7H8C4,University of Regina,S4S0A2,2418
+Tina,Frey,G7H8C4,University of Saskatchewan,S7N5A2,2535
+Tina,Frey,G7H8C4,University of Toronto,M5S1A1,833
+Tina,Frey,G7H8C4,"University of Toronto, Mississauga",L5L1C6,860
+Tina,Frey,G7H8C4,"University of Toronto, Scarborough",M1C1A4,810
+Tina,Frey,G7H8C4,University of Victoria,V8P5C2,3780
+Tina,Frey,G7H8C4,University of Waterloo,N2L3G1,917
+Tina,Frey,G7H8C4,University of Western Ontario,N6A3K7,995
+Tina,Frey,G7H8C4,University of Windsor,N9B3P4,1157
+Tina,Frey,G7H8C4,University of Winnipeg,R3B2E9,1895
+Tina,Frey,G7H8C4,Wilfrid Laurier University,N2L3C5,917
+Tina,Frey,G7H8C4,William and Catherine Booth College,R3B2P2,1895
+Tina,Frey,G7H8C4,York University,M3J1P3,831
+Tina,Frey,G7H8C4,Yukon College,Y1A5K4,4156
+Amy,Ross,L9T7H5,Acadia University,B4P2R6,1245
+Amy,Ross,L9T7H5,Athabasca University,T9S3A3,2696
+Amy,Ross,L9T7H5,Bishop's University,J1M1Z7,670
+Amy,Ross,L9T7H5,Brandon University,R7A6A9,1678
+Amy,Ross,L9T7H5,British Columbia Institute of Technology,V5G3H2,3321
+Amy,Ross,L9T7H5,Brock University,L2S3A1,65
+Amy,Ross,L9T7H5,Canadian Mennonite University,R3P2N2,1493
+Amy,Ross,L9T7H5,Carleton University,K1S5B6,393
+Amy,Ross,L9T7H5,College of New Caledonia,V2N1P8,3303
+Amy,Ross,L9T7H5,College of the Rockies,V1C5L7,2797
+Amy,Ross,L9T7H5,Columbia College,V6A0C1,3328
+Amy,Ross,L9T7H5,Concordia University,H3G1M8,546
+Amy,Ross,L9T7H5,Conestoga College,N2G4M4,49
+Amy,Ross,L9T7H5,Dalhousie University,B3H4R2,1306
+Amy,Ross,L9T7H5,Douglas College,V3M5Z5,3317
+Amy,Ross,L9T7H5,Durham College,L1G0C5,93
+Amy,Ross,L9T7H5,Ecole des Hautes Etudes Commerciales,H3T2A7,544
+Amy,Ross,L9T7H5,"Ecole Polytechnique de Montreal, Universite de Montreal",H3T1J4,544
+Amy,Ross,L9T7H5,Emily Carr Institute of Art + Design,V5T0H2,3328
+Amy,Ross,L9T7H5,King's University College,T6B2H3,2677
+Amy,Ross,L9T7H5,Lakehead University,P7B5E1,948
+Amy,Ross,L9T7H5,McGill University,H3A0G4,547
+Amy,Ross,L9T7H5,McMaster University,L8S4L8,28
+Amy,Ross,L9T7H5,Memorial University of Newfoundland,A1C5S7,2155
+Amy,Ross,L9T7H5,Mount Allison University,E4L1E2,1251
+Amy,Ross,L9T7H5,Mount Royal College,T3E6K6,2689
+Amy,Ross,L9T7H5,Mount Saint Vincent University,B3M2J6,1300
+Amy,Ross,L9T7H5,Nicola Valley Institute of Technology,V1K1R1,3156
+Amy,Ross,L9T7H5,Nipissing University,P1B8L7,315
+Amy,Ross,L9T7H5,Queen's University,K7L3N6,290
+Amy,Ross,L9T7H5,Ryerson University,M5B2K3,44
+Amy,Ross,L9T7H5,Simon Fraser University,V5A1S6,3317
+Amy,Ross,L9T7H5,St. Francis Xavier University,B2G2W5,1433
+Amy,Ross,L9T7H5,Trent University,L1J5Y1,91
+Amy,Ross,L9T7H5,Universite de Montreal,H3T1J4,544
+Amy,Ross,L9T7H5,Universite de Sherbrooke,J1K2R1,664
+Amy,Ross,L9T7H5,Universite Laval,G1V0A6,765
+Amy,Ross,L9T7H5,University of Alberta,T6G2R3,2684
+Amy,Ross,L9T7H5,University of British Columbia,V6T1Z4,3306
+Amy,Ross,L9T7H5,University of Calgary,T2N1N4,2687
+Amy,Ross,L9T7H5,University of Guelph,N1G2W1,28
+Amy,Ross,L9T7H5,University of Lethbridge,T1K3M4,2586
+Amy,Ross,L9T7H5,University of Manitoba,R3T2N2,1487
+Amy,Ross,L9T7H5,University of Moncton,E1A3E9,1229
+Amy,Ross,L9T7H5,University of New Brunswick,E3B5A3,1074
+Amy,Ross,L9T7H5,University of Northern British Columbia,V2N4Z9,3303
+Amy,Ross,L9T7H5,University of Ontario Institute of Technology,L1G0C5,93
+Amy,Ross,L9T7H5,University of Ottawa,K1N6N5,395
+Amy,Ross,L9T7H5,University of Prince Edward Island,C1A4P3,1361
+Amy,Ross,L9T7H5,University of Quebec,G1K9H7,771
+Amy,Ross,L9T7H5,University of Regina,S4S0A2,2015
+Amy,Ross,L9T7H5,University of Saskatchewan,S7N5A2,2197
+Amy,Ross,L9T7H5,University of Toronto,M5S1A1,42
+Amy,Ross,L9T7H5,"University of Toronto, Mississauga",L5L1C6,16
+Amy,Ross,L9T7H5,"University of Toronto, Scarborough",M1C1A4,66
+Amy,Ross,L9T7H5,University of Victoria,V8P5C2,3355
+Amy,Ross,L9T7H5,University of Waterloo,N2L3G1,54
+Amy,Ross,L9T7H5,University of Western Ontario,N6A3K7,125
+Amy,Ross,L9T7H5,University of Windsor,N9B3P4,291
+Amy,Ross,L9T7H5,University of Winnipeg,R3B2E9,1490
+Amy,Ross,L9T7H5,Wilfrid Laurier University,N2L3C5,54
+Amy,Ross,L9T7H5,William and Catherine Booth College,R3B2P2,1490
+Amy,Ross,L9T7H5,York University,M3J1P3,42
+Amy,Ross,L9T7H5,Yukon College,Y1A5K4,4066
+Robert,Cote,M5H3V9,Acadia University,B4P2R6,1203
+Robert,Cote,M5H3V9,Athabasca University,T9S3A3,2718
+Robert,Cote,M5H3V9,Bishop's University,J1M1Z7,627
+Robert,Cote,M5H3V9,Brandon University,R7A6A9,1704
+Robert,Cote,M5H3V9,British Columbia Institute of Technology,V5G3H2,3350
+Robert,Cote,M5H3V9,Brock University,L2S3A1,57
+Robert,Cote,M5H3V9,Canadian Mennonite University,R3P2N2,1518
+Robert,Cote,M5H3V9,Carleton University,K1S5B6,352
+Robert,Cote,M5H3V9,College of New Caledonia,V2N1P8,3328
+Robert,Cote,M5H3V9,College of the Rockies,V1C5L7,2827
+Robert,Cote,M5H3V9,Columbia College,V6A0C1,3357
+Robert,Cote,M5H3V9,Concordia University,H3G1M8,503
+Robert,Cote,M5H3V9,Conestoga College,N2G4M4,92
+Robert,Cote,M5H3V9,Dalhousie University,B3H4R2,1264
+Robert,Cote,M5H3V9,Douglas College,V3M5Z5,3347
+Robert,Cote,M5H3V9,Durham College,L1G0C5,51
+Robert,Cote,M5H3V9,Ecole des Hautes Etudes Commerciales,H3T2A7,501
+Robert,Cote,M5H3V9,"Ecole Polytechnique de Montreal, Universite de Montreal",H3T1J4,501
+Robert,Cote,M5H3V9,Emily Carr Institute of Art + Design,V5T0H2,3357
+Robert,Cote,M5H3V9,King's University College,T6B2H3,2700
+Robert,Cote,M5H3V9,Lakehead University,P7B5E1,968
+Robert,Cote,M5H3V9,McGill University,H3A0G4,504
+Robert,Cote,M5H3V9,McMaster University,L8S4L8,61
+Robert,Cote,M5H3V9,Memorial University of Newfoundland,A1C5S7,2112
+Robert,Cote,M5H3V9,Mount Allison University,E4L1E2,1208
+Robert,Cote,M5H3V9,Mount Royal College,T3E6K6,2717
+Robert,Cote,M5H3V9,Mount Saint Vincent University,B3M2J6,1258
+Robert,Cote,M5H3V9,Nicola Valley Institute of Technology,V1K1R1,3185
+Robert,Cote,M5H3V9,Nipissing University,P1B8L7,299
+Robert,Cote,M5H3V9,Queen's University,K7L3N6,247
+Robert,Cote,M5H3V9,Ryerson University,M5B2K3,1
+Robert,Cote,M5H3V9,Simon Fraser University,V5A1S6,3346
+Robert,Cote,M5H3V9,St. Francis Xavier University,B2G2W5,1390
+Robert,Cote,M5H3V9,Trent University,L1J5Y1,48
+Robert,Cote,M5H3V9,Universite de Montreal,H3T1J4,501
+Robert,Cote,M5H3V9,Universite de Sherbrooke,J1K2R1,621
+Robert,Cote,M5H3V9,Universite Laval,G1V0A6,723
+Robert,Cote,M5H3V9,University of Alberta,T6G2R3,2708
+Robert,Cote,M5H3V9,University of British Columbia,V6T1Z4,3335
+Robert,Cote,M5H3V9,University of Calgary,T2N1N4,2714
+Robert,Cote,M5H3V9,University of Guelph,N1G2W1,69
+Robert,Cote,M5H3V9,University of Lethbridge,T1K3M4,2615
+Robert,Cote,M5H3V9,University of Manitoba,R3T2N2,1513
+Robert,Cote,M5H3V9,University of Moncton,E1A3E9,1186
+Robert,Cote,M5H3V9,University of New Brunswick,E3B5A3,1031
+Robert,Cote,M5H3V9,University of Northern British Columbia,V2N4Z9,3328
+Robert,Cote,M5H3V9,University of Ontario Institute of Technology,L1G0C5,51
+Robert,Cote,M5H3V9,University of Ottawa,K1N6N5,354
+Robert,Cote,M5H3V9,University of Prince Edward Island,C1A4P3,1318
+Robert,Cote,M5H3V9,University of Quebec,G1K9H7,729
+Robert,Cote,M5H3V9,University of Regina,S4S0A2,2042
+Robert,Cote,M5H3V9,University of Saskatchewan,S7N5A2,2221
+Robert,Cote,M5H3V9,University of Toronto,M5S1A1,2
+Robert,Cote,M5H3V9,"University of Toronto, Mississauga",L5L1C6,28
+Robert,Cote,M5H3V9,"University of Toronto, Scarborough",M1C1A4,24
+Robert,Cote,M5H3V9,University of Victoria,V8P5C2,3386
+Robert,Cote,M5H3V9,University of Waterloo,N2L3G1,96
+Robert,Cote,M5H3V9,University of Western Ontario,N6A3K7,168
+Robert,Cote,M5H3V9,University of Windsor,N9B3P4,334
+Robert,Cote,M5H3V9,University of Winnipeg,R3B2E9,1515
+Robert,Cote,M5H3V9,Wilfrid Laurier University,N2L3C5,96
+Robert,Cote,M5H3V9,William and Catherine Booth College,R3B2P2,1515
+Robert,Cote,M5H3V9,York University,M3J1P3,16
+Robert,Cote,M5H3V9,Yukon College,Y1A5K4,4082
+Maria,Quispe,T4P3V8,Acadia University,B4P2R6,3642
+Maria,Quispe,T4P3V8,Athabasca University,T9S3A3,271
+Maria,Quispe,T4P3V8,Bishop's University,J1M1Z7,3120
+Maria,Quispe,T4P3V8,Brandon University,R7A6A9,1005
+Maria,Quispe,T4P3V8,British Columbia Institute of Technology,V5G3H2,729
+Maria,Quispe,T4P3V8,Brock University,L2S3A1,2745
+Maria,Quispe,T4P3V8,Canadian Mennonite University,R3P2N2,1188
+Maria,Quispe,T4P3V8,Carleton University,K1S5B6,2856
+Maria,Quispe,T4P3V8,College of New Caledonia,V2N1P8,630
+Maria,Quispe,T4P3V8,College of the Rockies,V1C5L7,340
+Maria,Quispe,T4P3V8,Columbia College,V6A0C1,733
+Maria,Quispe,T4P3V8,Concordia University,H3G1M8,2994
+Maria,Quispe,T4P3V8,Conestoga College,N2G4M4,2644
+Maria,Quispe,T4P3V8,Dalhousie University,B3H4R2,3720
+Maria,Quispe,T4P3V8,Douglas College,V3M5Z5,729
+Maria,Quispe,T4P3V8,Durham College,L1G0C5,2724
+Maria,Quispe,T4P3V8,Ecole des Hautes Etudes Commerciales,H3T2A7,2991
+Maria,Quispe,T4P3V8,"Ecole Polytechnique de Montreal, Universite de Montreal",H3T1J4,2991
+Maria,Quispe,T4P3V8,Emily Carr Institute of Art + Design,V5T0H2,734
+Maria,Quispe,T4P3V8,King's University College,T6B2H3,138
+Maria,Quispe,T4P3V8,Lakehead University,P7B5E1,1752
+Maria,Quispe,T4P3V8,McGill University,H3A0G4,2994
+Maria,Quispe,T4P3V8,McMaster University,L8S4L8,2694
+Maria,Quispe,T4P3V8,Memorial University of Newfoundland,A1C5S7,4279
+Maria,Quispe,T4P3V8,Mount Allison University,E4L1E2,3594
+Maria,Quispe,T4P3V8,Mount Royal College,T3E6K6,147
+Maria,Quispe,T4P3V8,Mount Saint Vincent University,B3M2J6,3713
+Maria,Quispe,T4P3V8,Nicola Valley Institute of Technology,V1K1R1,544
+Maria,Quispe,T4P3V8,Nipissing University,P1B8L7,2542
+Maria,Quispe,T4P3V8,Queen's University,K7L3N6,2868
+Maria,Quispe,T4P3V8,Ryerson University,M5B2K3,2706
+Maria,Quispe,T4P3V8,Simon Fraser University,V5A1S6,724
+Maria,Quispe,T4P3V8,St. Francis Xavier University,B2G2W5,3770
+Maria,Quispe,T4P3V8,Trent University,L1J5Y1,2726
+Maria,Quispe,T4P3V8,Universite de Montreal,H3T1J4,2991
+Maria,Quispe,T4P3V8,Universite de Sherbrooke,J1K2R1,3112
+Maria,Quispe,T4P3V8,Universite Laval,G1V0A6,3082
+Maria,Quispe,T4P3V8,University of Alberta,T6G2R3,138
+Maria,Quispe,T4P3V8,University of British Columbia,V6T1Z4,706
+Maria,Quispe,T4P3V8,University of Calgary,T2N1N4,139
+Maria,Quispe,T4P3V8,University of Guelph,N1G2W1,2657
+Maria,Quispe,T4P3V8,University of Lethbridge,T1K3M4,302
+Maria,Quispe,T4P3V8,University of Manitoba,R3T2N2,1193
+Maria,Quispe,T4P3V8,University of Moncton,E1A3E9,3562
+Maria,Quispe,T4P3V8,University of New Brunswick,E3B5A3,3445
+Maria,Quispe,T4P3V8,University of Northern British Columbia,V2N4Z9,630
+Maria,Quispe,T4P3V8,University of Ontario Institute of Technology,L1G0C5,2724
+Maria,Quispe,T4P3V8,University of Ottawa,K1N6N5,2855
+Maria,Quispe,T4P3V8,University of Prince Edward Island,C1A4P3,3666
+Maria,Quispe,T4P3V8,University of Quebec,G1K9H7,3085
+Maria,Quispe,T4P3V8,University of Regina,S4S0A2,671
+Maria,Quispe,T4P3V8,University of Saskatchewan,S7N5A2,491
+Maria,Quispe,T4P3V8,University of Toronto,M5S1A1,2704
+Maria,Quispe,T4P3V8,"University of Toronto, Mississauga",L5L1C6,2692
+Maria,Quispe,T4P3V8,"University of Toronto, Scarborough",M1C1A4,2713
+Maria,Quispe,T4P3V8,University of Victoria,V8P5C2,798
+Maria,Quispe,T4P3V8,University of Waterloo,N2L3G1,2639
+Maria,Quispe,T4P3V8,University of Western Ontario,N6A3K7,2620
+Maria,Quispe,T4P3V8,University of Windsor,N9B3P4,2546
+Maria,Quispe,T4P3V8,University of Winnipeg,R3B2E9,1191
+Maria,Quispe,T4P3V8,Wilfrid Laurier University,N2L3C5,2639
+Maria,Quispe,T4P3V8,William and Catherine Booth College,R3B2P2,1191
+Maria,Quispe,T4P3V8,York University,M3J1P3,2692
+Maria,Quispe,T4P3V8,Yukon College,Y1A5K4,1593
+Betty,Leblanc,N3T1L2,Acadia University,B4P2R6,1290
+Betty,Leblanc,N3T1L2,Athabasca University,T9S3A3,2696
+Betty,Leblanc,N3T1L2,Bishop's University,J1M1Z7,720
+Betty,Leblanc,N3T1L2,Brandon University,R7A6A9,1670
+Betty,Leblanc,N3T1L2,British Columbia Institute of Technology,V5G3H2,3308
+Betty,Leblanc,N3T1L2,Brock University,L2S3A1,86
+Betty,Leblanc,N3T1L2,Canadian Mennonite University,R3P2N2,1488
+Betty,Leblanc,N3T1L2,Carleton University,K1S5B6,447
+Betty,Leblanc,N3T1L2,College of New Caledonia,V2N1P8,3299
+Betty,Leblanc,N3T1L2,College of the Rockies,V1C5L7,2785
+Betty,Leblanc,N3T1L2,Columbia College,V6A0C1,3315
+Betty,Leblanc,N3T1L2,Concordia University,H3G1M8,598
+Betty,Leblanc,N3T1L2,Conestoga College,N2G4M4,37
+Betty,Leblanc,N3T1L2,Dalhousie University,B3H4R2,1350
+Betty,Leblanc,N3T1L2,Douglas College,V3M5Z5,3305
+Betty,Leblanc,N3T1L2,Durham College,L1G0C5,147
+Betty,Leblanc,N3T1L2,Ecole des Hautes Etudes Commerciales,H3T2A7,595
+Betty,Leblanc,N3T1L2,"Ecole Polytechnique de Montreal, Universite de Montreal",H3T1J4,595
+Betty,Leblanc,N3T1L2,Emily Carr Institute of Art + Design,V5T0H2,3315
+Betty,Leblanc,N3T1L2,King's University College,T6B2H3,2674
+Betty,Leblanc,N3T1L2,Lakehead University,P7B5E1,953
+Betty,Leblanc,N3T1L2,McGill University,H3A0G4,598
+Betty,Leblanc,N3T1L2,McMaster University,L8S4L8,36
+Betty,Leblanc,N3T1L2,Memorial University of Newfoundland,A1C5S7,2204
+Betty,Leblanc,N3T1L2,Mount Allison University,E4L1E2,1299
+Betty,Leblanc,N3T1L2,Mount Royal College,T3E6K6,2680
+Betty,Leblanc,N3T1L2,Mount Saint Vincent University,B3M2J6,1344
+Betty,Leblanc,N3T1L2,Nicola Valley Institute of Technology,V1K1R1,3145
+Betty,Leblanc,N3T1L2,Nipissing University,P1B8L7,361
+Betty,Leblanc,N3T1L2,Queen's University,K7L3N6,339
+Betty,Leblanc,N3T1L2,Ryerson University,M5B2K3,96
+Betty,Leblanc,N3T1L2,Simon Fraser University,V5A1S6,3304
+Betty,Leblanc,N3T1L2,St. Francis Xavier University,B2G2W5,1479
+Betty,Leblanc,N3T1L2,Trent University,L1J5Y1,144
+Betty,Leblanc,N3T1L2,Universite de Montreal,H3T1J4,595
+Betty,Leblanc,N3T1L2,Universite de Sherbrooke,J1K2R1,713
+Betty,Leblanc,N3T1L2,Universite Laval,G1V0A6,818
+Betty,Leblanc,N3T1L2,University of Alberta,T6G2R3,2681
+Betty,Leblanc,N3T1L2,University of British Columbia,V6T1Z4,3294
+Betty,Leblanc,N3T1L2,University of Calgary,T2N1N4,2678
+Betty,Leblanc,N3T1L2,University of Guelph,N1G2W1,44
+Betty,Leblanc,N3T1L2,University of Lethbridge,T1K3M4,2574
+Betty,Leblanc,N3T1L2,University of Manitoba,R3T2N2,1483
+Betty,Leblanc,N3T1L2,University of Moncton,E1A3E9,1277
+Betty,Leblanc,N3T1L2,University of New Brunswick,E3B5A3,1122
+Betty,Leblanc,N3T1L2,University of Northern British Columbia,V2N4Z9,3299
+Betty,Leblanc,N3T1L2,University of Ontario Institute of Technology,L1G0C5,147
+Betty,Leblanc,N3T1L2,University of Ottawa,K1N6N5,449
+Betty,Leblanc,N3T1L2,University of Prince Edward Island,C1A4P3,1409
+Betty,Leblanc,N3T1L2,University of Quebec,G1K9H7,824
+Betty,Leblanc,N3T1L2,University of Regina,S4S0A2,2007
+Betty,Leblanc,N3T1L2,University of Saskatchewan,S7N5A2,2193
+Betty,Leblanc,N3T1L2,University of Toronto,M5S1A1,95
+Betty,Leblanc,N3T1L2,"University of Toronto, Mississauga",L5L1C6,68
+Betty,Leblanc,N3T1L2,"University of Toronto, Scarborough",M1C1A4,119
+Betty,Leblanc,N3T1L2,University of Victoria,V8P5C2,3341
+Betty,Leblanc,N3T1L2,University of Waterloo,N2L3G1,42
+Betty,Leblanc,N3T1L2,University of Western Ontario,N6A3K7,77
+Betty,Leblanc,N3T1L2,University of Windsor,N9B3P4,241
+Betty,Leblanc,N3T1L2,University of Winnipeg,R3B2E9,1486
+Betty,Leblanc,N3T1L2,Wilfrid Laurier University,N2L3C5,42
+Betty,Leblanc,N3T1L2,William and Catherine Booth College,R3B2P2,1486
+Betty,Leblanc,N3T1L2,York University,M3J1P3,98
+Betty,Leblanc,N3T1L2,Yukon College,Y1A5K4,4074
+Vicky,Fortin,P7C3S7,Acadia University,B4P2R6,1939
+Vicky,Fortin,P7C3S7,Athabasca University,T9S3A3,1782
+Vicky,Fortin,P7C3S7,Bishop's University,J1M1Z7,1377
+Vicky,Fortin,P7C3S7,Brandon University,R7A6A9,781
+Vicky,Fortin,P7C3S7,British Columbia Institute of Technology,V5G3H2,2438
+Vicky,Fortin,P7C3S7,Brock University,L2S3A1,979
+Vicky,Fortin,P7C3S7,Canadian Mennonite University,R3P2N2,588
+Vicky,Fortin,P7C3S7,Carleton University,K1S5B6,1096
+Vicky,Fortin,P7C3S7,College of New Caledonia,V2N1P8,2392
+Vicky,Fortin,P7C3S7,College of the Rockies,V1C5L7,1916
+Vicky,Fortin,P7C3S7,Columbia College,V6A0C1,2444
+Vicky,Fortin,P7C3S7,Concordia University,H3G1M8,1245
+Vicky,Fortin,P7C3S7,Conestoga College,N2G4M4,882
+Vicky,Fortin,P7C3S7,Dalhousie University,B3H4R2,2014
+Vicky,Fortin,P7C3S7,Douglas College,V3M5Z5,2435
+Vicky,Fortin,P7C3S7,Durham College,L1G0C5,952
+Vicky,Fortin,P7C3S7,Ecole des Hautes Etudes Commerciales,H3T2A7,1242
+Vicky,Fortin,P7C3S7,"Ecole Polytechnique de Montreal, Universite de Montreal",H3T1J4,1242
+Vicky,Fortin,P7C3S7,Emily Carr Institute of Art + Design,V5T0H2,2444
+Vicky,Fortin,P7C3S7,King's University College,T6B2H3,1764
+Vicky,Fortin,P7C3S7,Lakehead University,P7B5E1,66
+Vicky,Fortin,P7C3S7,McGill University,H3A0G4,1245
+Vicky,Fortin,P7C3S7,McMaster University,L8S4L8,931
+Vicky,Fortin,P7C3S7,Memorial University of Newfoundland,A1C5S7,2716
+Vicky,Fortin,P7C3S7,Mount Allison University,E4L1E2,1908
+Vicky,Fortin,P7C3S7,Mount Royal College,T3E6K6,1792
+Vicky,Fortin,P7C3S7,Mount Saint Vincent University,B3M2J6,2006
+Vicky,Fortin,P7C3S7,Nicola Valley Institute of Technology,V1K1R1,2266
+Vicky,Fortin,P7C3S7,Nipissing University,P1B8L7,777
+Vicky,Fortin,P7C3S7,Queen's University,K7L3N6,1096
+Vicky,Fortin,P7C3S7,Ryerson University,M5B2K3,937
+Vicky,Fortin,P7C3S7,Simon Fraser University,V5A1S6,2433
+Vicky,Fortin,P7C3S7,St. Francis Xavier University,B2G2W5,2094
+Vicky,Fortin,P7C3S7,Trent University,L1J5Y1,954
+Vicky,Fortin,P7C3S7,Universite de Montreal,H3T1J4,1242
+Vicky,Fortin,P7C3S7,Universite de Sherbrooke,J1K2R1,1370
+Vicky,Fortin,P7C3S7,Universite Laval,G1V0A6,1372
+Vicky,Fortin,P7C3S7,University of Alberta,T6G2R3,1772
+Vicky,Fortin,P7C3S7,University of British Columbia,V6T1Z4,2421
+Vicky,Fortin,P7C3S7,University of Calgary,T2N1N4,1789
+Vicky,Fortin,P7C3S7,University of Guelph,N1G2W1,893
+Vicky,Fortin,P7C3S7,University of Lethbridge,T1K3M4,1704
+Vicky,Fortin,P7C3S7,University of Manitoba,R3T2N2,583
+Vicky,Fortin,P7C3S7,University of Moncton,E1A3E9,1878
+Vicky,Fortin,P7C3S7,University of New Brunswick,E3B5A3,1742
+Vicky,Fortin,P7C3S7,University of Northern British Columbia,V2N4Z9,2392
+Vicky,Fortin,P7C3S7,University of Ontario Institute of Technology,L1G0C5,952
+Vicky,Fortin,P7C3S7,University of Ottawa,K1N6N5,1095
+Vicky,Fortin,P7C3S7,University of Prince Edward Island,C1A4P3,1997
+Vicky,Fortin,P7C3S7,University of Quebec,G1K9H7,1376
+Vicky,Fortin,P7C3S7,University of Regina,S4S0A2,1118
+Vicky,Fortin,P7C3S7,University of Saskatchewan,S7N5A2,1286
+Vicky,Fortin,P7C3S7,University of Toronto,M5S1A1,935
+Vicky,Fortin,P7C3S7,"University of Toronto, Mississauga",L5L1C6,925
+Vicky,Fortin,P7C3S7,"University of Toronto, Scarborough",M1C1A4,942
+Vicky,Fortin,P7C3S7,University of Victoria,V8P5C2,2479
+Vicky,Fortin,P7C3S7,University of Waterloo,N2L3G1,877
+Vicky,Fortin,P7C3S7,University of Western Ontario,N6A3K7,872
+Vicky,Fortin,P7C3S7,University of Windsor,N9B3P4,839
+Vicky,Fortin,P7C3S7,University of Winnipeg,R3B2E9,584
+Vicky,Fortin,P7C3S7,Wilfrid Laurier University,N2L3C5,877
+Vicky,Fortin,P7C3S7,William and Catherine Booth College,R3B2P2,584
+Vicky,Fortin,P7C3S7,York University,M3J1P3,922
+Vicky,Fortin,P7C3S7,Yukon College,Y1A5K4,3164
+Carl,Jones,L8N4A9,Acadia University,B4P2R6,1259
+Carl,Jones,L8N4A9,Athabasca University,T9S3A3,2696
+Carl,Jones,L8N4A9,Bishop's University,J1M1Z7,685
+Carl,Jones,L8N4A9,Brandon University,R7A6A9,1675
+Carl,Jones,L8N4A9,British Columbia Institute of Technology,V5G3H2,3317
+Carl,Jones,L8N4A9,Brock University,L2S3A1,67
+Carl,Jones,L8N4A9,Canadian Mennonite University,R3P2N2,1491
+Carl,Jones,L8N4A9,Carleton University,K1S5B6,409
+Carl,Jones,L8N4A9,College of New Caledonia,V2N1P8,3302
+Carl,Jones,L8N4A9,College of the Rockies,V1C5L7,2793
+Carl,Jones,L8N4A9,Columbia College,V6A0C1,3324
+Carl,Jones,L8N4A9,Concordia University,H3G1M8,561
+Carl,Jones,L8N4A9,Conestoga College,N2G4M4,38
+Carl,Jones,L8N4A9,Dalhousie University,B3H4R2,1319
+Carl,Jones,L8N4A9,Douglas College,V3M5Z5,3313
+Carl,Jones,L8N4A9,Durham College,L1G0C5,109
+Carl,Jones,L8N4A9,Ecole des Hautes Etudes Commerciales,H3T2A7,559
+Carl,Jones,L8N4A9,"Ecole Polytechnique de Montreal, Universite de Montreal",H3T1J4,559
+Carl,Jones,L8N4A9,Emily Carr Institute of Art + Design,V5T0H2,3324
+Carl,Jones,L8N4A9,King's University College,T6B2H3,2676
+Carl,Jones,L8N4A9,Lakehead University,P7B5E1,949
+Carl,Jones,L8N4A9,McGill University,H3A0G4,562
+Carl,Jones,L8N4A9,McMaster University,L8S4L8,18
+Carl,Jones,L8N4A9,Memorial University of Newfoundland,A1C5S7,2169
+Carl,Jones,L8N4A9,Mount Allison University,E4L1E2,1265
+Carl,Jones,L8N4A9,Mount Royal College,T3E6K6,2686
+Carl,Jones,L8N4A9,Mount Saint Vincent University,B3M2J6,1313
+Carl,Jones,L8N4A9,Nicola Valley Institute of Technology,V1K1R1,3153
+Carl,Jones,L8N4A9,Nipissing University,P1B8L7,328
+Carl,Jones,L8N4A9,Queen's University,K7L3N6,304
+Carl,Jones,L8N4A9,Ryerson University,M5B2K3,59
+Carl,Jones,L8N4A9,Simon Fraser University,V5A1S6,3313
+Carl,Jones,L8N4A9,St. Francis Xavier University,B2G2W5,1447
+Carl,Jones,L8N4A9,Trent University,L1J5Y1,106
+Carl,Jones,L8N4A9,Universite de Montreal,H3T1J4,559
+Carl,Jones,L8N4A9,Universite de Sherbrooke,J1K2R1,679
+Carl,Jones,L8N4A9,Universite Laval,G1V0A6,781
+Carl,Jones,L8N4A9,University of Alberta,T6G2R3,2683
+Carl,Jones,L8N4A9,University of British Columbia,V6T1Z4,3302
+Carl,Jones,L8N4A9,University of Calgary,T2N1N4,2684
+Carl,Jones,L8N4A9,University of Guelph,N1G2W1,21
+Carl,Jones,L8N4A9,University of Lethbridge,T1K3M4,2582
+Carl,Jones,L8N4A9,University of Manitoba,R3T2N2,1486
+Carl,Jones,L8N4A9,University of Moncton,E1A3E9,1243
+Carl,Jones,L8N4A9,University of New Brunswick,E3B5A3,1088
+Carl,Jones,L8N4A9,University of Northern British Columbia,V2N4Z9,3302
+Carl,Jones,L8N4A9,University of Ontario Institute of Technology,L1G0C5,109
+Carl,Jones,L8N4A9,University of Ottawa,K1N6N5,411
+Carl,Jones,L8N4A9,University of Prince Edward Island,C1A4P3,1375
+Carl,Jones,L8N4A9,University of Quebec,G1K9H7,787
+Carl,Jones,L8N4A9,University of Regina,S4S0A2,2013
+Carl,Jones,L8N4A9,University of Saskatchewan,S7N5A2,2195
+Carl,Jones,L8N4A9,University of Toronto,M5S1A1,58
+Carl,Jones,L8N4A9,"University of Toronto, Mississauga",L5L1C6,30
+Carl,Jones,L8N4A9,"University of Toronto, Scarborough",M1C1A4,82
+Carl,Jones,L8N4A9,University of Victoria,V8P5C2,3351
+Carl,Jones,L8N4A9,University of Waterloo,N2L3G1,43
+Carl,Jones,L8N4A9,University of Western Ontario,N6A3K7,110
+Carl,Jones,L8N4A9,University of Windsor,N9B3P4,276
+Carl,Jones,L8N4A9,University of Winnipeg,R3B2E9,1488
+Carl,Jones,L8N4A9,Wilfrid Laurier University,N2L3C5,43
+Carl,Jones,L8N4A9,William and Catherine Booth College,R3B2P2,1488
+Carl,Jones,L8N4A9,York University,M3J1P3,59
+Carl,Jones,L8N4A9,Yukon College,Y1A5K4,4068
+Minnie,Gruber,L8P1A7,Acadia University,B4P2R6,1253
+Minnie,Gruber,L8P1A7,Athabasca University,T9S3A3,2715
+Minnie,Gruber,L8P1A7,Bishop's University,J1M1Z7,682
+Minnie,Gruber,L8P1A7,Brandon University,R7A6A9,1693
+Minnie,Gruber,L8P1A7,British Columbia Institute of Technology,V5G3H2,3333
+Minnie,Gruber,L8P1A7,Brock University,L2S3A1,52
+Minnie,Gruber,L8P1A7,Canadian Mennonite University,R3P2N2,1509
+Minnie,Gruber,L8P1A7,Carleton University,K1S5B6,411
+Minnie,Gruber,L8P1A7,College of New Caledonia,V2N1P8,3320
+Minnie,Gruber,L8P1A7,College of the Rockies,V1C5L7,2810
+Minnie,Gruber,L8P1A7,Columbia College,V6A0C1,3340
+Minnie,Gruber,L8P1A7,Concordia University,H3G1M8,560
+Minnie,Gruber,L8P1A7,Conestoga College,N2G4M4,53
+Minnie,Gruber,L8P1A7,Dalhousie University,B3H4R2,1313
+Minnie,Gruber,L8P1A7,Douglas College,V3M5Z5,3330
+Minnie,Gruber,L8P1A7,Durham College,L1G0C5,111
+Minnie,Gruber,L8P1A7,Ecole des Hautes Etudes Commerciales,H3T2A7,558
+Minnie,Gruber,L8P1A7,"Ecole Polytechnique de Montreal, Universite de Montreal",H3T1J4,558
+Minnie,Gruber,L8P1A7,Emily Carr Institute of Art + Design,V5T0H2,3340
+Minnie,Gruber,L8P1A7,King's University College,T6B2H3,2694
+Minnie,Gruber,L8P1A7,Lakehead University,P7B5E1,968
+Minnie,Gruber,L8P1A7,McGill University,H3A0G4,561
+Minnie,Gruber,L8P1A7,McMaster University,L8S4L8,2
+Minnie,Gruber,L8P1A7,Memorial University of Newfoundland,A1C5S7,2166
+Minnie,Gruber,L8P1A7,Mount Allison University,E4L1E2,1261
+Minnie,Gruber,L8P1A7,Mount Royal College,T3E6K6,2703
+Minnie,Gruber,L8P1A7,Mount Saint Vincent University,B3M2J6,1307
+Minnie,Gruber,L8P1A7,Nicola Valley Institute of Technology,V1K1R1,3169
+Minnie,Gruber,L8P1A7,Nipissing University,P1B8L7,344
+Minnie,Gruber,L8P1A7,Queen's University,K7L3N6,301
+Minnie,Gruber,L8P1A7,Ryerson University,M5B2K3,61
+Minnie,Gruber,L8P1A7,Simon Fraser University,V5A1S6,3329
+Minnie,Gruber,L8P1A7,St. Francis Xavier University,B2G2W5,1442
+Minnie,Gruber,L8P1A7,Trent University,L1J5Y1,108
+Minnie,Gruber,L8P1A7,Universite de Montreal,H3T1J4,558
+Minnie,Gruber,L8P1A7,Universite de Sherbrooke,J1K2R1,676
+Minnie,Gruber,L8P1A7,Universite Laval,G1V0A6,781
+Minnie,Gruber,L8P1A7,University of Alberta,T6G2R3,2701
+Minnie,Gruber,L8P1A7,University of British Columbia,V6T1Z4,3319
+Minnie,Gruber,L8P1A7,University of Calgary,T2N1N4,2701
+Minnie,Gruber,L8P1A7,University of Guelph,N1G2W1,40
+Minnie,Gruber,L8P1A7,University of Lethbridge,T1K3M4,2599
+Minnie,Gruber,L8P1A7,University of Manitoba,R3T2N2,1504
+Minnie,Gruber,L8P1A7,University of Moncton,E1A3E9,1239
+Minnie,Gruber,L8P1A7,University of New Brunswick,E3B5A3,1084
+Minnie,Gruber,L8P1A7,University of Northern British Columbia,V2N4Z9,3320
+Minnie,Gruber,L8P1A7,University of Ontario Institute of Technology,L1G0C5,111
+Minnie,Gruber,L8P1A7,University of Ottawa,K1N6N5,413
+Minnie,Gruber,L8P1A7,University of Prince Edward Island,C1A4P3,1371
+Minnie,Gruber,L8P1A7,University of Quebec,G1K9H7,788
+Minnie,Gruber,L8P1A7,University of Regina,S4S0A2,2030
+Minnie,Gruber,L8P1A7,University of Saskatchewan,S7N5A2,2213
+Minnie,Gruber,L8P1A7,University of Toronto,M5S1A1,61
+Minnie,Gruber,L8P1A7,"University of Toronto, Mississauga",L5L1C6,36
+Minnie,Gruber,L8P1A7,"University of Toronto, Scarborough",M1C1A4,84
+Minnie,Gruber,L8P1A7,University of Victoria,V8P5C2,3367
+Minnie,Gruber,L8P1A7,University of Waterloo,N2L3G1,58
+Minnie,Gruber,L8P1A7,University of Western Ontario,N6A3K7,114
+Minnie,Gruber,L8P1A7,University of Windsor,N9B3P4,279
+Minnie,Gruber,L8P1A7,University of Winnipeg,R3B2E9,1506
+Minnie,Gruber,L8P1A7,Wilfrid Laurier University,N2L3C5,58
+Minnie,Gruber,L8P1A7,William and Catherine Booth College,R3B2P2,1506
+Minnie,Gruber,L8P1A7,York University,M3J1P3,66
+Minnie,Gruber,L8P1A7,Yukon College,Y1A5K4,4087
+Eve,Levesque,V4B2R4,Acadia University,B4P2R6,4338
+Eve,Levesque,V4B2R4,Athabasca University,T9S3A3,908
+Eve,Levesque,V4B2R4,Bishop's University,J1M1Z7,3799
+Eve,Levesque,V4B2R4,Brandon University,R7A6A9,1649
+Eve,Levesque,V4B2R4,British Columbia Institute of Technology,V5G3H2,28
+Eve,Levesque,V4B2R4,Brock University,L2S3A1,3373
+Eve,Levesque,V4B2R4,Canadian Mennonite University,R3P2N2,1844
+Eve,Levesque,V4B2R4,Carleton University,K1S5B6,3524
+Eve,Levesque,V4B2R4,College of New Caledonia,V2N1P8,513
+Eve,Levesque,V4B2R4,College of the Rockies,V1C5L7,513
+Eve,Levesque,V4B2R4,Columbia College,V6A0C1,35
+Eve,Levesque,V4B2R4,Concordia University,H3G1M8,3670
+Eve,Levesque,V4B2R4,Conestoga College,N2G4M4,3269
+Eve,Levesque,V4B2R4,Dalhousie University,B3H4R2,4416
+Eve,Levesque,V4B2R4,Douglas College,V3M5Z5,21
+Eve,Levesque,V4B2R4,Durham College,L1G0C5,3364
+Eve,Levesque,V4B2R4,Ecole des Hautes Etudes Commerciales,H3T2A7,3667
+Eve,Levesque,V4B2R4,"Ecole Polytechnique de Montreal, Universite de Montreal",H3T1J4,3667
+Eve,Levesque,V4B2R4,Emily Carr Institute of Art + Design,V5T0H2,34
+Eve,Levesque,V4B2R4,King's University College,T6B2H3,821
+Eve,Levesque,V4B2R4,Lakehead University,P7B5E1,2417
+Eve,Levesque,V4B2R4,McGill University,H3A0G4,3670
+Eve,Levesque,V4B2R4,McMaster University,L8S4L8,3320
+Eve,Levesque,V4B2R4,Memorial University of Newfoundland,A1C5S7,5002
+Eve,Levesque,V4B2R4,Mount Allison University,E4L1E2,4295
+Eve,Levesque,V4B2R4,Mount Royal College,T3E6K6,655
+Eve,Levesque,V4B2R4,Mount Saint Vincent University,B3M2J6,4409
+Eve,Levesque,V4B2R4,Nicola Valley Institute of Technology,V1K1R1,189
+Eve,Levesque,V4B2R4,Nipissing University,P1B8L7,3206
+Eve,Levesque,V4B2R4,Queen's University,K7L3N6,3522
+Eve,Levesque,V4B2R4,Ryerson University,M5B2K3,3339
+Eve,Levesque,V4B2R4,Simon Fraser University,V5A1S6,28
+Eve,Levesque,V4B2R4,St. Francis Xavier University,B2G2W5,4475
+Eve,Levesque,V4B2R4,Trent University,L1J5Y1,3365
+Eve,Levesque,V4B2R4,Universite de Montreal,H3T1J4,3667
+Eve,Levesque,V4B2R4,Universite de Sherbrooke,J1K2R1,3792
+Eve,Levesque,V4B2R4,Universite Laval,G1V0A6,3774
+Eve,Levesque,V4B2R4,University of Alberta,T6G2R3,815
+Eve,Levesque,V4B2R4,University of British Columbia,V6T1Z4,49
+Eve,Levesque,V4B2R4,University of Calgary,T2N1N4,660
+Eve,Levesque,V4B2R4,University of Guelph,N1G2W1,3285
+Eve,Levesque,V4B2R4,University of Lethbridge,T1K3M4,725
+Eve,Levesque,V4B2R4,University of Manitoba,R3T2N2,1849
+Eve,Levesque,V4B2R4,University of Moncton,E1A3E9,4264
+Eve,Levesque,V4B2R4,University of New Brunswick,E3B5A3,4141
+Eve,Levesque,V4B2R4,University of Northern British Columbia,V2N4Z9,513
+Eve,Levesque,V4B2R4,University of Ontario Institute of Technology,L1G0C5,3364
+Eve,Levesque,V4B2R4,University of Ottawa,K1N6N5,3523
+Eve,Levesque,V4B2R4,University of Prince Edward Island,C1A4P3,4372
+Eve,Levesque,V4B2R4,University of Quebec,G1K9H7,3777
+Eve,Levesque,V4B2R4,University of Regina,S4S0A2,1314
+Eve,Levesque,V4B2R4,University of Saskatchewan,S7N5A2,1192
+Eve,Levesque,V4B2R4,University of Toronto,M5S1A1,3338
+Eve,Levesque,V4B2R4,"University of Toronto, Mississauga",L5L1C6,3323
+Eve,Levesque,V4B2R4,"University of Toronto, Scarborough",M1C1A4,3349
+Eve,Levesque,V4B2R4,University of Victoria,V8P5C2,74
+Eve,Levesque,V4B2R4,University of Waterloo,N2L3G1,3264
+Eve,Levesque,V4B2R4,University of Western Ontario,N6A3K7,3235
+Eve,Levesque,V4B2R4,University of Windsor,N9B3P4,3140
+Eve,Levesque,V4B2R4,University of Winnipeg,R3B2E9,1848
+Eve,Levesque,V4B2R4,Wilfrid Laurier University,N2L3C5,3264
+Eve,Levesque,V4B2R4,William and Catherine Booth College,R3B2P2,1848
+Eve,Levesque,V4B2R4,York University,M3J1P3,3326
+Eve,Levesque,V4B2R4,Yukon College,Y1A5K4,1512
+Jennifer,Landry,H3B1P5,Acadia University,B4P2R6,721
+Jennifer,Landry,H3B1P5,Athabasca University,T9S3A3,2965
+Jennifer,Landry,H3B1P5,Bishop's University,J1M1Z7,136
+Jennifer,Landry,H3B1P5,Brandon University,R7A6A9,2022
+Jennifer,Landry,H3B1P5,British Columbia Institute of Technology,V5G3H2,3678
+Jennifer,Landry,H3B1P5,Brock University,L2S3A1,523
+Jennifer,Landry,H3B1P5,Canadian Mennonite University,R3P2N2,1827
+Jennifer,Landry,H3B1P5,Carleton University,K1S5B6,166
+Jennifer,Landry,H3B1P5,College of New Caledonia,V2N1P8,3596
+Jennifer,Landry,H3B1P5,College of the Rockies,V1C5L7,3159
+Jennifer,Landry,H3B1P5,Columbia College,V6A0C1,3684
+Jennifer,Landry,H3B1P5,Concordia University,H3G1M8,1
+Jennifer,Landry,H3B1P5,Conestoga College,N2G4M4,595
+Jennifer,Landry,H3B1P5,Dalhousie University,B3H4R2,790
+Jennifer,Landry,H3B1P5,Douglas College,V3M5Z5,3676
+Jennifer,Landry,H3B1P5,Durham College,L1G0C5,454
+Jennifer,Landry,H3B1P5,Ecole des Hautes Etudes Commerciales,H3T2A7,4
+Jennifer,Landry,H3B1P5,"Ecole Polytechnique de Montreal, Universite de Montreal",H3T1J4,4
+Jennifer,Landry,H3B1P5,Emily Carr Institute of Art + Design,V5T0H2,3685
+Jennifer,Landry,H3B1P5,King's University College,T6B2H3,2968
+Jennifer,Landry,H3B1P5,Lakehead University,P7B5E1,1253
+Jennifer,Landry,H3B1P5,McGill University,H3A0G4,1
+Jennifer,Landry,H3B1P5,McMaster University,L8S4L8,562
+Jennifer,Landry,H3B1P5,Memorial University of Newfoundland,A1C5S7,1610
+Jennifer,Landry,H3B1P5,Mount Allison University,E4L1E2,714
+Jennifer,Landry,H3B1P5,Mount Royal College,T3E6K6,3027
+Jennifer,Landry,H3B1P5,Mount Saint Vincent University,B3M2J6,783
+Jennifer,Landry,H3B1P5,Nicola Valley Institute of Technology,V1K1R1,3504
+Jennifer,Landry,H3B1P5,Nipissing University,P1B8L7,474
+Jennifer,Landry,H3B1P5,Queen's University,K7L3N6,262
+Jennifer,Landry,H3B1P5,Ryerson University,M5B2K3,504
+Jennifer,Landry,H3B1P5,Simon Fraser University,V5A1S6,3674
+Jennifer,Landry,H3B1P5,St. Francis Xavier University,B2G2W5,900
+Jennifer,Landry,H3B1P5,Trent University,L1J5Y1,456
+Jennifer,Landry,H3B1P5,Universite de Montreal,H3T1J4,4
+Jennifer,Landry,H3B1P5,Universite de Sherbrooke,J1K2R1,128
+Jennifer,Landry,H3B1P5,Universite Laval,G1V0A6,226
+Jennifer,Landry,H3B1P5,University of Alberta,T6G2R3,2976
+Jennifer,Landry,H3B1P5,University of British Columbia,V6T1Z4,3661
+Jennifer,Landry,H3B1P5,University of Calgary,T2N1N4,3023
+Jennifer,Landry,H3B1P5,University of Guelph,N1G2W1,572
+Jennifer,Landry,H3B1P5,University of Lethbridge,T1K3M4,2947
+Jennifer,Landry,H3B1P5,University of Manitoba,R3T2N2,1822
+Jennifer,Landry,H3B1P5,University of Moncton,E1A3E9,690
+Jennifer,Landry,H3B1P5,University of New Brunswick,E3B5A3,537
+Jennifer,Landry,H3B1P5,University of Northern British Columbia,V2N4Z9,3596
+Jennifer,Landry,H3B1P5,University of Ontario Institute of Technology,L1G0C5,454
+Jennifer,Landry,H3B1P5,University of Ottawa,K1N6N5,165
+Jennifer,Landry,H3B1P5,University of Prince Edward Island,C1A4P3,821
+Jennifer,Landry,H3B1P5,University of Quebec,G1K9H7,233
+Jennifer,Landry,H3B1P5,University of Regina,S4S0A2,2357
+Jennifer,Landry,H3B1P5,University of Saskatchewan,S7N5A2,2504
+Jennifer,Landry,H3B1P5,University of Toronto,M5S1A1,505
+Jennifer,Landry,H3B1P5,"University of Toronto, Mississauga",L5L1C6,532
+Jennifer,Landry,H3B1P5,"University of Toronto, Scarborough",M1C1A4,481
+Jennifer,Landry,H3B1P5,University of Victoria,V8P5C2,3723
+Jennifer,Landry,H3B1P5,University of Waterloo,N2L3G1,597
+Jennifer,Landry,H3B1P5,University of Western Ontario,N6A3K7,672
+Jennifer,Landry,H3B1P5,University of Windsor,N9B3P4,839
+Jennifer,Landry,H3B1P5,University of Winnipeg,R3B2E9,1822
+Jennifer,Landry,H3B1P5,Wilfrid Laurier University,N2L3C5,597
+Jennifer,Landry,H3B1P5,William and Catherine Booth College,R3B2P2,1822
+Jennifer,Landry,H3B1P5,York University,M3J1P3,507
+Jennifer,Landry,H3B1P5,Yukon College,Y1A5K4,4249
+John,Nowak,H3B5L4,Acadia University,B4P2R6,721
+John,Nowak,H3B5L4,Athabasca University,T9S3A3,2965
+John,Nowak,H3B5L4,Bishop's University,J1M1Z7,136
+John,Nowak,H3B5L4,Brandon University,R7A6A9,2022
+John,Nowak,H3B5L4,British Columbia Institute of Technology,V5G3H2,3678
+John,Nowak,H3B5L4,Brock University,L2S3A1,523
+John,Nowak,H3B5L4,Canadian Mennonite University,R3P2N2,1827
+John,Nowak,H3B5L4,Carleton University,K1S5B6,166
+John,Nowak,H3B5L4,College of New Caledonia,V2N1P8,3596
+John,Nowak,H3B5L4,College of the Rockies,V1C5L7,3159
+John,Nowak,H3B5L4,Columbia College,V6A0C1,3684
+John,Nowak,H3B5L4,Concordia University,H3G1M8,1
+John,Nowak,H3B5L4,Conestoga College,N2G4M4,595
+John,Nowak,H3B5L4,Dalhousie University,B3H4R2,790
+John,Nowak,H3B5L4,Douglas College,V3M5Z5,3676
+John,Nowak,H3B5L4,Durham College,L1G0C5,454
+John,Nowak,H3B5L4,Ecole des Hautes Etudes Commerciales,H3T2A7,4
+John,Nowak,H3B5L4,"Ecole Polytechnique de Montreal, Universite de Montreal",H3T1J4,4
+John,Nowak,H3B5L4,Emily Carr Institute of Art + Design,V5T0H2,3685
+John,Nowak,H3B5L4,King's University College,T6B2H3,2968
+John,Nowak,H3B5L4,Lakehead University,P7B5E1,1253
+John,Nowak,H3B5L4,McGill University,H3A0G4,1
+John,Nowak,H3B5L4,McMaster University,L8S4L8,562
+John,Nowak,H3B5L4,Memorial University of Newfoundland,A1C5S7,1610
+John,Nowak,H3B5L4,Mount Allison University,E4L1E2,714
+John,Nowak,H3B5L4,Mount Royal College,T3E6K6,3027
+John,Nowak,H3B5L4,Mount Saint Vincent University,B3M2J6,783
+John,Nowak,H3B5L4,Nicola Valley Institute of Technology,V1K1R1,3504
+John,Nowak,H3B5L4,Nipissing University,P1B8L7,474
+John,Nowak,H3B5L4,Queen's University,K7L3N6,262
+John,Nowak,H3B5L4,Ryerson University,M5B2K3,504
+John,Nowak,H3B5L4,Simon Fraser University,V5A1S6,3674
+John,Nowak,H3B5L4,St. Francis Xavier University,B2G2W5,900
+John,Nowak,H3B5L4,Trent University,L1J5Y1,456
+John,Nowak,H3B5L4,Universite de Montreal,H3T1J4,4
+John,Nowak,H3B5L4,Universite de Sherbrooke,J1K2R1,128
+John,Nowak,H3B5L4,Universite Laval,G1V0A6,226
+John,Nowak,H3B5L4,University of Alberta,T6G2R3,2976
+John,Nowak,H3B5L4,University of British Columbia,V6T1Z4,3661
+John,Nowak,H3B5L4,University of Calgary,T2N1N4,3023
+John,Nowak,H3B5L4,University of Guelph,N1G2W1,572
+John,Nowak,H3B5L4,University of Lethbridge,T1K3M4,2947
+John,Nowak,H3B5L4,University of Manitoba,R3T2N2,1822
+John,Nowak,H3B5L4,University of Moncton,E1A3E9,690
+John,Nowak,H3B5L4,University of New Brunswick,E3B5A3,537
+John,Nowak,H3B5L4,University of Northern British Columbia,V2N4Z9,3596
+John,Nowak,H3B5L4,University of Ontario Institute of Technology,L1G0C5,454
+John,Nowak,H3B5L4,University of Ottawa,K1N6N5,165
+John,Nowak,H3B5L4,University of Prince Edward Island,C1A4P3,821
+John,Nowak,H3B5L4,University of Quebec,G1K9H7,233
+John,Nowak,H3B5L4,University of Regina,S4S0A2,2357
+John,Nowak,H3B5L4,University of Saskatchewan,S7N5A2,2504
+John,Nowak,H3B5L4,University of Toronto,M5S1A1,505
+John,Nowak,H3B5L4,"University of Toronto, Mississauga",L5L1C6,532
+John,Nowak,H3B5L4,"University of Toronto, Scarborough",M1C1A4,481
+John,Nowak,H3B5L4,University of Victoria,V8P5C2,3723
+John,Nowak,H3B5L4,University of Waterloo,N2L3G1,597
+John,Nowak,H3B5L4,University of Western Ontario,N6A3K7,672
+John,Nowak,H3B5L4,University of Windsor,N9B3P4,839
+John,Nowak,H3B5L4,University of Winnipeg,R3B2E9,1822
+John,Nowak,H3B5L4,Wilfrid Laurier University,N2L3C5,597
+John,Nowak,H3B5L4,William and Catherine Booth College,R3B2P2,1822
+John,Nowak,H3B5L4,York University,M3J1P3,507
+John,Nowak,H3B5L4,Yukon College,Y1A5K4,4249
+Alan,Clark,V9R5B2,Acadia University,B4P2R6,4416
+Alan,Clark,V9R5B2,Athabasca University,T9S3A3,957
+Alan,Clark,V9R5B2,Bishop's University,J1M1Z7,3879
+Alan,Clark,V9R5B2,Brandon University,R7A6A9,1730
+Alan,Clark,V9R5B2,British Columbia Institute of Technology,V5G3H2,72
+Alan,Clark,V9R5B2,Brock University,L2S3A1,3457
+Alan,Clark,V9R5B2,Canadian Mennonite University,R3P2N2,1924
+Alan,Clark,V9R5B2,Carleton University,K1S5B6,3605
+Alan,Clark,V9R5B2,College of New Caledonia,V2N1P8,503
+Alan,Clark,V9R5B2,College of the Rockies,V1C5L7,596
+Alan,Clark,V9R5B2,Columbia College,V6A0C1,66
+Alan,Clark,V9R5B2,Concordia University,H3G1M8,3750
+Alan,Clark,V9R5B2,Conestoga College,N2G4M4,3353
+Alan,Clark,V9R5B2,Dalhousie University,B3H4R2,4494
+Alan,Clark,V9R5B2,Douglas College,V3M5Z5,76
+Alan,Clark,V9R5B2,Durham College,L1G0C5,3447
+Alan,Clark,V9R5B2,Ecole des Hautes Etudes Commerciales,H3T2A7,3747
+Alan,Clark,V9R5B2,"Ecole Polytechnique de Montreal, Universite de Montreal",H3T1J4,3747
+Alan,Clark,V9R5B2,Emily Carr Institute of Art + Design,V5T0H2,66
+Alan,Clark,V9R5B2,King's University College,T6B2H3,878
+Alan,Clark,V9R5B2,Lakehead University,P7B5E1,2498
+Alan,Clark,V9R5B2,McGill University,H3A0G4,3750
+Alan,Clark,V9R5B2,McMaster University,L8S4L8,3404
+Alan,Clark,V9R5B2,Memorial University of Newfoundland,A1C5S7,5072
+Alan,Clark,V9R5B2,Mount Allison University,E4L1E2,4371
+Alan,Clark,V9R5B2,Mount Royal College,T3E6K6,729
+Alan,Clark,V9R5B2,Mount Saint Vincent University,B3M2J6,4486
+Alan,Clark,V9R5B2,Nicola Valley Institute of Technology,V1K1R1,253
+Alan,Clark,V9R5B2,Nipissing University,P1B8L7,3286
+Alan,Clark,V9R5B2,Queen's University,K7L3N6,3604
+Alan,Clark,V9R5B2,Ryerson University,M5B2K3,3423
+Alan,Clark,V9R5B2,Simon Fraser University,V5A1S6,77
+Alan,Clark,V9R5B2,St. Francis Xavier University,B2G2W5,4551
+Alan,Clark,V9R5B2,Trent University,L1J5Y1,3448
+Alan,Clark,V9R5B2,Universite de Montreal,H3T1J4,3747
+Alan,Clark,V9R5B2,Universite de Sherbrooke,J1K2R1,3871
+Alan,Clark,V9R5B2,Universite Laval,G1V0A6,3852
+Alan,Clark,V9R5B2,University of Alberta,T6G2R3,872
+Alan,Clark,V9R5B2,University of British Columbia,V6T1Z4,91
+Alan,Clark,V9R5B2,University of Calgary,T2N1N4,734
+Alan,Clark,V9R5B2,University of Guelph,N1G2W1,3368
+Alan,Clark,V9R5B2,University of Lethbridge,T1K3M4,808
+Alan,Clark,V9R5B2,University of Manitoba,R3T2N2,1929
+Alan,Clark,V9R5B2,University of Moncton,E1A3E9,4340
+Alan,Clark,V9R5B2,University of New Brunswick,E3B5A3,4218
+Alan,Clark,V9R5B2,University of Northern British Columbia,V2N4Z9,503
+Alan,Clark,V9R5B2,University of Ontario Institute of Technology,L1G0C5,3447
+Alan,Clark,V9R5B2,University of Ottawa,K1N6N5,3604
+Alan,Clark,V9R5B2,University of Prince Edward Island,C1A4P3,4447
+Alan,Clark,V9R5B2,University of Quebec,G1K9H7,3855
+Alan,Clark,V9R5B2,University of Regina,S4S0A2,1394
+Alan,Clark,V9R5B2,University of Saskatchewan,S7N5A2,1266
+Alan,Clark,V9R5B2,University of Toronto,M5S1A1,3421
+Alan,Clark,V9R5B2,"University of Toronto, Mississauga",L5L1C6,3406
+Alan,Clark,V9R5B2,"University of Toronto, Scarborough",M1C1A4,3432
+Alan,Clark,V9R5B2,University of Victoria,V8P5C2,91
+Alan,Clark,V9R5B2,University of Waterloo,N2L3G1,3348
+Alan,Clark,V9R5B2,University of Western Ontario,N6A3K7,3320
+Alan,Clark,V9R5B2,University of Windsor,N9B3P4,3225
+Alan,Clark,V9R5B2,University of Winnipeg,R3B2E9,1929
+Alan,Clark,V9R5B2,Wilfrid Laurier University,N2L3C5,3348
+Alan,Clark,V9R5B2,William and Catherine Booth College,R3B2P2,1929
+Alan,Clark,V9R5B2,York University,M3J1P3,3409
+Alan,Clark,V9R5B2,Yukon College,Y1A5K4,1462
+Christine,Li,P3E1B4,Acadia University,B4P2R6,1289
+Christine,Li,P3E1B4,Athabasca University,T9S3A3,2448
+Christine,Li,P3E1B4,Bishop's University,J1M1Z7,709
+Christine,Li,P3E1B4,Brandon University,R7A6A9,1466
+Christine,Li,P3E1B4,British Columbia Institute of Technology,V5G3H2,3123
+Christine,Li,P3E1B4,Brock University,L2S3A1,371
+Christine,Li,P3E1B4,Canadian Mennonite University,R3P2N2,1273
+Christine,Li,P3E1B4,Carleton University,K1S5B6,416
+Christine,Li,P3E1B4,College of New Caledonia,V2N1P8,3069
+Christine,Li,P3E1B4,College of the Rockies,V1C5L7,2601
+Christine,Li,P3E1B4,Columbia College,V6A0C1,3129
+Christine,Li,P3E1B4,Concordia University,H3G1M8,573
+Christine,Li,P3E1B4,Conestoga College,N2G4M4,316
+Christine,Li,P3E1B4,Dalhousie University,B3H4R2,1361
+Christine,Li,P3E1B4,Douglas College,V3M5Z5,3120
+Christine,Li,P3E1B4,Durham College,L1G0C5,306
+Christine,Li,P3E1B4,Ecole des Hautes Etudes Commerciales,H3T2A7,570
+Christine,Li,P3E1B4,"Ecole Polytechnique de Montreal, Universite de Montreal",H3T1J4,570
+Christine,Li,P3E1B4,Emily Carr Institute of Art + Design,V5T0H2,3129
+Christine,Li,P3E1B4,King's University College,T6B2H3,2439
+Christine,Li,P3E1B4,Lakehead University,P7B5E1,703
+Christine,Li,P3E1B4,McGill University,H3A0G4,574
+Christine,Li,P3E1B4,McMaster University,L8S4L8,343
+Christine,Li,P3E1B4,Memorial University of Newfoundland,A1C5S7,2138
+Christine,Li,P3E1B4,Mount Allison University,E4L1E2,1272
+Christine,Li,P3E1B4,Mount Royal College,T3E6K6,2477
+Christine,Li,P3E1B4,Mount Saint Vincent University,B3M2J6,1354
+Christine,Li,P3E1B4,Nicola Valley Institute of Technology,V1K1R1,2952
+Christine,Li,P3E1B4,Nipissing University,P1B8L7,102
+Christine,Li,P3E1B4,Queen's University,K7L3N6,413
+Christine,Li,P3E1B4,Ryerson University,M5B2K3,314
+Christine,Li,P3E1B4,Simon Fraser University,V5A1S6,3118
+Christine,Li,P3E1B4,St. Francis Xavier University,B2G2W5,1460
+Christine,Li,P3E1B4,Trent University,L1J5Y1,309
+Christine,Li,P3E1B4,Universite de Montreal,H3T1J4,570
+Christine,Li,P3E1B4,Universite de Sherbrooke,J1K2R1,702
+Christine,Li,P3E1B4,Universite Laval,G1V0A6,738
+Christine,Li,P3E1B4,University of Alberta,T6G2R3,2447
+Christine,Li,P3E1B4,University of British Columbia,V6T1Z4,3106
+Christine,Li,P3E1B4,University of Calgary,T2N1N4,2474
+Christine,Li,P3E1B4,University of Guelph,N1G2W1,310
+Christine,Li,P3E1B4,University of Lethbridge,T1K3M4,2389
+Christine,Li,P3E1B4,University of Manitoba,R3T2N2,1268
+Christine,Li,P3E1B4,University of Moncton,E1A3E9,1245
+Christine,Li,P3E1B4,University of New Brunswick,E3B5A3,1098
+Christine,Li,P3E1B4,University of Northern British Columbia,V2N4Z9,3069
+Christine,Li,P3E1B4,University of Ontario Institute of Technology,L1G0C5,306
+Christine,Li,P3E1B4,University of Ottawa,K1N6N5,415
+Christine,Li,P3E1B4,University of Prince Edward Island,C1A4P3,1372
+Christine,Li,P3E1B4,University of Quebec,G1K9H7,743
+Christine,Li,P3E1B4,University of Regina,S4S0A2,1803
+Christine,Li,P3E1B4,University of Saskatchewan,S7N5A2,1966
+Christine,Li,P3E1B4,University of Toronto,M5S1A1,313
+Christine,Li,P3E1B4,"University of Toronto, Mississauga",L5L1C6,318
+Christine,Li,P3E1B4,"University of Toronto, Scarborough",M1C1A4,308
+Christine,Li,P3E1B4,University of Victoria,V8P5C2,3164
+Christine,Li,P3E1B4,University of Waterloo,N2L3G1,312
+Christine,Li,P3E1B4,University of Western Ontario,N6A3K7,365
+Christine,Li,P3E1B4,University of Windsor,N9B3P4,474
+Christine,Li,P3E1B4,University of Winnipeg,R3B2E9,1269
+Christine,Li,P3E1B4,Wilfrid Laurier University,N2L3C5,312
+Christine,Li,P3E1B4,William and Catherine Booth College,R3B2P2,1269
+Christine,Li,P3E1B4,York University,M3J1P3,299
+Christine,Li,P3E1B4,Yukon College,Y1A5K4,3789
+Kelly,Murray,T1J4S3,Acadia University,B4P,3615
+Kelly,Murray,T1J4S3,Athabasca University,T9S,564
+Kelly,Murray,T1J4S3,Bishop's University,J1M,3070
+Kelly,Murray,T1J4S3,Brandon University,R7A,918
+Kelly,Murray,T1J4S3,British Columbia Institute of Technology,V5G,741
+Kelly,Murray,T1J4S3,Brock University,L2S,2643
+Kelly,Murray,T1J4S3,Canadian Mennonite University,R3P,1114
+Kelly,Murray,T1J4S3,Carleton University,K1S,2793
+Kelly,Murray,T1J4S3,College of New Caledonia,V2N,831
+Kelly,Murray,T1J4S3,College of the Rockies,V1C,218
+Kelly,Murray,T1J4S3,Columbia College,V6A,748
+Kelly,Murray,T1J4S3,Concordia University,H3G,2940
+Kelly,Murray,T1J4S3,Conestoga College,N2G,2540
+Kelly,Murray,T1J4S3,Dalhousie University,B3H,3692
+Kelly,Murray,T1J4S3,Douglas College,V3M,738
+Kelly,Murray,T1J4S3,Durham College,L1G,2633
+Kelly,Murray,T1J4S3,École des Hautes Études Commerciales,H3T,2937
+Kelly,Murray,T1J4S3,"École Polytechnique de Montréal, Université de Montréal",H3T,2937
+Kelly,Murray,T1J4S3,Emily Carr Institute of Art + Design,V5T,748
+Kelly,Murray,T1J4S3,King's University College,T6B,431
+Kelly,Murray,T1J4S3,Lakehead University,P7B,1687
+Kelly,Murray,T1J4S3,McGill University,H3A,2940
+Kelly,Murray,T1J4S3,McMaster University,L8S,2591
+Kelly,Murray,T1J4S3,Memorial University of Newfoundland,A1C,4306
+Kelly,Murray,T1J4S3,Mount Allison University,E4L,3574
+Kelly,Murray,T1J4S3,Mount Royal College,T3E,179
+Kelly,Murray,T1J4S3,Mount Saint Vincent University,B3M,3685
+Kelly,Murray,T1J4S3,Nicola Valley Institute of Technology,V1K,578
+Kelly,Murray,T1J4S3,Nipissing University,P1B,2475
+Kelly,Murray,T1J4S3,Queen's University,K7L,2790
+Kelly,Murray,T1J4S3,Ryerson University,M5B,2609
+Kelly,Murray,T1J4S3,Simon Fraser University,V5A,737
+Kelly,Murray,T1J4S3,St. Francis Xavier University,B2G,3756
+Kelly,Murray,T1J4S3,Trent University,L1J,2634
+Kelly,Murray,T1J4S3,Université de Montréal,H3T,2937
+Kelly,Murray,T1J4S3,Université de Sherbrooke,J1K,3063
+Kelly,Murray,T1J4S3,Université Laval,G1V,3049
+Kelly,Murray,T1J4S3,University of Alberta,T6G,433
+Kelly,Murray,T1J4S3,University of British Columbia,V6T,726
+Kelly,Murray,T1J4S3,University of Calgary,T2N,184
+Kelly,Murray,T1J4S3,University of Guelph,N1G,2555
+Kelly,Murray,T1J4S3,University of Lethbridge,T1K,6
+Kelly,Murray,T1J4S3,University of Manitoba,R3T,1119
+Kelly,Murray,T1J4S3,University of Moncton,E1A,3543
+Kelly,Murray,T1J4S3,University of New Brunswick,E3B,3417
+Kelly,Murray,T1J4S3,University of Northern British Columbia,V2N,831
+Kelly,Murray,T1J4S3,University of Ontario Institute of Technology,L1G,2633
+Kelly,Murray,T1J4S3,University of Ottawa,K1N,2792
+Kelly,Murray,T1J4S3,University of Prince Edward Island,C1A,3654
+Kelly,Murray,T1J4S3,University of Québec,G1K,3052
+Kelly,Murray,T1J4S3,University of Regina,S4S,587
+Kelly,Murray,T1J4S3,University of Saskatchewan,S7N,511
+Kelly,Murray,T1J4S3,University of Toronto,M5S,2607
+Kelly,Murray,T1J4S3,"University of Toronto, Mississauga",L5L,2593
+Kelly,Murray,T1J4S3,"University of Toronto, Scarborough",M1C,2619
+Kelly,Murray,T1J4S3,University of Victoria,V8P,782
+Kelly,Murray,T1J4S3,University of Waterloo,N2L,2535
+Kelly,Murray,T1J4S3,University of Western Ontario,N6A,2508
+Kelly,Murray,T1J4S3,University of Windsor,N9B,2418
+Kelly,Murray,T1J4S3,University of Winnipeg,R3B,1119
+Kelly,Murray,T1J4S3,Wilfrid Laurier University,N2L,2535
+Kelly,Murray,T1J4S3,William and Catherine Booth College,R3B,1119
+Kelly,Murray,T1J4S3,York University,M3J,2595
+Kelly,Murray,T1J4S3,Yukon College,Y1A,1859
+Heather,Nagy,J3B8R8,Acadia University,B4P2R6,699
+Heather,Nagy,J3B8R8,Athabasca University,T9S3A3,2997
+Heather,Nagy,J3B8R8,Bishop's University,J1M1Z7,113
+Heather,Nagy,J3B8R8,Brandon University,R7A6A9,2053
+Heather,Nagy,J3B8R8,British Columbia Institute of Technology,V5G3H2,3709
+Heather,Nagy,J3B8R8,Brock University,L2S3A1,533
+Heather,Nagy,J3B8R8,Canadian Mennonite University,R3P2N2,1857
+Heather,Nagy,J3B8R8,Carleton University,K1S5B6,189
+Heather,Nagy,J3B8R8,College of New Caledonia,V2N1P8,3628
+Heather,Nagy,J3B8R8,College of the Rockies,V1C5L7,3189
+Heather,Nagy,J3B8R8,Columbia College,V6A0C1,3715
+Heather,Nagy,J3B8R8,Concordia University,H3G1M8,34
+Heather,Nagy,J3B8R8,Conestoga College,N2G4M4,608
+Heather,Nagy,J3B8R8,Dalhousie University,B3H4R2,766
+Heather,Nagy,J3B8R8,Douglas College,V3M5Z5,3706
+Heather,Nagy,J3B8R8,Durham College,L1G0C5,467
+Heather,Nagy,J3B8R8,Ecole des Hautes Etudes Commerciales,H3T2A7,36
+Heather,Nagy,J3B8R8,"Ecole Polytechnique de Montreal, Universite de Montreal",H3T1J4,36
+Heather,Nagy,J3B8R8,Emily Carr Institute of Art + Design,V5T0H2,3715
+Heather,Nagy,J3B8R8,King's University College,T6B2H3,3000
+Heather,Nagy,J3B8R8,Lakehead University,P7B5E1,1284
+Heather,Nagy,J3B8R8,McGill University,H3A0G4,34
+Heather,Nagy,J3B8R8,McMaster University,L8S4L8,574
+Heather,Nagy,J3B8R8,Memorial University of Newfoundland,A1C5S7,1595
+Heather,Nagy,J3B8R8,Mount Allison University,E4L1E2,695
+Heather,Nagy,J3B8R8,Mount Royal College,T3E6K6,3058
+Heather,Nagy,J3B8R8,Mount Saint Vincent University,B3M2J6,759
+Heather,Nagy,J3B8R8,Nicola Valley Institute of Technology,V1K1R1,3535
+Heather,Nagy,J3B8R8,Nipissing University,P1B8L7,502
+Heather,Nagy,J3B8R8,Queen's University,K7L3N6,272
+Heather,Nagy,J3B8R8,Ryerson University,M5B2K3,516
+Heather,Nagy,J3B8R8,Simon Fraser University,V5A1S6,3704
+Heather,Nagy,J3B8R8,St. Francis Xavier University,B2G2W5,880
+Heather,Nagy,J3B8R8,Trent University,L1J5Y1,470
+Heather,Nagy,J3B8R8,Universite de Montreal,H3T1J4,36
+Heather,Nagy,J3B8R8,Universite de Sherbrooke,J1K2R1,106
+Heather,Nagy,J3B8R8,Universite Laval,G1V0A6,227
+Heather,Nagy,J3B8R8,University of Alberta,T6G2R3,3008
+Heather,Nagy,J3B8R8,University of British Columbia,V6T1Z4,3692
+Heather,Nagy,J3B8R8,University of Calgary,T2N1N4,3054
+Heather,Nagy,J3B8R8,University of Guelph,N1G2W1,585
+Heather,Nagy,J3B8R8,University of Lethbridge,T1K3M4,2977
+Heather,Nagy,J3B8R8,University of Manitoba,R3T2N2,1852
+Heather,Nagy,J3B8R8,University of Moncton,E1A3E9,671
+Heather,Nagy,J3B8R8,University of New Brunswick,E3B5A3,517
+Heather,Nagy,J3B8R8,University of Northern British Columbia,V2N4Z9,3628
+Heather,Nagy,J3B8R8,University of Ontario Institute of Technology,L1G0C5,467
+Heather,Nagy,J3B8R8,University of Ottawa,K1N6N5,189
+Heather,Nagy,J3B8R8,University of Prince Edward Island,C1A4P3,803
+Heather,Nagy,J3B8R8,University of Quebec,G1K9H7,233
+Heather,Nagy,J3B8R8,University of Regina,S4S0A2,2387
+Heather,Nagy,J3B8R8,University of Saskatchewan,S7N5A2,2536
+Heather,Nagy,J3B8R8,University of Toronto,M5S1A1,518
+Heather,Nagy,J3B8R8,"University of Toronto, Mississauga",L5L1C6,545
+Heather,Nagy,J3B8R8,"University of Toronto, Scarborough",M1C1A4,494
+Heather,Nagy,J3B8R8,University of Victoria,V8P5C2,3753
+Heather,Nagy,J3B8R8,University of Waterloo,N2L3G1,611
+Heather,Nagy,J3B8R8,University of Western Ontario,N6A3K7,685
+Heather,Nagy,J3B8R8,University of Windsor,N9B3P4,851
+Heather,Nagy,J3B8R8,University of Winnipeg,R3B2E9,1853
+Heather,Nagy,J3B8R8,Wilfrid Laurier University,N2L3C5,611
+Heather,Nagy,J3B8R8,William and Catherine Booth College,R3B2P2,1853
+Heather,Nagy,J3B8R8,York University,M3J1P3,520
+Heather,Nagy,J3B8R8,Yukon College,Y1A5K4,4282
+Rachel,Poirier,B3J1G9,Acadia University,B4P2R6,79
+Rachel,Poirier,B3J1G9,Athabasca University,T9S3A3,3661
+Rachel,Poirier,B3J1G9,Bishop's University,J1M1Z7,654
+Rachel,Poirier,B3J1G9,Brandon University,R7A6A9,2778
+Rachel,Poirier,B3J1G9,British Columbia Institute of Technology,V5G3H2,4422
+Rachel,Poirier,B3J1G9,Brock University,L2S3A1,1266
+Rachel,Poirier,B3J1G9,Canadian Mennonite University,R3P2N2,2581
+Rachel,Poirier,B3J1G9,Carleton University,K1S5B6,955
+Rachel,Poirier,B3J1G9,College of New Caledonia,V2N1P8,4300
+Rachel,Poirier,B3J1G9,College of the Rockies,V1C5L7,3909
+Rachel,Poirier,B3J1G9,Columbia College,V6A0C1,4428
+Rachel,Poirier,B3J1G9,Concordia University,H3G1M8,791
+Rachel,Poirier,B3J1G9,Conestoga College,N2G4M4,1356
+Rachel,Poirier,B3J1G9,Dalhousie University,B3H4R2,1
+Rachel,Poirier,B3J1G9,Douglas College,V3M5Z5,4420
+Rachel,Poirier,B3J1G9,Durham College,L1G0C5,1218
+Rachel,Poirier,B3J1G9,Ecole des Hautes Etudes Commerciales,H3T2A7,794
+Rachel,Poirier,B3J1G9,"Ecole Polytechnique de Montreal, Universite de Montreal",H3T1J4,794
+Rachel,Poirier,B3J1G9,Emily Carr Institute of Art + Design,V5T0H2,4428
+Rachel,Poirier,B3J1G9,King's University College,T6B2H3,3680
+Rachel,Poirier,B3J1G9,Lakehead University,P7B5E1,2013
+Rachel,Poirier,B3J1G9,McGill University,H3A0G4,790
+Rachel,Poirier,B3J1G9,McMaster University,L8S4L8,1315
+Rachel,Poirier,B3J1G9,Memorial University of Newfoundland,A1C5S7,898
+Rachel,Poirier,B3J1G9,Mount Allison University,E4L1E2,155
+Rachel,Poirier,B3J1G9,Mount Royal College,T3E6K6,3765
+Rachel,Poirier,B3J1G9,Mount Saint Vincent University,B3M2J6,7
+Rachel,Poirier,B3J1G9,Nicola Valley Institute of Technology,V1K1R1,4244
+Rachel,Poirier,B3J1G9,Nipissing University,P1B8L7,1260
+Rachel,Poirier,B3J1G9,Queen's University,K7L3N6,1019
+Rachel,Poirier,B3J1G9,Ryerson University,M5B2K3,1264
+Rachel,Poirier,B3J1G9,Simon Fraser University,V5A1S6,4418
+Rachel,Poirier,B3J1G9,St. Francis Xavier University,B2G2W5,164
+Rachel,Poirier,B3J1G9,Trent University,L1J5Y1,1220
+Rachel,Poirier,B3J1G9,Universite de Montreal,H3T1J4,794
+Rachel,Poirier,B3J1G9,Universite de Sherbrooke,J1K2R1,662
+Rachel,Poirier,B3J1G9,Universite Laval,G1V0A6,644
+Rachel,Poirier,B3J1G9,University of Alberta,T6G2R3,3687
+Rachel,Poirier,B3J1G9,University of British Columbia,V6T1Z4,4403
+Rachel,Poirier,B3J1G9,University of Calgary,T2N1N4,3761
+Rachel,Poirier,B3J1G9,University of Guelph,N1G2W1,1333
+Rachel,Poirier,B3J1G9,University of Lethbridge,T1K3M4,3698
+Rachel,Poirier,B3J1G9,University of Manitoba,R3T2N2,2577
+Rachel,Poirier,B3J1G9,University of Moncton,E1A3E9,184
+Rachel,Poirier,B3J1G9,University of New Brunswick,E3B5A3,275
+Rachel,Poirier,B3J1G9,University of Northern British Columbia,V2N4Z9,4300
+Rachel,Poirier,B3J1G9,University of Ontario Institute of Technology,L1G0C5,1218
+Rachel,Poirier,B3J1G9,University of Ottawa,K1N6N5,954
+Rachel,Poirier,B3J1G9,University of Prince Edward Island,C1A4P3,186
+Rachel,Poirier,B3J1G9,University of Quebec,G1K9H7,640
+Rachel,Poirier,B3J1G9,University of Regina,S4S0A2,3105
+Rachel,Poirier,B3J1G9,University of Saskatchewan,S7N5A2,3233
+Rachel,Poirier,B3J1G9,University of Toronto,M5S1A1,1265
+Rachel,Poirier,B3J1G9,"University of Toronto, Mississauga",L5L1C6,1291
+Rachel,Poirier,B3J1G9,"University of Toronto, Scarborough",M1C1A4,1243
+Rachel,Poirier,B3J1G9,University of Victoria,V8P5C2,4472
+Rachel,Poirier,B3J1G9,University of Waterloo,N2L3G1,1360
+Rachel,Poirier,B3J1G9,University of Western Ontario,N6A3K7,1427
+Rachel,Poirier,B3J1G9,University of Windsor,N9B3P4,1589
+Rachel,Poirier,B3J1G9,University of Winnipeg,R3B2E9,2576
+Rachel,Poirier,B3J1G9,Wilfrid Laurier University,N2L3C5,1360
+Rachel,Poirier,B3J1G9,William and Catherine Booth College,R3B2P2,2576
+Rachel,Poirier,B3J1G9,York University,M3J1P3,1270
+Rachel,Poirier,B3J1G9,Yukon College,Y1A5K4,4855
+Zach,Bergeron,K9J5K4,Acadia University,B4P2R6,1099
+Zach,Bergeron,K9J5K4,Athabasca University,T9S3A3,2745
+Zach,Bergeron,K9J5K4,Bishop's University,J1M1Z7,518
+Zach,Bergeron,K9J5K4,Brandon University,R7A6A9,1748
+Zach,Bergeron,K9J5K4,British Columbia Institute of Technology,V5G3H2,3401
+Zach,Bergeron,K9J5K4,Brock University,L2S3A1,154
+Zach,Bergeron,K9J5K4,Canadian Mennonite University,R3P2N2,1558
+Zach,Bergeron,K9J5K4,Carleton University,K1S5B6,235
+Zach,Bergeron,K9J5K4,College of New Caledonia,V2N1P8,3361
+Zach,Bergeron,K9J5K4,College of the Rockies,V1C5L7,2878
+Zach,Bergeron,K9J5K4,Columbia College,V6A0C1,3407
+Zach,Bergeron,K9J5K4,Concordia University,H3G1M8,390
+Zach,Bergeron,K9J5K4,Conestoga College,N2G4M4,204
+Zach,Bergeron,K9J5K4,Dalhousie University,B3H4R2,1162
+Zach,Bergeron,K9J5K4,Douglas College,V3M5Z5,3398
+Zach,Bergeron,K9J5K4,Durham College,L1G0C5,66
+Zach,Bergeron,K9J5K4,Ecole des Hautes Etudes Commerciales,H3T2A7,387
+Zach,Bergeron,K9J5K4,"Ecole Polytechnique de Montreal, Universite de Montreal",H3T1J4,387
+Zach,Bergeron,K9J5K4,Emily Carr Institute of Art + Design,V5T0H2,3408
+Zach,Bergeron,K9J5K4,King's University College,T6B2H3,2733
+Zach,Bergeron,K9J5K4,Lakehead University,P7B5E1,995
+Zach,Bergeron,K9J5K4,McGill University,H3A0G4,391
+Zach,Bergeron,K9J5K4,McMaster University,L8S4L8,178
+Zach,Bergeron,K9J5K4,Memorial University of Newfoundland,A1C5S7,2000
+Zach,Bergeron,K9J5K4,Mount Allison University,E4L1E2,1100
+Zach,Bergeron,K9J5K4,Mount Royal College,T3E6K6,2761
+Zach,Bergeron,K9J5K4,Mount Saint Vincent University,B3M2J6,1156
+Zach,Bergeron,K9J5K4,Nicola Valley Institute of Technology,V1K1R1,3232
+Zach,Bergeron,K9J5K4,Nipissing University,P1B8L7,249
+Zach,Bergeron,K9J5K4,Queen's University,K7L3N6,144
+Zach,Bergeron,K9J5K4,Ryerson University,M5B2K3,117
+Zach,Bergeron,K9J5K4,Simon Fraser University,V5A1S6,3396
+Zach,Bergeron,K9J5K4,St. Francis Xavier University,B2G2W5,1284
+Zach,Bergeron,K9J5K4,Trent University,L1J5Y1,69
+Zach,Bergeron,K9J5K4,Universite de Montreal,H3T1J4,387
+Zach,Bergeron,K9J5K4,Universite de Sherbrooke,J1K2R1,511
+Zach,Bergeron,K9J5K4,Universite Laval,G1V0A6,607
+Zach,Bergeron,K9J5K4,University of Alberta,T6G2R3,2740
+Zach,Bergeron,K9J5K4,University of British Columbia,V6T1Z4,3385
+Zach,Bergeron,K9J5K4,University of Calgary,T2N1N4,2758
+Zach,Bergeron,K9J5K4,University of Guelph,N1G2W1,182
+Zach,Bergeron,K9J5K4,University of Lethbridge,T1K3M4,2666
+Zach,Bergeron,K9J5K4,University of Manitoba,R3T2N2,1552
+Zach,Bergeron,K9J5K4,University of Moncton,E1A3E9,1077
+Zach,Bergeron,K9J5K4,University of New Brunswick,E3B5A3,923
+Zach,Bergeron,K9J5K4,University of Northern British Columbia,V2N4Z9,3361
+Zach,Bergeron,K9J5K4,University of Ontario Institute of Technology,L1G0C5,66
+Zach,Bergeron,K9J5K4,University of Ottawa,K1N6N5,237
+Zach,Bergeron,K9J5K4,University of Prince Edward Island,C1A4P3,1209
+Zach,Bergeron,K9J5K4,University of Quebec,G1K9H7,613
+Zach,Bergeron,K9J5K4,University of Regina,S4S0A2,2086
+Zach,Bergeron,K9J5K4,University of Saskatchewan,S7N5A2,2256
+Zach,Bergeron,K9J5K4,University of Toronto,M5S1A1,117
+Zach,Bergeron,K9J5K4,"University of Toronto, Mississauga",L5L1C6,145
+Zach,Bergeron,K9J5K4,"University of Toronto, Scarborough",M1C1A4,94
+Zach,Bergeron,K9J5K4,University of Victoria,V8P5C2,3439
+Zach,Bergeron,K9J5K4,University of Waterloo,N2L3G1,207
+Zach,Bergeron,K9J5K4,University of Western Ontario,N6A3K7,283
+Zach,Bergeron,K9J5K4,University of Windsor,N9B3P4,449
+Zach,Bergeron,K9J5K4,University of Winnipeg,R3B2E9,1554
+Zach,Bergeron,K9J5K4,Wilfrid Laurier University,N2L3C5,207
+Zach,Bergeron,K9J5K4,William and Catherine Booth College,R3B2P2,1554
+Zach,Bergeron,K9J5K4,York University,M3J1P3,117
+Zach,Bergeron,K9J5K4,Yukon College,Y1A5K4,4091
+Samantha,Walker,V2C1Y3,Acadia University,B4P2R6,4106
+Samantha,Walker,V2C1Y3,Athabasca University,T9S3A3,652
+Samantha,Walker,V2C1Y3,Bishop's University,J1M1Z7,3574
+Samantha,Walker,V2C1Y3,Brandon University,R7A6A9,1432
+Samantha,Walker,V2C1Y3,British Columbia Institute of Technology,V5G3H2,253
+Samantha,Walker,V2C1Y3,Brock University,L2S3A1,3169
+Samantha,Walker,V2C1Y3,Canadian Mennonite University,R3P2N2,1624
+Samantha,Walker,V2C1Y3,Carleton University,K1S5B6,3304
+Samantha,Walker,V2C1Y3,College of New Caledonia,V2N1P8,396
+Samantha,Walker,V2C1Y3,College of the Rockies,V1C5L7,330
+Samantha,Walker,V2C1Y3,Columbia College,V6A0C1,257
+Samantha,Walker,V2C1Y3,Concordia University,H3G1M8,3446
+Samantha,Walker,V2C1Y3,Conestoga College,N2G4M4,3066
+Samantha,Walker,V2C1Y3,Dalhousie University,B3H4R2,4184
+Samantha,Walker,V2C1Y3,Douglas College,V3M5Z5,253
+Samantha,Walker,V2C1Y3,Durham College,L1G0C5,3155
+Samantha,Walker,V2C1Y3,Ecole des Hautes Etudes Commerciales,H3T2A7,3443
+Samantha,Walker,V2C1Y3,"Ecole Polytechnique de Montreal, Universite de Montreal",H3T1J4,3443
+Samantha,Walker,V2C1Y3,Emily Carr Institute of Art + Design,V5T0H2,258
+Samantha,Walker,V2C1Y3,King's University College,T6B2H3,563
+Samantha,Walker,V2C1Y3,Lakehead University,P7B5E1,2196
+Samantha,Walker,V2C1Y3,McGill University,H3A0G4,3446
+Samantha,Walker,V2C1Y3,McMaster University,L8S4L8,3116
+Samantha,Walker,V2C1Y3,Memorial University of Newfoundland,A1C5S7,4755
+Samantha,Walker,V2C1Y3,Mount Allison University,E4L1E2,4060
+Samantha,Walker,V2C1Y3,Mount Royal College,T3E6K6,420
+Samantha,Walker,V2C1Y3,Mount Saint Vincent University,B3M2J6,4176
+Samantha,Walker,V2C1Y3,Nicola Valley Institute of Technology,V1K1R1,69
+Samantha,Walker,V2C1Y3,Nipissing University,P1B8L7,2986
+Samantha,Walker,V2C1Y3,Queen's University,K7L3N6,3308
+Samantha,Walker,V2C1Y3,Ryerson University,M5B2K3,3133
+Samantha,Walker,V2C1Y3,Simon Fraser University,V5A1S6,248
+Samantha,Walker,V2C1Y3,St. Francis Xavier University,B2G2W5,4239
+Samantha,Walker,V2C1Y3,Trent University,L1J5Y1,3156
+Samantha,Walker,V2C1Y3,Universite de Montreal,H3T1J4,3443
+Samantha,Walker,V2C1Y3,Universite de Sherbrooke,J1K2R1,3567
+Samantha,Walker,V2C1Y3,Universite Laval,G1V0A6,3543
+Samantha,Walker,V2C1Y3,University of Alberta,T6G2R3,557
+Samantha,Walker,V2C1Y3,University of British Columbia,V6T1Z4,229
+Samantha,Walker,V2C1Y3,University of Calgary,T2N1N4,424
+Samantha,Walker,V2C1Y3,University of Guelph,N1G2W1,3081
+Samantha,Walker,V2C1Y3,University of Lethbridge,T1K3M4,527
+Samantha,Walker,V2C1Y3,University of Manitoba,R3T2N2,1629
+Samantha,Walker,V2C1Y3,University of Moncton,E1A3E9,4029
+Samantha,Walker,V2C1Y3,University of New Brunswick,E3B5A3,3909
+Samantha,Walker,V2C1Y3,University of Northern British Columbia,V2N4Z9,396
+Samantha,Walker,V2C1Y3,University of Ontario Institute of Technology,L1G0C5,3155
+Samantha,Walker,V2C1Y3,University of Ottawa,K1N6N5,3303
+Samantha,Walker,V2C1Y3,University of Prince Edward Island,C1A4P3,4135
+Samantha,Walker,V2C1Y3,University of Quebec,G1K9H7,3547
+Samantha,Walker,V2C1Y3,University of Regina,S4S0A2,1094
+Samantha,Walker,V2C1Y3,University of Saskatchewan,S7N5A2,952
+Samantha,Walker,V2C1Y3,University of Toronto,M5S1A1,3131
+Samantha,Walker,V2C1Y3,"University of Toronto, Mississauga",L5L1C6,3117
+Samantha,Walker,V2C1Y3,"University of Toronto, Scarborough",M1C1A4,3142
+Samantha,Walker,V2C1Y3,University of Victoria,V8P5C2,329
+Samantha,Walker,V2C1Y3,University of Waterloo,N2L3G1,3060
+Samantha,Walker,V2C1Y3,University of Western Ontario,N6A3K7,3036
+Samantha,Walker,V2C1Y3,University of Windsor,N9B3P4,2949
+Samantha,Walker,V2C1Y3,University of Winnipeg,R3B2E9,1628
+Samantha,Walker,V2C1Y3,Wilfrid Laurier University,N2L3C5,3060
+Samantha,Walker,V2C1Y3,William and Catherine Booth College,R3B2P2,1628
+Samantha,Walker,V2C1Y3,York University,M3J1P3,3119
+Samantha,Walker,V2C1Y3,Yukon College,Y1A5K4,1463
